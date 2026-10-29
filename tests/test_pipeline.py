@@ -72,6 +72,12 @@ def test_body_only_extraction():
     assert x["is_indian_company"]
 
 
+def test_investor_clauses_dropped():
+    from scraper.extract import split_investors
+    assert split_investors("Soundous Moufakir, MoroMaa combines Moroccan beauty traditions") == ["Soundous Moufakir"]
+    assert split_investors("strategic investors and a consortium of CXOs") == []
+
+
 def test_foreign_company_flagged():
     x = heuristic_extract({"url": "u", "title": "US-based Acme raises $5 million in seed round", "description": "", "body": ""})
     assert x and not x["is_indian_company"]

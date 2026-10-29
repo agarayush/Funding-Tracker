@@ -50,6 +50,8 @@ def split_investors(text):
     for p in parts:
         p = re.sub(r"^(?:with participation from|participation from|along with|including)\s+", "", p.strip(), flags=re.I)
         p = re.sub(r"^(?:others|existing investors|other investors|clutch of investors)$", "", p.strip(" .,"), flags=re.I)
+        if p and (p[0].islower() or len(p.split()) > 6 or re.search(r"\b(is|are|was|has|combines|builds|offers)\b", p)):
+            continue  # a clause, not an investor name
         if p and len(p) < 70 and not re.search(r"\b(?:others|other (?:angel )?investors|angels?)$", p, re.I):
             out.append(p)
     return out
@@ -159,7 +161,7 @@ def heuristic_extract(art):
     for s in sentences[:15]:
         low = s.lower()
         if (key in low or low.startswith(("founded", "the startup", "the company", "the platform", "it "))) \
-                and not AMOUNT_RX.search(s) and not re.search(r"\b(raised|funding|round|investors?|led by)\b", low):
+                and not AMOUNT_RX.search(s) and not re.search(r"\b(raised|funding|round|investors?|investment|led by|capital|funds|proceeds)\b", low):
             brief_parts.append(s)
             break
     if not brief_parts and deal_sentence:
