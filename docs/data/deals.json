@@ -3,7 +3,7 @@
   "id": "512cb6c23963",
   "date": "2026-10-29",
   "company": "Let’s Game Now",
-  "company_brief": "Let’s Game Now is an Indian gaming and esports company. The company will use the fresh capital to accelerate the development of the Indian Super Gaming League (ISGL), its franchise-based gaming league.",
+  "company_brief": "Let’s Game Now is an Indian gaming and esports company. The company organises online tournaments, large-scale offline events and live broadcasting services across South Asia and Southeast Asia.",
   "sector": "Media, Gaming & Content",
   "sub_sector": "Indian gaming and esports company",
   "round": "Undisclosed",
@@ -14,9 +14,7 @@
    "Anand Mahindra",
    "Bestvantage Investments"
   ],
-  "investors": [
-   "in the round"
-  ],
+  "investors": [],
   "city": "",
   "use_of_funds": "accelerate the development of the Indian Super Gaming League (ISGL), its franchise-based gaming league",
   "headline": "Let’s Game Now Raises Rs 30 Crore in Funding Round",
@@ -32,7 +30,7 @@
   "id": "1eec0558e58b",
   "date": "2026-10-28",
   "company": "dubdub",
-  "company_brief": "The company will use the funds to expand its product and engineering teams, introduce new interactive formats and improve personalisation.",
+  "company_brief": "Launched in March 2026, dubdub has crossed 20,000 downloads.",
   "sector": "Media, Gaming & Content",
   "sub_sector": "",
   "round": "Seed",
@@ -44,11 +42,7 @@
    "Antler",
    "Stellaris"
   ],
-  "investors": [
-   "general knowledge",
-   "mythology",
-   "puzzles"
-  ],
+  "investors": [],
   "city": "",
   "use_of_funds": "expand its product and engineering teams, introduce new interactive formats and improve personalisation",
   "headline": "dubdub Raises $1.3 Million in Seed Round Led by 3one4 Capital, Antler and Stellaris",
@@ -88,7 +82,7 @@
   "id": "fd954ea105f4",
   "date": "2026-10-28",
   "company": "QwikBuild",
-  "company_brief": "The startup plans to use the fresh capital to support its go-to-market activities, establish a team in the US and expand operations across Southeast Asia.",
+  "company_brief": "Read Also - CHOSEN Raises Series A Extension from Wellbeing Nutrition Founders\nQwikBuild is an enterprise AI platform that helps businesses build custom software and AI agents to manage business operations.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Pre-Seed",
@@ -98,9 +92,7 @@
   "lead_investors": [
    "Globalway"
   ],
-  "investors": [
-   "the funding"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "support its go-to-market activities, establish a team in the US and expand operations across Southeast Asia",
   "headline": "QwikBuild Raises $2.3 Million in Pre-Seed Round Led by Globalway",
@@ -116,7 +108,7 @@
   "id": "8d8e14ff143d",
   "date": "2026-10-28",
   "company": "CHOSEN",
-  "company_brief": "CHOSEN is a Chennai-based skincare brand. The company will use the fresh capital to strengthen its research and development (R&D) capabilities and expand its product pipeline across skincare and nutraceuticals.",
+  "company_brief": "CHOSEN is a Chennai-based skincare brand. Founded in 2020 by Renita Rajan, CHOSEN develops skincare products for melanin-rich Indian skin.",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "Chennai-based skincare brand",
   "round": "Series A",
@@ -146,7 +138,7 @@
   "id": "8ad3a6cc627a",
   "date": "2026-10-27",
   "company": "Troovy",
-  "company_brief": "Troovy is a Gurugram-based children's food and snacking startup. The company will use the fresh capital to strengthen research and development, expand manufacturing capacity and grow distribution across quick-commerce platforms and offline retail.",
+  "company_brief": "Troovy is a Gurugram-based children's food and snacking startup. The company builds products through its “Build Together” approach, which involves collecting feedback from parents and children during product development.",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "Gurugram-based children's food and snacking startup",
   "round": "Series B",
@@ -178,7 +170,7 @@
   "id": "3175d0d35673",
   "date": "2026-10-27",
   "company": "Simplismart",
-  "company_brief": "The company will use the funds to further develop its AI inference platform, expand its partnerships with cloud providers and sovereign AI initiatives, and strengthen its presence in North America and other global markets.",
+  "company_brief": "Simplismart builds software that connects AI models with GPU infrastructure.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Series B",
@@ -209,7 +201,7 @@
   "id": "a944a45b3cf3",
   "date": "2026-10-27",
   "company": "Rotoris",
-  "company_brief": "Rotoris is an Indian independent watch brand. The company will use the fresh capital for research and development, expanding production capacity and strengthening its retail presence in India and international markets.",
+  "company_brief": "Rotoris is an Indian independent watch brand. The company operates through the Registry, an invitation-based membership system that gives customers access to its collections.",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "Indian independent watch brand",
   "round": "Series A",
@@ -222,12 +214,9 @@
   "investors": [
    "9Unicorns",
    "Centricity",
-   "several family offices",
-   "individual investors",
    "Diwakar Goel",
    "Atul Singh",
-   "Adhiraj Burman",
-   "actor Rannvijay Singha"
+   "Adhiraj Burman"
   ],
   "city": "Gurugram",
   "use_of_funds": "research and development, expanding production capacity and strengthening its retail presence in India and international markets",
@@ -248,7 +237,7 @@
   "id": "f3a33b9a64ff",
   "date": "2026-10-27",
   "company": "ReplyAll",
-  "company_brief": "ReplyAll is a Bengaluru-based direct-to-consumer performance wear brand. The company will use the fresh capital to invest in fabric research and development, product design, new product categories, and its retail and community presence.",
+  "company_brief": "ReplyAll is a Bengaluru-based direct-to-consumer performance wear brand. Read Also - Protectt.ai takes controlling stake in Bosch-incubated AIShield to build security platform\nReplyAll is an apparel brand that focuses on performance wear for everyday use.",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "Bengaluru-based direct-to-consumer performance wear brand",
   "round": "Pre-Series A",
@@ -261,8 +250,7 @@
   ],
   "investors": [
    "Sparrow",
-   "Antler",
-   "and angel investors"
+   "Antler"
   ],
   "city": "Bengaluru",
   "use_of_funds": "invest in fabric research and development, product design, new product categories, and its retail and community presence",
@@ -279,7 +267,7 @@
   "id": "836481a2e367",
   "date": "2026-10-27",
   "company": "Nova Spectral AI",
-  "company_brief": "Nova Spectral AI is a Bengaluru-based semiconductor startup developing infrared image sensor chips. It plans to use the fresh capital to build its team and develop a field-ready prototype within 18 months.",
+  "company_brief": "Nova Spectral AI is a Bengaluru-based semiconductor startup developing infrared image sensor chips. The startup is developing lead-free colloidal quantum dot (cQD) SWIR sensors using standard silicon complementary metal-oxide-semiconductor (CMOS) manufacturing processes.",
   "sector": "AI & Deeptech",
   "sub_sector": "Bengaluru-based semiconductor startup developing infrared im",
   "round": "Seed",
@@ -290,8 +278,7 @@
    "Shastra VC"
   ],
   "investors": [
-   "Equirus InnovateX Fund",
-   "angel investors"
+   "Equirus InnovateX Fund"
   ],
   "city": "Bengaluru",
   "use_of_funds": "build its team and develop a field-ready prototype within 18 months",
@@ -320,8 +307,7 @@
   ],
   "investors": [
    "Coinbase Ventures",
-   "Nicky Montana",
-   "general partner at Zero Knowledge Ventures"
+   "Nicky Montana"
   ],
   "city": "",
   "use_of_funds": "improve its trading engine and risk infrastructure and attract more Indian traders",
@@ -338,7 +324,7 @@
   "id": "bf400cd6b3a9",
   "date": "2026-10-27",
   "company": "Maasi",
-  "company_brief": "Maasi is a Bengaluru-based childcare startup. The company will use the funds to expand caregiver recruitment and training, develop its technology platform and grow its Bengaluru team.",
+  "company_brief": "Maasi is a Bengaluru-based childcare startup. Maasi provides trained and verified nannies to families seeking reliable childcare at home.",
   "sector": "HR & Workforce",
   "sub_sector": "Bengaluru-based childcare startup",
   "round": "Pre-Seed",
@@ -349,8 +335,7 @@
    "Better Capital"
   ],
   "investors": [
-   "Antler India",
-   "several angel investors"
+   "Antler India"
   ],
   "city": "Bengaluru",
   "use_of_funds": "expand caregiver recruitment and training, develop its technology platform and grow its Bengaluru team",
@@ -367,7 +352,7 @@
   "id": "380f900e1132",
   "date": "2026-10-27",
   "company": "Live2.ai",
-  "company_brief": "Live2.ai is an AI-powered social intelligence and commerce platform. The company will use the funds to develop its AI agent platform, expand enterprise deployments, strengthen cloud infrastructure across North America, Europe and Asia-Pacific, and hire engineers, data scientists and customer success professionals.",
+  "company_brief": "Live2.ai is an AI-powered social intelligence and commerce platform. The platform monitors conversations on Instagram, TikTok, YouTube, Reddit, X and review websites.",
   "sector": "AI & Deeptech",
   "sub_sector": "AI-powered social intelligence and commerce platform",
   "round": "Pre-Series B",
@@ -377,9 +362,7 @@
   "lead_investors": [
    "IvyCap Ventures"
   ],
-  "investors": [
-   "the industry"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "develop its AI agent platform, expand enterprise deployments, strengthen cloud infrastructure across North America, Europe and Asia-Pacific, and hire engineers, data scientists and customer success pr",
   "headline": "Live2.ai Raises Rs 130 Crore in Pre-Series B Round Led by IvyCap Ventures",
@@ -410,7 +393,6 @@
    "Blume Ventures"
   ],
   "investors": [
-   "individual investors Arun Sarin",
    "Srinivas Narayanan",
    "Sharath Narayana",
    "Aprameya Radhakrishna",
@@ -461,7 +443,7 @@
   "id": "0d4fbda3756a",
   "date": "2026-10-26",
   "company": "Matiks",
-  "company_brief": "Matiks is a Bengaluru-based social gaming startup. Matiks will use the fresh capital to expand internationally, develop new games and strengthen its technology.",
+  "company_brief": "Matiks is a Bengaluru-based social gaming startup. The company also plans to build an AI-powered platform that will let users create and publish their own social games without coding.",
   "sector": "Media, Gaming & Content",
   "sub_sector": "Bengaluru-based social gaming startup",
   "round": "Pre-Series A",
@@ -473,8 +455,6 @@
   ],
   "investors": [
    "Ronnie Screwvala",
-   "founder of upgrad",
-   "and existing investors Info Edge Ventures",
    "Tanglin Venture Partners",
    "Untitled Ventures"
   ],
@@ -497,7 +477,7 @@
   "id": "008fc25e6067",
   "date": "2026-10-26",
   "company": "Bucketlistt.com",
-  "company_brief": "Bucketlistt.com is an Ahmedabad-based travel experiences marketplace. The startup will use the funds to strengthen its technology, onboard more experience providers and expand into new destinations, starting with Manali and Bir.",
+  "company_brief": "Bucketlistt.com is an Ahmedabad-based travel experiences marketplace. Founded in 2025, Bucketlistt.com helps travellers discover and book verified travel experiences across India.",
   "sector": "Travel & Hospitality",
   "sub_sector": "Ahmedabad-based travel experiences marketplace",
   "round": "Seed",
@@ -553,7 +533,7 @@
   "id": "6723251b643f",
   "date": "2026-10-22",
   "company": "TravClan",
-  "company_brief": "TravClan is a B2B travel technology platform. The company will use the fresh capital to expand its international travel supply network, strengthen its AI and booking technology, and improve destination operations across key markets.",
+  "company_brief": "TravClan is a B2B travel technology platform. The company also plans to strengthen its booking technology and develop infrastructure that can support larger travel businesses and platforms.",
   "sector": "Travel & Hospitality",
   "sub_sector": "B2B travel technology platform",
   "round": "Pre-Series A",
@@ -566,8 +546,7 @@
   "investors": [
    "Leo Capital",
    "The Ventures",
-   "Hashed",
-   "a group of angel investors"
+   "Hashed"
   ],
   "city": "",
   "use_of_funds": "expand its international travel supply network, strengthen its AI and booking technology, and improve destination operations across key markets",
@@ -584,8 +563,8 @@
   "id": "f79e4e4628f8",
   "date": "2026-10-22",
   "company": "TravClan",
-  "company_brief": "TravClan is a traveltech startup. TravClan said it will use the funds to expand its global supply network, enhance its technology and AI capabilities, and strengthen destination operations across key international markets.",
-  "sector": "AI & Deeptech",
+  "company_brief": "TravClan is a traveltech startup. TravClan provides a technology platform that integrates supply, technology and fulfilment infrastructure for travel businesses.",
+  "sector": "Travel & Hospitality",
   "sub_sector": "traveltech startup",
   "round": "Debt",
   "amount_text": "$5M",
@@ -638,7 +617,7 @@
   "id": "f773206a38b0",
   "date": "2026-10-22",
   "company": "Karta AI",
-  "company_brief": "Karta AI is an agentic AI startup. The company will use the funds to expand its go-to-market strategy, strengthen distribution and develop new AI capabilities.",
+  "company_brief": "Karta AI is an agentic AI startup. The startup focuses on complex customer queries that require coordination across multiple enterprise systems.",
   "sector": "AI & Deeptech",
   "sub_sector": "agentic AI startup",
   "round": "Seed",
@@ -681,7 +660,6 @@
   "investors": [
    "Indian Angel Network (IAN)",
    "Samved VC also participated",
-   "new investors Blume Founders Fund",
    "Brijesh Parekh Family Office",
    "Epigamia co-founder Rahul Jain"
   ],
@@ -700,7 +678,7 @@
   "id": "b556271cfb4f",
   "date": "2026-10-22",
   "company": "CureBay",
-  "company_brief": "CureBay is a healthtech startup focused on rural healthcare. The company will use the funds to expand its geographic presence, strengthen its healthcare delivery network and invest in artificial intelligence (AI) and technology.",
+  "company_brief": "CureBay is a healthtech startup focused on rural healthcare. The platform connects patients with doctors, hospitals, diagnostic laboratories and pharmacies, helping them access healthcare closer to their communities.",
   "sector": "Healthtech & Biotech",
   "sub_sector": "healthtech startup focused on rural healthcare",
   "round": "Pre-Series C",
@@ -730,7 +708,7 @@
   "id": "8996972bc81c",
   "date": "2026-10-22",
   "company": "Chapter Homes",
-  "company_brief": "Chapter Homes is a home and kitchen products startup founded by former PharmEasy executives. The company plans to use the capital to develop new products, enter additional categories, strengthen its technology and brand, and expand its distribution network.",
+  "company_brief": "Chapter Homes is a home and kitchen products startup founded by former PharmEasy executives. The company follows an omnichannel model that combines online sales with physical retail.",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "home and kitchen products startup",
   "round": "Seed",
@@ -740,9 +718,7 @@
   "lead_investors": [],
   "investors": [
    "Bessemer Venture Partners",
-   "Stride Ventures",
-   "comedian Tanmay Bhat",
-   "several family offices"
+   "Stride Ventures"
   ],
   "city": "",
   "use_of_funds": "develop new products, enter additional categories, strengthen its technology and brand, and expand its distribution network",
@@ -769,9 +745,7 @@
   "lead_investors": [],
   "investors": [
    "Bessemer Venture Partners",
-   "Stride Ventures",
-   "influencer Tanmay Bhat",
-   "and select family offices"
+   "Stride Ventures"
   ],
   "city": "",
   "use_of_funds": "product development, expansion into newer categories, and investment into technology",
@@ -816,7 +790,7 @@
   "id": "d8ea309f2d59",
   "date": "2026-10-20",
   "company": "Hunar.AI",
-  "company_brief": "The company serves businesses with large frontline workforces, including Swiggy, Delhivery, Instamart, Pronto, Blue Dart, flipkart , Aditya Birla Capital and Tata Croma.",
+  "company_brief": "The company aims to improve its technology for industries where businesses need to hire large numbers of workers across different locations and languages.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Series A",
@@ -832,8 +806,7 @@
    "Seedstars",
    "AVNM Ventures",
    "PhysicsWallah co-founders Prateek Maheshwari",
-   "Alakh Pandey",
-   "and MediaMint co-founder Aditya Vuchi"
+   "Alakh Pandey"
   ],
   "city": "Hyderabad",
   "use_of_funds": "build its AI infrastructure, develop its products and expand its go-to-market operations",
@@ -865,8 +838,10 @@
    "Mirae Asset"
   ],
   "investors": [
-   "alongside family offices",
-   "angel investors"
+   "B",
+   "K Securities",
+   "MGA Ventures",
+   "B2V Ventures"
   ],
   "city": "",
   "use_of_funds": "expand its offline presence and broaden its menswear portfolio",
@@ -900,7 +875,6 @@
   "investors": [
    "Mokobara co-founders Sangeet Agrawal",
    "Navin Parwal",
-   "the Chona family office behind HOCCO Ice Creams",
    "Haleon South Asia president Kedar Lele",
    "Moonshot co-founder Devaiah Bopanna"
   ],
@@ -930,9 +904,7 @@
    "Khosla Ventures",
    "Alpha Wave"
   ],
-  "investors": [
-   "in the round"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "expand its hospital network in Bengaluru",
   "headline": "Even Healthcare Secures $50 million to Expand its Hospital Network Across Bengaluru",
@@ -987,7 +959,7 @@
   "id": "8720f60c0196",
   "date": "2026-10-16",
   "company": "Origin",
-  "company_brief": "Origin is a physical AI startup building robots for interior construction. As part of the investment, Zacua Ventures founding partner Vivin Hegde has joined Origin's board as a director.",
+  "company_brief": "Origin is a physical AI startup building robots for interior construction. Origin also plans to expand its robotics platform to additional construction tasks, including taping, drywall installation, drilling and conduit installation.",
   "sector": "Real Estate & Proptech",
   "sub_sector": "physical AI startup building robots for interior constructio",
   "round": "Undisclosed",
@@ -1066,7 +1038,7 @@
   "id": "210b5484ba20",
   "date": "2026-10-15",
   "company": "Scimplify",
-  "company_brief": "The company will use the fresh capital to expand its research, processing and manufacturing capabilities, scale its semiconductor and battery chemicals businesses, and strengthen its agentic AI platform, SciNode.",
+  "company_brief": "The company offers contract research, product development and commercial manufacturing services across sectors including agrochemicals, active pharmaceutical ingredients and fragrances.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Undisclosed",
@@ -1108,9 +1080,7 @@
    "Accel",
    "Prosus Ventures"
   ],
-  "investors": [
-   "in the round"
-  ],
+  "investors": [],
   "city": "",
   "use_of_funds": "develop its products, expand its engineering team, and advance its commercial plans",
   "headline": "Cosmochute Raises $1.5 Million in Pre-Seed Round Led by Accel and Prosus Ventures",
@@ -1126,7 +1096,7 @@
   "id": "3c1f6e2a3d18",
   "date": "2026-10-15",
   "company": "Banaraswala",
-  "company_brief": "Banaraswala is a food brand specialising in traditional Banarasi cuisine. The company will use the funds to expand its outlets, introduce new menu offerings and grow its franchise network across India.",
+  "company_brief": "Banaraswala is a food brand specialising in traditional Banarasi cuisine. The company currently operates three outlets across Delhi and also sells its food through major online delivery platforms.",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "food brand specialising in traditional Banarasi cuisine",
   "round": "Seed",
@@ -1150,8 +1120,8 @@
   "id": "2e571606f456",
   "date": "2026-10-14",
   "company": "Toothsi Parent MakeO",
-  "company_brief": "The company will use the fresh capital to expand its offline presence across India and Southeast Asia, strengthen manufacturing, improve consumer experience and invest in technology.",
-  "sector": "Manufacturing & Industrial",
+  "company_brief": "It is also evaluating acquisitions of dental clinic chains and aligner businesses.",
+  "sector": "Healthtech & Biotech",
   "sub_sector": "",
   "round": "Undisclosed",
   "amount_text": "Rs 90 Crore",
@@ -1160,9 +1130,7 @@
   "lead_investors": [
    "Singularity AMC"
   ],
-  "investors": [
-   "in the round"
-  ],
+  "investors": [],
   "city": "Mumbai",
   "use_of_funds": "expand its offline presence across India and Southeast Asia, strengthen manufacturing, improve consumer experience and invest in technology",
   "headline": "Toothsi Parent MakeO Raises Rs 90 Crore in Funding Led by Singularity AMC",
@@ -1185,13 +1153,10 @@
   "amount_text": "$15M",
   "amount_usd_mn": 15.0,
   "amount_inr_cr": 132.0,
-  "lead_investors": [
-   "venture capital firm Peak XV Partners"
-  ],
+  "lead_investors": [],
   "investors": [
    "Blume Ventures",
    "Omnivore",
-   "alongside separate debt funding of Rs 110 crore from IDFC",
    "Axis Bank"
   ],
   "city": "Chennai",
@@ -1268,7 +1233,7 @@
   "id": "5ac75e6598f9",
   "date": "2026-10-14",
   "company": "RevRag AI",
-  "company_brief": "The company will use the funds to accelerate product development, expand enterprise deployments and support its entry into the US market.",
+  "company_brief": "RevRag AI develops multilingual AI agents for banks, lenders, fintech and insurance companies.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Seed",
@@ -1278,9 +1243,7 @@
   "lead_investors": [
    "Accion Ventures"
   ],
-  "investors": [
-   "in the round"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "accelerate product development, expand enterprise deployments and support its entry into the US market",
   "headline": "RevRag AI Raises $2.5 Million in Seed Round Led by Accion Ventures",
@@ -1296,7 +1259,7 @@
   "id": "da1fddfd1c37",
   "date": "2026-10-14",
   "company": "OXG Space",
-  "company_brief": "The company will use the fresh capital to support Mission Synapse, a 12-month programme to test its core technologies in orbit.",
+  "company_brief": "OXG Space is developing an orbital network that combines satellite connectivity with in-orbit computing to process Earth observation data and deliver insights faster.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Seed",
@@ -1322,8 +1285,8 @@
   "id": "6bdaeecd1440",
   "date": "2026-10-14",
   "company": "Circle",
-  "company_brief": "The company will use the fresh capital to expand beyond Bengaluru, improve its AI-powered pricing, product discovery and verification tools, and strengthen its logistics network and Trust Hubs.",
-  "sector": "AI & Deeptech",
+  "company_brief": "It helps individuals buy and sell used products by managing verification, payments, logistics and seller payouts without owning inventory.",
+  "sector": "Logistics & Supply Chain",
   "sub_sector": "",
   "round": "Seed",
   "amount_text": "Rs 25 Crore",
@@ -1333,9 +1296,7 @@
    "Nexus Venture Partners"
   ],
   "investors": [
-   "Titan Capital",
-   "myntra co-founder Raveen Sastry participated",
-   "while Delhivery COO Ajith Pai joined as an angel investor"
+   "Titan Capital"
   ],
   "city": "Bengaluru",
   "use_of_funds": "expand beyond Bengaluru, improve its AI-powered pricing, product discovery and verification tools, and strengthen its logistics network and Trust Hubs",
@@ -1352,7 +1313,7 @@
   "id": "2efd8f5d08ee",
   "date": "2026-10-13",
   "company": "wudhomes",
-  "company_brief": "The company will use the fresh capital to build a vertically integrated supply chain, develop in-house technology, improve its retail experience, and expand its operational capabilities.",
+  "company_brief": "Founded in 2025, wudhomes began with furniture and plans to address the broader home-furnishing process.",
   "sector": "Logistics & Supply Chain",
   "sub_sector": "",
   "round": "Pre-Seed",
@@ -1362,9 +1323,7 @@
   "lead_investors": [
    "AJVC"
   ],
-  "investors": [
-   "in the round"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "build a vertically integrated supply chain, develop in-house technology, improve its retail experience, and expand its operational capabilities",
   "headline": "wudhomes Raises Rs 2.5 Crore in Pre-Seed Round Led by AJVC",
@@ -1380,7 +1339,7 @@
   "id": "7146823e9da1",
   "date": "2026-10-13",
   "company": "ThinkMetal",
-  "company_brief": "ThinkMetal is an advanced materials and manufacturing startup. The company will use the fresh capital to develop its products, expand research and development capabilities, strengthen its team, and increase adoption among industrial customers.",
+  "company_brief": "ThinkMetal is an advanced materials and manufacturing startup. Founded by Sabyasachi Ghosh and Arushi Sharma, the company combines advanced materials, manufacturing processes, and industrial systems to reduce production time and dependence on imported technologies.",
   "sector": "Manufacturing & Industrial",
   "sub_sector": "advanced materials and manufacturing startup",
   "round": "Pre-Seed",
@@ -1408,7 +1367,7 @@
   "id": "1e6f3fae6276",
   "date": "2026-10-13",
   "company": "NuSynth Technologies",
-  "company_brief": "NuSynth Technologies is a Bengaluru-based chemical process innovation startup. The company will use the fresh capital to strengthen its research and development (R&D) and technology capabilities, develop its first portfolio of proprietary chemical processes, improve scale-up capabilities, and expand its team.",
+  "company_brief": "NuSynth Technologies is a Bengaluru-based chemical process innovation startup. The startup uses predictive synthesis models and an AI engine to analyse experimental data and guide future research.",
   "sector": "Manufacturing & Industrial",
   "sub_sector": "Bengaluru-based chemical process innovation startup",
   "round": "Seed",
@@ -1459,7 +1418,7 @@
   "id": "9299e7e06080",
   "date": "2026-10-13",
   "company": "Mesa School of Business",
-  "company_brief": "Mesa will use the funds to integrate artificial intelligence (AI) into its programmes, launch new courses, strengthen its leadership team and build partnerships with startups.",
+  "company_brief": "Founded by Ankit Agarwal and Varun Limaye, the school aims to prepare students for roles in the startup ecosystem through hands-on learning.",
   "sector": "Edtech",
   "sub_sector": "",
   "round": "Series A",
@@ -1513,7 +1472,7 @@
   "id": "f9c870600182",
   "date": "2026-10-13",
   "company": "Clueso",
-  "company_brief": "Clueso is an AI-powered video platform for businesses. Founded in 2023 by IIT Madras alumni Akash Anand, Prajwal Prakash, and Neel Balar, Clueso will use the fresh capital to expand its enterprise sales reach, strengthen its AI agent technology, and improve its video editing capabilities.",
+  "company_brief": "Clueso is an AI-powered video platform for businesses. The platform supports marketing, customer success, employee onboarding, training, and education.",
   "sector": "AI & Deeptech",
   "sub_sector": "AI-powered video platform for businesses",
   "round": "Series A",
@@ -1524,8 +1483,7 @@
    "Dharana Capital"
   ],
   "investors": [
-   "existing investors Y Combinator",
-   "f7 Ventures"
+   "Y Combinator"
   ],
   "city": "Bengaluru",
   "use_of_funds": "expand its enterprise sales reach, strengthen its AI agent technology, and improve its video editing capabilities",
@@ -1546,7 +1504,7 @@
   "id": "8550578a1cb4",
   "date": "2026-10-13",
   "company": "Boldfit",
-  "company_brief": "Boldfit is a Bengaluru-based sports and fitness brand. The company will use the fresh capital to expand its retail presence across India, invest in product innovation, strengthen manufacturing capabilities, and explore selective acquisitions.",
+  "company_brief": "Boldfit is a Bengaluru-based sports and fitness brand. The company says it serves more than 2 crore customers annually across India.",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "Bengaluru-based sports and fitness brand",
   "round": "Series B",
@@ -1556,9 +1514,7 @@
   "lead_investors": [
    "Bharat Value Fund"
   ],
-  "investors": [
-   "in the round"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "expand its retail presence across India, invest in product innovation, strengthen manufacturing capabilities, and explore selective acquisitions",
   "headline": "Boldfit Raises Rs 400 Crore in Series B Round Led by Bharat Value Fund",
@@ -1574,7 +1530,7 @@
   "id": "8ce47fd762f3",
   "date": "2026-10-10",
   "company": "Nat Habit",
-  "company_brief": "The company will use the fresh capital to expand its product portfolio, strengthen its formulation and manufacturing capabilities, and scale distribution across quick commerce platforms and offline retail channels.",
+  "company_brief": "“ We started Nat Habit with a simple belief: natural personal care should never require consumers to compromise on freshness or efficacy.",
   "sector": "Manufacturing & Industrial",
   "sub_sector": "",
   "round": "Series C",
@@ -1588,7 +1544,6 @@
    "Bertelsmann India Investments",
    "Mirabilis Investment Trust",
    "Sharrp Ventures also participated",
-   "alongside new investors Physis Capital",
    "Hero Family Office"
   ],
   "city": "Bengaluru",
@@ -1606,7 +1561,7 @@
   "id": "eb9eed866a5a",
   "date": "2026-10-09",
   "company": "TailBlaze Longevity",
-  "company_brief": "The startup will use the funds to launch its wet dog food range HeartPour, expand its team in Ahmedabad, and reach more pet parents across India.",
+  "company_brief": "The company was also featured on Bharat Ke Superfounders .",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "",
   "round": "Pre-Seed",
@@ -1700,8 +1655,7 @@
   "amount_inr_cr": 450.0,
   "lead_investors": [
    "NABVENTURES",
-   "KisaanSay",
-   "with the investment made through the AgriSURE fund"
+   "KisaanSay"
   ],
   "investors": [],
   "city": "",
@@ -1755,8 +1709,7 @@
   ],
   "investors": [
    "Nine Jewellery",
-   "Bollywood actress Nikita Dutta",
-   "several angel investors"
+   "Bollywood actress Nikita Dutta"
   ],
   "city": "Delhi",
   "use_of_funds": "strengthen the team, increase marketing activities, improve supply chain infrastructure, expand the product portfolio and grow the brand’s presence across India",
@@ -1773,7 +1726,7 @@
   "id": "ed9df19df381",
   "date": "2026-10-08",
   "company": "The Dough Therapy",
-  "company_brief": "The fresh capital will support the brand’s expansion in Mumbai and its plans to enter new markets across India.",
+  "company_brief": "The brand began with a single outlet in Mumbai and has since grown to 10 outlets, offering more than 30 varieties of vegetarian and vegan gourmet pizzas.",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "",
   "round": "Seed",
@@ -1812,7 +1765,6 @@
    "Xponentia Capital"
   ],
   "investors": [
-   "include 360 One Asset",
    "Trifecta Capital"
   ],
   "city": "",
@@ -1845,7 +1797,6 @@
    "Elevar Equity"
   ],
   "investors": [
-   "existing investors Kalaari Capital",
    "The Michael",
    "Susan Dell Foundation"
   ],
@@ -1888,7 +1839,7 @@
   "id": "9691f9dc1faf",
   "date": "2026-10-07",
   "company": "Sunfox Technologies",
-  "company_brief": "The company will use the fresh capital to expand its portable cardiac diagnostics platform Spandan across India, strengthen its team and invest in R&D, clinical evidence, engineering and new cardiac technologies.",
+  "company_brief": "Sunfox will also build regulatory, distribution and commercial capabilities across the US, Europe and Africa.",
   "sector": "Healthtech & Biotech",
   "sub_sector": "",
   "round": "Series A",
@@ -1918,7 +1869,7 @@
   "id": "421756eb8e92",
   "date": "2026-10-07",
   "company": "Recur Club",
-  "company_brief": "Recur Club is a debt platform for startups and SMEs. Recur Club noted that D2C brands typically require additional capital for the forthcoming festive season to build inventory and expand their presence.",
+  "company_brief": "Recur Club is a debt platform for startups and SMEs. For store and capacity expansion, Recur Club will help acquire equipment and fit-outs for new stores, with brands paying a monthly rental until the financing is repaid, turning capex into opex.",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "debt platform for startups and SMEs",
   "round": "Debt",
@@ -1942,7 +1893,7 @@
   "id": "1e5a99a15e0f",
   "date": "2026-10-07",
   "company": "Quanfluence",
-  "company_brief": "The company plans to use the fresh capital to develop its full-stack photonic quantum computing system and build its next-generation quantum processors.",
+  "company_brief": "Quanfluence has already commercialised its optical Ising machine.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Seed",
@@ -1953,8 +1904,7 @@
    "Chiratae Ventures"
   ],
   "investors": [
-   "Rainmatter by zerodha",
-   "existing investor Pi Ventures"
+   "Rainmatter by zerodha"
   ],
   "city": "Bengaluru",
   "use_of_funds": "develop its full-stack photonic quantum computing system and build its next-generation quantum processors",
@@ -1975,7 +1925,7 @@
   "id": "9fa1cc209cf9",
   "date": "2026-10-07",
   "company": "Lumio",
-  "company_brief": "The company will use the fresh capital to invest in product development, enter new categories, strengthen its software platform, expand retail presence and improve customer experience.",
+  "company_brief": "The company launched its first smart TV lineup in early 2025 and has since expanded into projectors and speakers.",
   "sector": "Manufacturing & Industrial",
   "sub_sector": "consumer tech brand from Circuit House Technologies",
   "round": "Series A",
@@ -1986,7 +1936,6 @@
    "Blume Ventures"
   ],
   "investors": [
-   "existing investors Stellaris Venture Partners",
    "3one4 Capital"
   ],
   "city": "",
@@ -2008,18 +1957,14 @@
   "id": "19f3318542d0",
   "date": "2026-10-07",
   "company": "Ionage",
-  "company_brief": "Ionage plans to use the fresh capital to expand its platform coverage, improve charger discovery and payments, and support small and medium-sized charge point operators (CPOs).",
+  "company_brief": "The platform works as a common infrastructure layer for EV charging, allowing users to discover, access and pay for chargers across different networks.",
   "sector": "Climate & Cleantech",
   "sub_sector": "",
   "round": "Pre-Series A",
   "amount_text": "$1.3 Million",
   "amount_usd_mn": 1.3,
   "amount_inr_cr": 11.44,
-  "lead_investors": [
-   "strategic investors",
-   "a consortium of CXOs from global energy",
-   "infrastructure companies"
-  ],
+  "lead_investors": [],
   "investors": [],
   "city": "",
   "use_of_funds": "expand its platform coverage, improve charger discovery and payments, and support small and medium-sized charge point operators (CPOs)",
@@ -2036,7 +1981,7 @@
   "id": "e4692afd663c",
   "date": "2026-10-07",
   "company": "FirstCry-backed Swara Baby Products",
-  "company_brief": "The company plans to use the fresh capital for a new manufacturing facility in Madhya Pradesh, debt repayment and acquisitions.",
+  "company_brief": "FirstCry-backed Swara Baby Products has received SEBI approval for its Rs 1,000 crore IPO, comprising a Rs 500 crore fresh issue and a Rs 500 crore offer for sale.",
   "sector": "SaaS & Enterprise Tech",
   "sub_sector": "",
   "round": "Undisclosed",
@@ -2044,8 +1989,7 @@
   "amount_usd_mn": 113.636,
   "amount_inr_cr": 1000.0,
   "lead_investors": [
-   "Fireside Ventures",
-   "as the Bengaluru-based smart kitchen appliances startup looks"
+   "Fireside Ventures"
   ],
   "investors": [],
   "city": "",
@@ -2063,7 +2007,7 @@
   "id": "6ec1c968335b",
   "date": "2026-10-07",
   "company": "Desible.ai",
-  "company_brief": "The company will use the fresh capital to expand its agentic AI capabilities, strengthen compliance infrastructure, accelerate product development and expand its go-to-market efforts across the BFSI sector.",
+  "company_brief": "The platform automates customer engagement, servicing, operations and compliance workflows.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Seed",
@@ -2073,9 +2017,7 @@
   "lead_investors": [
    "Prime Venture Partners"
   ],
-  "investors": [
-   "existing investor Invention Engine"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "expand its agentic AI capabilities, strengthen compliance infrastructure, accelerate product development and expand its go-to-market efforts across the BFSI sector",
   "headline": "Desible.ai Raises Rs 32 Crore in Seed Plus Funding Led by Prime Venture Partners",
@@ -2119,7 +2061,7 @@
   "id": "9d80f26de175",
   "date": "2026-10-06",
   "company": "Unified AI workspace CurvetAI",
-  "company_brief": "The company will use the capital to strengthen its technology infrastructure, expand its team and develop its agent-based capabilities.",
+  "company_brief": "The platform is used by individuals, teams and educational institutions.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Pre-Seed",
@@ -2129,9 +2071,7 @@
   "lead_investors": [
    "Merak Ventures"
   ],
-  "investors": [
-   "in the round"
-  ],
+  "investors": [],
   "city": "",
   "use_of_funds": "strengthen its technology infrastructure, expand its team and develop its agent-based capabilities",
   "headline": "Unified AI workspace CurvetAI raises Rs 6 crore in pre-seed round led by Merak Ventures",
@@ -2147,7 +2087,7 @@
   "id": "c18ef0225405",
   "date": "2026-10-06",
   "company": "ReFit Global",
-  "company_brief": "ReFit Global is an India-focused refurbished electronics company. The company will use the fresh capital to expand its retail footprint, strengthen refurbishment capabilities, invest in technology infrastructure and build an integrated omnichannel platform.",
+  "company_brief": "ReFit Global is an India-focused refurbished electronics company. Founded in 2018 by Saket Saurav and Avneet Singh, ReFit Global operates across refurbished electronics, distribution, retail and consumer channels.",
   "sector": "Manufacturing & Industrial",
   "sub_sector": "India-focused refurbished electronics company",
   "round": "Seed",
@@ -2155,10 +2095,7 @@
   "amount_usd_mn": 1.0,
   "amount_inr_cr": 8.8,
   "lead_investors": [],
-  "investors": [
-   "its B2B network",
-   "it has 12 ReFit Xpress outlets"
-  ],
+  "investors": [],
   "city": "Delhi",
   "use_of_funds": "expand its retail footprint, strengthen refurbishment capabilities, invest in technology infrastructure and build an integrated omnichannel platform",
   "headline": "ReFit Global Raises $1M in Seed Round From UAE Family Office",
@@ -2198,8 +2135,8 @@
   "id": "b8ed9d38dd05",
   "date": "2026-10-06",
   "company": "Lorazzo",
-  "company_brief": "The company will use the fresh capital to expand its product portfolio, invest in product development, build its team and strengthen its online and offline channels across more states in India.",
-  "sector": "D2C & Consumer Brands",
+  "company_brief": "The company operates across e-commerce, quick commerce and offline retail.",
+  "sector": "E-commerce & Quick Commerce",
   "sub_sector": "",
   "round": "Pre-Seed",
   "amount_text": "₹15 Crore",
@@ -2224,7 +2161,7 @@
   "id": "540c0cafcb34",
   "date": "2026-10-06",
   "company": "IndigoTex",
-  "company_brief": "The company will use the fresh capital to set up manufacturing, expand its sales and operations team, and commercialise its textile products.",
+  "company_brief": "Butola and Dilip Singh, IndigoTex is developing waterless wool finishing technology and wool-based fabrics.",
   "sector": "Manufacturing & Industrial",
   "sub_sector": "",
   "round": "Undisclosed",
@@ -2234,9 +2171,7 @@
   "lead_investors": [
    "IAN Angel Fund"
   ],
-  "investors": [
-   "in the round"
-  ],
+  "investors": [],
   "city": "Delhi",
   "use_of_funds": "set up manufacturing, expand its sales and operations team, and commercialise its textile products",
   "headline": "IndigoTex Raises ₹5 Crore in Funding Led by IAN Angel Fund",
@@ -2262,9 +2197,7 @@
   "lead_investors": [
    "SteerX Ventures"
   ],
-  "investors": [
-   "in the round"
-  ],
+  "investors": [],
   "city": "Pune",
   "use_of_funds": "expand the startup’s accredited hospital network, enter new patient source markets, strengthen its AI-powered technology and build its operations and technology teams",
   "headline": "CureMeAbroad Raises $1.1 Million in Pre-Seed Round Led by SteerX Ventures",
@@ -2280,7 +2213,7 @@
   "id": "8326006947cf",
   "date": "2026-10-06",
   "company": "Beyond Appliances",
-  "company_brief": "The company plans to use the fresh capital to set up a new manufacturing plant, strengthen product development and enter new kitchen appliance categories.",
+  "company_brief": "The company also offers Chef Verse, an app with curated recipes from chefs, and uses 3D suction technology in its chimney products.",
   "sector": "Manufacturing & Industrial",
   "sub_sector": "",
   "round": "Series B",
@@ -2320,8 +2253,7 @@
   "amount_usd_mn": 48.295,
   "amount_inr_cr": 425.0,
   "lead_investors": [
-   "CE-Invests",
-   "the investment arm of UAE-based Crescent Enterprises"
+   "CE-Invests"
   ],
   "investors": [],
   "city": "",
@@ -2374,8 +2306,7 @@
   "amount_inr_cr": 50.0,
   "lead_investors": [
    "YourNest",
-   "SIDBI Venture Capital",
-   "the National Quantum Mission"
+   "SIDBI Venture Capital"
   ],
   "investors": [
    "QpiAI’s earlier equity fundraising"
@@ -2427,9 +2358,7 @@
   "amount_usd_mn": 12.386,
   "amount_inr_cr": 109.0,
   "lead_investors": [],
-  "investors": [
-   "its drone hardware business"
-  ],
+  "investors": [],
   "city": "",
   "use_of_funds": "",
   "headline": "ideaForge Technology Receives Rs 109 Crore GST Demand",
@@ -2445,7 +2374,7 @@
   "id": "cc2e9b2bebba",
   "date": "2026-10-01",
   "company": "Zaperon",
-  "company_brief": "The company will use the funds to advance its product capabilities, launch enterprise-grade AI security frameworks, and expand its presence in India and the US.",
+  "company_brief": "The platform combines identity security, data security and AI governance to help enterprises manage how users, applications and AI agents access sensitive data and cloud infrastructure.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Seed",
@@ -2471,7 +2400,7 @@
   "id": "b58b94434c3e",
   "date": "2026-10-01",
   "company": "Unveilr AI",
-  "company_brief": "The company will use the capital to expand its engineering capacity and build its sales team as it grows across India, the UAE and the US.",
+  "company_brief": "Unveilr AI helps B2B and consumer brands generate qualified leads through traditional search engines and AI platforms such as ChatGPT, Perplexity, Gemini and Claude.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Seed",
@@ -2479,8 +2408,7 @@
   "amount_usd_mn": 1.898,
   "amount_inr_cr": 16.7,
   "lead_investors": [
-   "Aviral Bhatnagar",
-   "at a valuation of ₹16"
+   "Aviral Bhatnagar"
   ],
   "investors": [],
   "city": "Bengaluru",
@@ -2509,10 +2437,8 @@
    "Dr"
   ],
   "investors": [
-   "co-founders Suhas Rajkumar",
    "Ankit Gupta",
-   "Bengaluru-based HNI Amit Mishra",
-   "the Haran Family Office"
+   "Bengaluru-based HNI Amit Mishra"
   ],
   "city": "Bengaluru",
   "use_of_funds": "",
@@ -2544,8 +2470,7 @@
    "Z47",
    "Lok Capital",
    "Norinchukin Capital",
-   "Alteria Capital",
-   "also participated in the round"
+   "Alteria Capital"
   ],
   "city": "Gurugram",
   "use_of_funds": "expand into new markets and strengthen the company's branch network, technology and risk-management capabilities",
@@ -2590,7 +2515,7 @@
   "id": "e5cb793fb329",
   "date": "2026-10-01",
   "company": "Aignosis",
-  "company_brief": "The company will use the fresh capital to strengthen its AI-powered autism and developmental screening platform and expand its reach across India.",
+  "company_brief": "The platform uses a standard laptop and webcam to record a short video session across nine stimulus-based modules.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Seed",
@@ -2644,7 +2569,7 @@
   "id": "3900504c393b",
   "date": "2026-09-30",
   "company": "Vytalyou",
-  "company_brief": "The company will use the fresh capital to expand its network of Incremental Lifestyle Clinics in Mumbai.",
+  "company_brief": "Vytalyou was founded in 2025 by Dr Chirantan Bose and Dr Preetesh Bhandari.",
   "sector": "Healthtech & Biotech",
   "sub_sector": "",
   "round": "Pre-Series A",
@@ -2703,12 +2628,9 @@
    "Dr Arokiaswamy Velumani’s family office"
   ],
   "investors": [
-   "founder",
    "CEO Suhas Rajkumar",
-   "co-founder",
    "CFO Ankit Gupta",
-   "Bengaluru-based HNI Amit Mishra",
-   "the Haran Family Office"
+   "Bengaluru-based HNI Amit Mishra"
   ],
   "city": "Bengaluru",
   "use_of_funds": "set up a new manufacturing facility and increase production capacity",
@@ -2729,8 +2651,8 @@
   "id": "c4068c55e9ba",
   "date": "2026-09-30",
   "company": "Linux Laboratories",
-  "company_brief": "Tata Capital Healthcare Fund II (TCHF II), which had invested in Linux for around five years, has fully exited at approximately four times its investment.",
-  "sector": "Healthtech & Biotech",
+  "company_brief": "The company has a strong presence in central nervous system therapies, including epilepsy, neuropathic pain, depression and autism.",
+  "sector": "D2C & Consumer Brands",
   "sub_sector": "",
   "round": "Undisclosed",
   "amount_text": "$70 Million",
@@ -2741,7 +2663,6 @@
    "Tata Capital Healthcare Fund"
   ],
   "investors": [
-   "brands acquired from Cipla",
    "Dr"
   ],
   "city": "Chennai",
@@ -2775,7 +2696,8 @@
    "3one4 Capital"
   ],
   "investors": [
-   "in the round"
+   "Alteria Capital",
+   "Genesia Ventures"
   ],
   "city": "Bengaluru",
   "use_of_funds": "strengthen Gravity's technology, distribution and key account infrastructure",
@@ -2796,7 +2718,7 @@
   "id": "193cd81f346a",
   "date": "2026-09-30",
   "company": "EDT",
-  "company_brief": "The company will use the fresh capital to build inventory ahead of the festive season, launch new products and strengthen its growth, supply chain, brand and product teams.",
+  "company_brief": "The company currently sells two kitchen products, LUMA, a glass air fryer oven, and FLOW, a kettle focused on hydration and beverages.",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "",
   "round": "Pre-Series A",
@@ -2822,7 +2744,7 @@
   "id": "2287fc936cc8",
   "date": "2026-09-30",
   "company": "Arivihan",
-  "company_brief": "The company plans to use the capital to expand across India, launch new products for CBSE students, strengthen its AI and regional-language capabilities, and expand its marketing and offline distribution network.",
+  "company_brief": "Arivihan raises $10.2M in Series A funding led by Accel and Prosus Ventures to expand across India, CBSE products, AI and offline distribution.",
   "sector": "AI & Deeptech",
   "sub_sector": "AI-powered learning platform for school students",
   "round": "Series A",
@@ -2855,7 +2777,7 @@
   "id": "3cea97ea416d",
   "date": "2026-09-29",
   "company": "has also",
-  "company_brief": "The first close has attracted investment from family offices, exited founders, and senior corporate and technology executives.",
+  "company_brief": "Since 2017, WEH Ventures has invested in more than 30 companies.",
   "sector": "Healthtech & Biotech",
   "sub_sector": "",
   "round": "Undisclosed",
@@ -2891,7 +2813,8 @@
    "Amplify"
   ],
   "investors": [
-   "in the round"
+   "Alter Venture Partners",
+   "Dell Technologies Capital"
   ],
   "city": "",
   "use_of_funds": "scale Palette Neat, its agentic software environment for Physical AI",
@@ -2936,7 +2859,7 @@
   "id": "2e32ec66ccb5",
   "date": "2026-09-29",
   "company": "Bharat Housing Network",
-  "company_brief": "Bharat Housing Network is a co-lending platform focused on affordable housing. BHN will leverage its established co-lending platform and secured lending capabilities to deploy the funds across high-impact green segments,” said Keyur Vinchhi, SVP- Strategy and Business Development at Bharat Housing Network.",
+  "company_brief": "Bharat Housing Network is a co-lending platform focused on affordable housing.",
   "sector": "Real Estate & Proptech",
   "sub_sector": "co-lending platform focused on affordable housing",
   "round": "Undisclosed",
@@ -2984,7 +2907,7 @@
   "id": "cea6c82316ad",
   "date": "2026-09-28",
   "company": "Balwaan Krishi",
-  "company_brief": "The company will use the fresh capital to expand manufacturing, strengthen distribution and develop new farm equipment.",
+  "company_brief": "Balwaan Krishi develops agricultural machinery and mechanisation solutions for Indian farmers.",
   "sector": "Agritech & Foodtech",
   "sub_sector": "",
   "round": "Series B",
@@ -2994,9 +2917,7 @@
   "lead_investors": [
    "First Bridge"
   ],
-  "investors": [
-   "other institutional investors"
-  ],
+  "investors": [],
   "city": "",
   "use_of_funds": "expand manufacturing, strengthen distribution and develop new farm equipment",
   "headline": "Balwaan Krishi Secures ₹100 Crore in Series B Round",
@@ -3026,9 +2947,7 @@
   "lead_investors": [
    "Powerhouse Ventures"
   ],
-  "investors": [
-   "flipkart Ventures"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "strengthen Alive App’s product and technology capabilities and expand its experience supply across existing markets",
   "headline": "Alive App Raises $1 Million in Seed Round Led by Powerhouse Ventures",
@@ -3080,8 +2999,7 @@
   ],
   "investors": [
    "Xeed Ventures",
-   "Good Capital",
-   "Amplify also participated in the all-equity round"
+   "Good Capital"
   ],
   "city": "Delhi",
   "use_of_funds": "",
@@ -3098,7 +3016,7 @@
   "id": "5eb5013acbb9",
   "date": "2026-09-25",
   "company": "MyRx",
-  "company_brief": "The company will use the fresh capital to expand its clinical network and strengthen its technology infrastructure.",
+  "company_brief": "Founded in 2019 by Sourav Das, Surjit Das and Neel Rath, MyRx combines a doctor network with teleconsultation, electronic prescriptions and clinical workflow technology.",
   "sector": "Healthtech & Biotech",
   "sub_sector": "",
   "round": "Seed",
@@ -3132,9 +3050,7 @@
   "amount_usd_mn": 13.636,
   "amount_inr_cr": 120.0,
   "lead_investors": [],
-  "investors": [
-   "their education"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "support its expansion and strengthen the business ahead of the next funding round",
   "headline": "TimBuckDo Raises Bridge Funding at Rs 120 Crore Valuation",
@@ -3185,12 +3101,10 @@
   "amount_inr_cr": 90640.0,
   "lead_investors": [
    "Nxtra’s $1B private-equity round",
-   "Neysa’s $600 million Series B",
-   "and CRED’s $540 million Series H"
+   "Neysa’s $600 million Series B"
   ],
   "investors": [
-   "91 acquisitions",
-   "down from 131"
+   "91 acquisitions"
   ],
   "city": "",
   "use_of_funds": "",
@@ -3219,8 +3133,7 @@
   ],
   "investors": [
    "Accel",
-   "S32",
-   "Prosus Ventures also participated by increasing their investments"
+   "S32"
   ],
   "city": "Bengaluru",
   "use_of_funds": "expand its go-to-market operations, increase enterprise adoption and continue investing in its AI employee platform",
@@ -3241,7 +3154,7 @@
   "id": "10bc69f8fff3",
   "date": "2026-09-24",
   "company": "ByteAsk",
-  "company_brief": "The company will use the fresh capital for product and infrastructure development, hiring, GPU compute, training data, and enterprise-grade security and privacy infrastructure.",
+  "company_brief": "ByteAsk is building AI coding agents for C and C++ codebases.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Pre-Seed",
@@ -3252,8 +3165,7 @@
    "Y Combinator"
   ],
   "investors": [
-   "Entrepreneur First",
-   "angel investors from global quantitative trading firms"
+   "Entrepreneur First"
   ],
   "city": "Delhi",
   "use_of_funds": "product and infrastructure development, hiring, GPU compute, training data, and enterprise-grade security and privacy infrastructure",
@@ -3270,7 +3182,7 @@
   "id": "06f8bdd04880",
   "date": "2026-09-24",
   "company": "Betterhood",
-  "company_brief": "The fresh capital will be used to expand Betterhood’s product portfolio, increase distribution across quick commerce and modern retail, grow its content and physiotherapist community, and strengthen its product development and growth teams.",
+  "company_brief": "Betterhood is building a preventive pain-care brand focused on addressing pain before it becomes chronic.",
   "sector": "Media, Gaming & Content",
   "sub_sector": "",
   "round": "Seed",
@@ -3280,9 +3192,7 @@
   "lead_investors": [
    "Sauce"
   ],
-  "investors": [
-   "existing investor Kairon Capital"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "expand Betterhood’s product portfolio, increase distribution across quick commerce and modern retail, grow its content and physiotherapist community, and strengthen its product development and growth ",
   "headline": "Betterhood Raises Rs 11.5 Crore in Seed Funding Led by Sauce",
@@ -3335,8 +3245,7 @@
    "Yali Capital"
   ],
   "investors": [
-   "Lip-Bu Tan",
-   "its existing investors"
+   "Lip-Bu Tan"
   ],
   "city": "Bengaluru",
   "use_of_funds": "scale production, develop next-generation EV platforms and expand into international markets",
@@ -3360,13 +3269,9 @@
   "amount_text": "$85M",
   "amount_usd_mn": 85.0,
   "amount_inr_cr": 748.0,
-  "lead_investors": [
-   "deeptech fund Yali Capital"
-  ],
+  "lead_investors": [],
   "investors": [
-   "Ultraviolette’s current",
-   "long-term investors",
-   "also invested in this round"
+   "Ultraviolette’s current"
   ],
   "city": "",
   "use_of_funds": "its current products F77 and X-47 and upcoming products, Tesseract and Shockwave",
@@ -3501,9 +3406,7 @@
   "lead_investors": [
    "Sharrp Ventures"
   ],
-  "investors": [
-   "several angel investors"
-  ],
+  "investors": [],
   "city": "Delhi",
   "use_of_funds": "strengthen and scale its manufacturing operations, while also investing in research and development and supply chain operations",
   "headline": "Protein Pantry Raises Rs 9 Crore in Seed Funding Led by Sharrp Ventures",
@@ -3604,8 +3507,7 @@
    "Lumikai"
   ],
   "investors": [
-   "UAE-based deep-tech investor-operator Marlan",
-   "angel investors"
+   "UAE-based deep-tech investor-operator Marlan"
   ],
   "city": "Bengaluru",
   "use_of_funds": "build its design community, strengthen its consumer application and expand into the US market",
@@ -3631,7 +3533,6 @@
   "amount_inr_cr": 22.0,
   "lead_investors": [],
   "investors": [
-   "existing investors Nitin Agarwal",
    "D"
   ],
   "city": "Pune",
@@ -3732,8 +3633,7 @@
   "amount_usd_mn": 0.17,
   "amount_inr_cr": 1.5,
   "lead_investors": [
-   "Soundous Moufakir",
-   "MoroMaa combines Moroccan beauty traditions with artistic influences"
+   "Soundous Moufakir"
   ],
   "investors": [],
   "city": "Mumbai",
@@ -3777,7 +3677,7 @@
   "id": "af9370e1ec62",
   "date": "2026-09-18",
   "company": "Factrika",
-  "company_brief": "Founded in 2024 by Kshitij Puri and Gaurav Asthana, the company will use the fresh capital to strengthen its team, improve its technology and expand into more industrial clusters across India.",
+  "company_brief": "Factrika is an on-demand workforce platform that connects manufacturers with skilled and verified factory workers.",
   "sector": "Manufacturing & Industrial",
   "sub_sector": "",
   "round": "Seed",
@@ -3866,7 +3766,6 @@
   ],
   "investors": [
    "Proteus Partners",
-   "backed by True Elements co-founders Puru Gupta",
    "Sreejith Moolayil"
   ],
   "city": "",
@@ -3979,10 +3878,7 @@
    "Zeropearl VC"
   ],
   "investors": [
-   "Eleven",
-   "a diversified business group of Medanta co-founder Sunil Sachdeva",
-   "angel investors",
-   "healthcare operators"
+   "Eleven"
   ],
   "city": "Delhi",
   "use_of_funds": "open two new centres in Delhi NCR over the next six to eight months",
@@ -4025,7 +3921,7 @@
   "id": "d53dad61cde4",
   "date": "2026-09-16",
   "company": "Firi",
-  "company_brief": "Firi plans to use the fresh capital to expand into makeup, fragrance and other beauty categories.",
+  "company_brief": "Firi operates a curated beauty marketplace that selects and evaluates products before listing them, rather than offering a broad catalogue.",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "",
   "round": "Seed",
@@ -4037,9 +3933,7 @@
   ],
   "investors": [
    "Better Capital",
-   "Kunal Shah",
-   "and other founders",
-   "operators"
+   "Kunal Shah"
   ],
   "city": "Gurugram",
   "use_of_funds": "expand into makeup, fragrance and other beauty categories",
@@ -4056,7 +3950,7 @@
   "id": "4bcd4227b804",
   "date": "2026-09-16",
   "company": "Darwinbox",
-  "company_brief": "Darwinbox raises a follow-on investment from Teachers’ Venture Growth, marking its second investment in the Hyderabad-based HR technology company.",
+  "company_brief": "This is a key milestone for the company, especially as it looks to build its business in North America.”\nFounded in 2015, Darwinbox serves more than 1,400 companies and 4.5 million employees globally.",
   "sector": "SaaS & Enterprise Tech",
   "sub_sector": "",
   "round": "Undisclosed",
@@ -4091,8 +3985,6 @@
    "QED Investors"
   ],
   "investors": [
-   "in the round",
-   "while existing investors RTP Global",
    "Dovetail increased their investments"
   ],
   "city": "Bengaluru",
@@ -4125,9 +4017,7 @@
    "Arkam Ventures",
    "Antler"
   ],
-  "investors": [
-   "in the round"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "working capital needs and general corporate purposes",
   "headline": "UniqYou Raises Rs 15.8 Crore in Seed Funding Led by Arkam Ventures, Antler",
@@ -4234,15 +4124,11 @@
   "amount_usd_mn": 1.364,
   "amount_inr_cr": 12.0,
   "lead_investors": [
-   "Sadev Ventures",
-   "with actor Triptii Dimri joining the company as an investor",
-   "co-creator"
+   "Sadev Ventures"
   ],
   "investors": [
-   "iSeed",
    "ISV",
-   "TDV",
-   "several angel investors"
+   "TDV"
   ],
   "city": "",
   "use_of_funds": "",
@@ -4293,9 +4179,7 @@
   "lead_investors": [
    "Insight Partners"
   ],
-  "investors": [
-   "existing investor Bessemer Venture Partners"
-  ],
+  "investors": [],
   "city": "",
   "use_of_funds": "expand its presence across the US and Europe and accelerate product development",
   "headline": "Graph AI raises $13.3M in Series A funding",
@@ -4321,9 +4205,7 @@
   "lead_investors": [
    "AJVC"
   ],
-  "investors": [
-   "in the round"
-  ],
+  "investors": [],
   "city": "",
   "use_of_funds": "expand its engineering and AI teams, strengthen its attribution engine, and onboard more enterprise customers",
   "headline": "AI Contact Centre Startup Dialflo Raises Rs 1.7 Crore Funding Led by AJVC",
@@ -4350,8 +4232,8 @@
    "Niveshaay"
   ],
   "investors": [
-   "new investor Physis Capital",
-   "existing investor Prath Ventures"
+   "Physis Capital",
+   "Prath Ventures"
   ],
   "city": "Mumbai",
   "use_of_funds": "expand its offline presence across Tier 1 and Tier 2 cities and strengthen its brand-building efforts",
@@ -4372,7 +4254,7 @@
   "id": "6778a70805b6",
   "date": "2026-09-10",
   "company": "Swish",
-  "company_brief": "Swish will use the funds to expand its kitchen network and supply chain infrastructure to meet growing demand.",
+  "company_brief": "Founded in 2024 by Aniket Shah, Ujjwal Sukheja, and Saran S, the startup currently serves Bengaluru, Gurugram, Noida, Delhi and Ghaziabad.",
   "sector": "Logistics & Supply Chain",
   "sub_sector": "",
   "round": "Undisclosed",
@@ -4383,9 +4265,7 @@
    "Bertelsmann India"
   ],
   "investors": [
-   "existing investors Accel",
-   "Bain Capital Ventures",
-   "and Hara Global"
+   "Bain Capital Ventures"
   ],
   "city": "Bengaluru",
   "use_of_funds": "expand its kitchen network and supply chain infrastructure to meet growing demand",
@@ -4413,7 +4293,6 @@
    "FPV Ventures"
   ],
   "investors": [
-   "existing investors Spark Capital",
    "Pear VC"
   ],
   "city": "Kolkata",
@@ -4470,9 +4349,7 @@
    "NQM",
    "Speciale Invest"
   ],
-  "investors": [
-   "partnerships in other markets"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "accelerate R&D, expand sales and go-to-market operations in India and overseas, and strengthen its technology portfolio across quantum sensing and artificial intelligence",
   "headline": "QNu Labs Raises ₹200 Crore in Series A1 Funding",
@@ -4488,7 +4365,7 @@
   "id": "f0781d5b1e36",
   "date": "2026-09-09",
   "company": "Marmalade",
-  "company_brief": "The company said the fresh funds will be used to expand its distribution network, strengthen sales and operations, and invest in brand-building activities.",
+  "company_brief": "Founded in 2025 by Udit Mediratta and Surojit Bhattacharya, Marmalade is a new-age drinks company focused on creating alcoholic beverages for the next generation of Indian consumers.",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "",
   "round": "Seed",
@@ -4512,7 +4389,7 @@
   "id": "d1895fc3dbd7",
   "date": "2026-09-09",
   "company": "KARAM Safety Private Limited",
-  "company_brief": "KARAM Safety Private Limited is an Indian company that makes safety equipment and fall-protection products. KARAM plans to use the funds for strategic acquisitions, expanding into new product categories and international markets, as well as investing in innovation, manufacturing and distribution.",
+  "company_brief": "KARAM Safety Private Limited is an Indian company that makes safety equipment and fall-protection products. Read Also - Samtel Avionics, Japan’s BULL sign MoU to explore space debris removal\nFounded in 1998, KARAM offers more than 3,800 safety products, including harnesses, lanyards, helmets, safety footwear and protective equipment.",
   "sector": "Manufacturing & Industrial",
   "sub_sector": "Indian company",
   "round": "Undisclosed",
@@ -4520,13 +4397,7 @@
   "amount_usd_mn": 68.182,
   "amount_inr_cr": 600.0,
   "lead_investors": [],
-  "investors": [
-   "that",
-   "it will invest in innovation",
-   "manufacturing",
-   "its global distribution network",
-   "and tighten corporate governance"
-  ],
+  "investors": [],
   "city": "Lucknow",
   "use_of_funds": "strategic acquisitions, expanding into new product categories and international markets, as well as investing in innovation, manufacturing and distribution",
   "headline": "Motilal Oswal invests ₹600 crore in industrial safety gear maker KARAM for Global M&A Push",
@@ -4641,7 +4512,6 @@
   ],
   "investors": [
    "Wolfpack Labs",
-   "led by Aakash Anand",
    "Prerna Gupta"
   ],
   "city": "Gurugram",
@@ -4677,10 +4547,8 @@
    "Gaurav Munjal",
    "Roman Saini",
    "Abhishek Goyal",
-   "the JK Tyre family office",
    "Shadowfax founders Abhishek Bansal",
-   "Vaibhav Khadelwal",
-   "and existing backer PedalStart"
+   "Vaibhav Khadelwal"
   ],
   "city": "Bengaluru",
   "use_of_funds": "expand Iztri’s hub network, strengthen its operational and technology infrastructure, and expand into adjacent fabric care categories such as dry cleaning and shoe care",
@@ -4706,11 +4574,8 @@
   "amount_inr_cr": null,
   "lead_investors": [
    "Pixxel",
-   "with Dhruva Space",
    "SatSure",
    "PierSight",
-   "comprising 12 satellites",
-   "backed by more than Rs 1",
    "200 crore of investment"
   ],
   "investors": [],
@@ -4758,7 +4623,7 @@
   "id": "7ba317c27bc5",
   "date": "2026-09-08",
   "company": "DigitalPaani",
-  "company_brief": "The startup will use the funds to expand in industrial and municipal markets, scale operations and enter international markets.",
+  "company_brief": "Founded in 2020, DigitalPaani uses AI and IoT to manage water infrastructure and currently serves 95+ facilities across India.",
   "sector": "Manufacturing & Industrial",
   "sub_sector": "",
   "round": "Undisclosed",
@@ -4766,7 +4631,7 @@
   "amount_usd_mn": 2.5,
   "amount_inr_cr": 22.0,
   "lead_investors": [
-   "Navam Capital To Expand Water Management Platform"
+   "Navam Capital"
   ],
   "investors": [],
   "city": "Delhi",
@@ -4784,7 +4649,7 @@
   "id": "753dd24ecb99",
   "date": "2026-09-08",
   "company": "Circolife",
-  "company_brief": "The company will use the funds to expand its fleet, enter new markets, strengthen services, and develop its AI-powered IoT platform.",
+  "company_brief": "Founded in 2023, Circolife offers commercial ACs through a subscription-based Cooling-as-a-Service model.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Pre-Series A",
@@ -4795,9 +4660,6 @@
    "Bharat Jaisinghani"
   ],
   "investors": [
-   "individual investors",
-   "family offices",
-   "and investment firms including Nitish Mittersain",
    "Intelliquity Ventures",
    "Sumit Jalan",
    "Siddharth Ladsariya",
@@ -4805,8 +4667,7 @@
    "Anant Goenka",
    "Sky Impact Capital",
    "Rohit Dev",
-   "S N Damani",
-   "and Vyom Wealth"
+   "S N Damani"
   ],
   "city": "Mumbai",
   "use_of_funds": "expand its fleet, enter new markets, strengthen services, and develop its AI-powered IoT platform",
@@ -4835,8 +4696,7 @@
   ],
   "investors": [
    "Dhruv Vohra",
-   "Director at Meta APAC",
-   "in his personal capacity"
+   "Director at Meta APAC"
   ],
   "city": "Bengaluru",
   "use_of_funds": "accelerate the development and commercialisation of its portable gaming system, ARC X1, while expanding its hardware, software and gaming ecosystem",
@@ -4863,9 +4723,7 @@
   "lead_investors": [
    "Bertelsmann India Investments"
   ],
-  "investors": [
-   "also participating"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "",
   "headline": "Quick commerce food startup Swish to raise $24 Mn funding",
@@ -4893,7 +4751,6 @@
    "Filter Capital"
   ],
   "investors": [
-   "existing investors Mirabilis Investment Trust",
    "Footpath Ventures"
   ],
   "city": "Mumbai",
@@ -4923,9 +4780,6 @@
    "Seraphim"
   ],
   "investors": [
-   "existing investors Radical Ventures",
-   "growX Ventures",
-   "new investors 360 ONE Asset",
    "IMM Investment"
   ],
   "city": "Bengaluru",
@@ -4981,7 +4835,7 @@
   "id": "6e632d745eba",
   "date": "2026-09-07",
   "company": "Navana.ai",
-  "company_brief": "The startup will use the funds to expand its Voice AI platform across BFSI, improve Indian-language speech models, and develop its AI Contact Centre.",
+  "company_brief": "Founded in 2018, Navana.ai offers Voice AI solutions for regulated enterprises, supporting 12 Indian languages and 45 dialects.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Series A",
@@ -5047,7 +4901,6 @@
    "Bain Capital Ventures"
   ],
   "investors": [
-   "existing investors Bain Capital Ventures",
    "Accel"
   ],
   "city": "Bengaluru",
@@ -5145,16 +4998,15 @@
   "id": "5ebbfa52ef3c",
   "date": "2026-09-05",
   "company": "Medulance",
-  "company_brief": "The company will use the funds to expand its ambulance network, strengthen hospital and enterprise business, and upgrade its technology.",
-  "sector": "SaaS & Enterprise Tech",
+  "company_brief": "Founded in 2017, Medulance operates 15,000+ ambulances across 500+ cities and handles around 5,000 emergency calls daily.",
+  "sector": "Healthtech & Biotech",
   "sub_sector": "",
   "round": "Series A",
   "amount_text": "₹24 Cr",
   "amount_usd_mn": 2.727,
   "amount_inr_cr": 24.0,
   "lead_investors": [
-   "Alkemi Growth Capital",
-   "technology"
+   "Alkemi Growth Capital"
   ],
   "investors": [],
   "city": "",
@@ -5172,8 +5024,8 @@
   "id": "dd2aceb1d14b",
   "date": "2026-09-04",
   "company": "Ultrahuman",
-  "company_brief": "The new capital will help Ultrahuman expand research and development across sensing technologies, artificial intelligence, miniaturised electronics, health algorithms, and clinical research.",
-  "sector": "Healthtech & Biotech",
+  "company_brief": "The company aims to move beyond traditional wearables and build a body-focused computing platform that combines continuous physiological data, AI, software, and scientific research\n“For the longest time, computers have understood almost everything about the world except the person using them,” said Mohit Kumar, founder and chief executive officer of Ultrahuman.",
+  "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Undisclosed",
   "amount_text": "$70 Million",
@@ -5232,7 +5084,7 @@
   "id": "139899583f47",
   "date": "2026-09-04",
   "company": "Leanwatts",
-  "company_brief": "The startup will use the funds to strengthen its supply chain, increase localisation, expand manufacturing, and scale R&D and products.",
+  "company_brief": "The startup offers portable and onboard chargers ranging from 500W to 6.6kW for electric two-wheelers, L2 and L5 vehicles, and e-tractors.",
   "sector": "Manufacturing & Industrial",
   "sub_sector": "",
   "round": "Seed",
@@ -5243,7 +5095,6 @@
    "Trivest Partners"
   ],
   "investors": [
-   "angel investors Abraham George",
    "Alok Rungta"
   ],
   "city": "Hyderabad",
@@ -5304,9 +5155,7 @@
   "lead_investors": [
    "ABP Education"
   ],
-  "investors": [
-   "angel investors"
-  ],
+  "investors": [],
   "city": "Noida",
   "use_of_funds": "",
   "headline": "YoLearn.ai Raises Seed Funding from ABP Education to Expand AI Tutoring",
@@ -5333,7 +5182,6 @@
    "BlackSoil Capital"
   ],
   "investors": [
-   "the VLCC Institute of Beauty",
    "Nutrition"
   ],
   "city": "",
@@ -5379,7 +5227,7 @@
   "id": "10e9e8382025",
   "date": "2026-09-03",
   "company": "Creedom",
-  "company_brief": "Creedom is an AI growth coach for content creators. The startup will use the funds for product development, US expansion, and strengthening its AI capabilities.",
+  "company_brief": "Creedom is an AI growth coach for content creators. Founded by Naveen Murugan, Naveen Sowriraj, and Aswin Dhananjai, Creedom uses AI to analyse Instagram and YouTube performance and recommend content strategies.",
   "sector": "Media, Gaming & Content",
   "sub_sector": "AI growth coach for content creators",
   "round": "Seed",
@@ -5389,13 +5237,11 @@
   "lead_investors": [
    "Leigh Hopkins",
    "Raghunandan G",
-   "Ravi Iyer",
-   "and Kartheeswaran KK"
+   "Ravi Iyer"
   ],
   "investors": [
    "Raghu Nathan Sethuraman",
-   "Senthil Kumar T P",
-   "and Govindaswamy Megavarnan through Startup Singam"
+   "Senthil Kumar T P"
   ],
   "city": "",
   "use_of_funds": "product development, US expansion, and strengthening its AI capabilities",
@@ -5412,7 +5258,7 @@
   "id": "5fb4b1f4b33e",
   "date": "2026-09-03",
   "company": "Cradlewise",
-  "company_brief": "Cradlewise is an AI-first consumer health and wellness company. The company will use the fresh capital for growth, channel expansion, product R&D, and international market expansion.",
+  "company_brief": "Cradlewise is an AI-first consumer health and wellness company. Founded in 2019, Cradlewise develops AI-powered smart cribs and sleep solutions for babies and families.",
   "sector": "Healthtech & Biotech",
   "sub_sector": "AI-first consumer health and wellness company",
   "round": "Series A",
@@ -5451,13 +5297,7 @@
   "amount_usd_mn": null,
   "amount_inr_cr": null,
   "lead_investors": [],
-  "investors": [
-   "broking",
-   "the group has expanded into asset management",
-   "lending",
-   "wealth-related services",
-   "startup investing"
-  ],
+  "investors": [],
   "city": "",
   "use_of_funds": "",
   "headline": "Zerodha gets SEBI nod to enter investment banking business",
@@ -5473,7 +5313,7 @@
   "id": "0242a9922bcc",
   "date": "2026-09-02",
   "company": "Oppex AI",
-  "company_brief": "Oppex AI is an AI-native platform for production operations. The startup will use the funds for product development, team expansion and scaling customer deployments.",
+  "company_brief": "Oppex AI is an AI-native platform for production operations. Bengaluru-based Oppex AI builds an AI-native platform that automates production incident management and response.",
   "sector": "AI & Deeptech",
   "sub_sector": "AI-native platform for production operations",
   "round": "Pre-Seed",
@@ -5511,8 +5351,7 @@
   ],
   "investors": [
    "100Unicorns",
-   "Vinners",
-   "angel investors"
+   "Vinners"
   ],
   "city": "Bengaluru",
   "use_of_funds": "50+ cities",
@@ -5529,7 +5368,7 @@
   "id": "e9cade472b01",
   "date": "2026-09-02",
   "company": "Aeron Systems",
-  "company_brief": "The company will use the funds to expand manufacturing, boost R&D, meet customer demand and enter international markets.",
+  "company_brief": "Founded in 2008, Aeron Systems develops navigation, avionics and weather-monitoring technologies for aerospace, defence and industrial applications.",
   "sector": "Manufacturing & Industrial",
   "sub_sector": "",
   "round": "Pre-Series B",
@@ -5580,7 +5419,7 @@
   "id": "253ecc0c1174",
   "date": "2026-09-01",
   "company": "Zenergize",
-  "company_brief": "The startup will use the funds to increase production, expand R&D, and strengthen its sales and servicing team across India.",
+  "company_brief": "Founded in 2025, Zenergize manufactures EV chargers and solar inverters and plans to set up a new facility in Delhi-NCR.",
   "sector": "Climate & Cleantech",
   "sub_sector": "",
   "round": "Pre-Series A",
@@ -5590,10 +5429,7 @@
   "lead_investors": [
    "Giraffe Studios"
   ],
-  "investors": [
-   "angel investors",
-   "existing backers"
-  ],
+  "investors": [],
   "city": "Delhi",
   "use_of_funds": "increase production, expand R&D, and strengthen its sales and servicing team across India",
   "headline": "Zenergize Raises $4M in Pre-Series A Funding Led by Giraffe Studios",
@@ -5639,7 +5475,7 @@
   "id": "162cd3deed08",
   "date": "2026-09-01",
   "company": "Minimac Systems",
-  "company_brief": "The company will use the funds to expand R&D, fleet automation, fluid analytics and its Recycling on Wheels model across India.",
+  "company_brief": "Founded in 2012, Pune-based Minimac Systems develops lubricant recycling and lifecycle management solutions for industrial customers.",
   "sector": "Climate & Cleantech",
   "sub_sector": "",
   "round": "Pre-Series A",
@@ -5649,9 +5485,7 @@
   "lead_investors": [
    "Rainmatter"
   ],
-  "investors": [
-   "other VC firms"
-  ],
+  "investors": [],
   "city": "Pune",
   "use_of_funds": "expand R&D, fleet automation, fluid analytics and its Recycling on Wheels model across India",
   "headline": "Minimac Systems Raises Rs 30 Crore in Pre-Series A Funding Led by Rainmatter",
@@ -5667,7 +5501,7 @@
   "id": "c571980e6d09",
   "date": "2026-09-01",
   "company": "Kepler Aerospace",
-  "company_brief": "The startup will use the funds to deploy six swarming ISR satellites and scale its mission operations and avionics-as-a-service businesses.",
+  "company_brief": "Founded in 2018, Bengaluru-based Kepler Aerospace builds space infrastructure for strategic, defence and commercial missions.",
   "sector": "Manufacturing & Industrial",
   "sub_sector": "space infrastructure and mission operations company",
   "round": "Seed",
@@ -5677,10 +5511,7 @@
   "lead_investors": [
    "Blue Ashva Capital"
   ],
-  "investors": [
-   "seed funding",
-   "technology-support programmes"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "deploy six swarming ISR satellites and scale its mission operations and avionics-as-a-service businesses",
   "headline": "Kepler Aerospace Raises $8M in Seed Round Led by Blue Ashva Capital",
@@ -5728,7 +5559,7 @@
   "id": "d5f3e64e5bf5",
   "date": "2026-08-31",
   "company": "YOGa Clean Air",
-  "company_brief": "The company will use the funds to expand into Tier-1 and Tier-2 cities and take its clean-air systems to public transport and outdoor environments.",
+  "company_brief": "Founded in 2019, YOGa Clean Air offers patented Clean Air Bubble technology and currently serves over 5,000 families and hundreds of institutions across 11 Indian cities.",
   "sector": "Mobility & Automotive",
   "sub_sector": "",
   "round": "Series A",
@@ -5757,7 +5588,7 @@
   "id": "d6964890c5a9",
   "date": "2026-08-31",
   "company": "NIIF",
-  "company_brief": "“Infrastructure Fund II reflects the continued confidence of our partners in India’s infrastructure opportunity and in NIIF’s ability to deploy long-term capital with discipline, sector expertise and strong governance.",
+  "company_brief": "NIIF raises $2 billion for its second infrastructure fund from global investors, with a target of $3.2 billion to invest in India’s infrastructure sector.",
   "sector": "Fintech",
   "sub_sector": "",
   "round": "Undisclosed",
@@ -5792,7 +5623,7 @@
   "id": "d93e119c6970",
   "date": "2026-08-31",
   "company": "Jagdish Farshan",
-  "company_brief": "Jagdish Farshan will deploy this capital towards geographic expansion, manufacturing and supply-chain capacity, retail and institutional distribution, technology and digital commerce.",
+  "company_brief": "It currently operates 27 retail outlets across central Gujarat, alongside two outlets in North America.",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "",
   "round": "Series A",
@@ -5802,9 +5633,7 @@
   "lead_investors": [
    "Sharrp Ventures"
   ],
-  "investors": [
-   "a group of angel investors"
-  ],
+  "investors": [],
   "city": "",
   "use_of_funds": "expansion related activities\r\n\r\n Jagdish Farshan, the Gujarat based snack brand has raised Rs 43.5 crore in a Series A round of funding led by Sharrp Ventures, the investment office of Harsh Mariwala,",
   "headline": "Jagdish Farshan raises Rs 43.5 Cr led by Sharrp Ventures",
@@ -5820,7 +5649,7 @@
   "id": "51034e50ede3",
   "date": "2026-08-28",
   "company": "The stock",
-  "company_brief": "Global investment firm Alpha Wave has sold nearly 1.92 crore shares, or a 7.78% stake, in MSME-focused NBFC Aye Finance through bulk deals on the BSE.",
+  "company_brief": "As Alpha Wave held the same 7.78% stake as of June 30, 2026, the latest sale marks its complete exit from Aye Finance.",
   "sector": "Fintech",
   "sub_sector": "",
   "round": "Undisclosed",
@@ -5881,11 +5710,7 @@
   "amount_inr_cr": 72.16,
   "lead_investors": [],
   "investors": [
-   "institutional investors",
-   "family offices",
-   "and co-founders Sarthak Shah Elwadhi",
-   "Aviraj Singh Chadha",
-   "who increased their stakes"
+   "Aviraj Singh Chadha"
   ],
   "city": "Gurugram",
   "use_of_funds": "scale its technology and fleet solutions",
@@ -5914,8 +5739,7 @@
   "amount_usd_mn": 11.364,
   "amount_inr_cr": 100.0,
   "lead_investors": [
-   "VC firm Speciale Invest",
-   "prominent technology investor Ashish Kacholia"
+   "VC firm Speciale Invest"
   ],
   "investors": [
    "Antler Elevate",
@@ -5949,8 +5773,7 @@
    "Abhishek Misra (SKG Asset Management",
    "SKG Fund)",
    "Unistone Capital",
-   "Sanjeev Agarwal Family Office",
-   "and Brijesh Parekh Family Office"
+   "Sanjeev Agarwal Family Office"
   ],
   "investors": [],
   "city": "",
@@ -5968,7 +5791,7 @@
   "id": "6084368199f0",
   "date": "2026-08-27",
   "company": "InstaAstro",
-  "company_brief": "The company will use the fresh capital to expand across regional and international markets, strengthen AI-led products, and scale its Pooja Seva and spiritual commerce businesses.",
+  "company_brief": "The platform serves users across 183 countries and has more than 5,000 verified experts.",
   "sector": "AI & Deeptech",
   "sub_sector": "Noida-based online astrology platform",
   "round": "Series A",
@@ -5979,9 +5802,7 @@
    "Singularity AMC",
    "Artha Venture Fund"
   ],
-  "investors": [
-   "its founders"
-  ],
+  "investors": [],
   "city": "Gurugram",
   "use_of_funds": "expand across regional and international markets, strengthen AI-led products, and scale its Pooja Seva and spiritual commerce businesses",
   "headline": "InstaAstro Raises $12M in Series A Funding Led by Singularity AMC and Artha Venture Fund",
@@ -6036,12 +5857,7 @@
   "amount_usd_mn": 9.659,
   "amount_inr_cr": 85.0,
   "lead_investors": [],
-  "investors": [
-   "family offices",
-   "industrial groups",
-   "founders",
-   "and operators"
-  ],
+  "investors": [],
   "city": "",
   "use_of_funds": "",
   "headline": "Pre-seed VC firm Industrial47 raises Rs 85 Cr in first close of Rs 200 Cr fund",
@@ -6057,7 +5873,7 @@
   "id": "805763dbbbfa",
   "date": "2026-08-27",
   "company": "Cüraa",
-  "company_brief": "The startup will use the funds to expand its kitchenware portfolio, strengthen warehousing and supply chains, and grow across D2C, marketplaces, and quick commerce.",
+  "company_brief": "Founded in 2024, Cüraa has served over 3 lakh households and says its monthly net revenue has grown 25X since launch.",
   "sector": "Logistics & Supply Chain",
   "sub_sector": "",
   "round": "Series A",
@@ -6069,8 +5885,7 @@
   ],
   "investors": [
    "Kae Capital",
-   "Lumikai Fund",
-   "and Better Capital"
+   "Lumikai Fund"
   ],
   "city": "New Delhi",
   "use_of_funds": "expand its kitchenware portfolio, strengthen warehousing and supply chains, and grow across D2C, marketplaces, and quick commerce",
@@ -6161,7 +5976,7 @@
   "id": "540bef27aa13",
   "date": "2026-08-26",
   "company": "Runable",
-  "company_brief": "Runable is a Bengaluru-based AI agent platform that helps small businesses build, manage and grow their operations. Funds will support product expansion, Runable Academy and hiring.",
+  "company_brief": "Runable is a Bengaluru-based AI agent platform that helps small businesses build, manage and grow their operations. The platform can create websites, mobile apps, internal tools, pitch decks and marketing assets using natural language.",
   "sector": "AI & Deeptech",
   "sub_sector": "Bengaluru-based AI agent platform",
   "round": "Series A",
@@ -6224,7 +6039,7 @@
   "id": "a3bab90c715a",
   "date": "2026-08-26",
   "company": "Ringg",
-  "company_brief": "Ringg plans to use the new capital to strengthen its AI platform, expand its voice, WhatsApp and browser-based agents, invest in proprietary AI models, and accelerate enterprise expansion in India and international markets.",
+  "company_brief": "The company later shifted its focus to enterprise voice AI after the founders found that developing and training speech models was expensive and difficult to sustain.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Series A",
@@ -6253,7 +6068,7 @@
   "id": "647d5c7c922c",
   "date": "2026-08-25",
   "company": "Utsav",
-  "company_brief": "The company will use the fresh funds to expand its temple network, strengthen technology and fulfilment capabilities, and scale its team.",
+  "company_brief": "The company works with temple priests, scholars and acharyas to provide authentic devotional experiences through its platform.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Series A",
@@ -6313,7 +6128,7 @@
   "id": "6362ff3f3760",
   "date": "2026-08-25",
   "company": "MATTER Motor Works",
-  "company_brief": "MATTER Motor Works is the Ahmedabad-based electric motorcycle manufacturer behind the AERA. The company will use the funds to expand manufacturing, dealerships and its electric motorcycle portfolio across India.",
+  "company_brief": "MATTER Motor Works is the Ahmedabad-based electric motorcycle manufacturer behind the AERA. MATTER plans to increase production from 1,000 to 5,000 motorcycles per month and expand its dealership network from 30 to nearly 50 outlets by year-end.",
   "sector": "Manufacturing & Industrial",
   "sub_sector": "Ahmedabad-based electric motorcycle manufacturer behind the ",
   "round": "Undisclosed",
@@ -6361,7 +6176,7 @@
   "id": "d32408624ef9",
   "date": "2026-08-25",
   "company": "CarbonStrong",
-  "company_brief": "The startup plans to use the fresh capital to establish its first production facility and move from customer trials to commercial-scale manufacturing.",
+  "company_brief": "CarbonStrong has already conducted customer trials and paid pilots, with its materials used in demonstration projects across Bengaluru, Hyderabad and Chennai.",
   "sector": "Climate & Cleantech",
   "sub_sector": "",
   "round": "Seed",
@@ -6425,7 +6240,7 @@
   "id": "0bf3bd373706",
   "date": "2026-08-24",
   "company": "WATER",
-  "company_brief": "The company will use the new capital for technical validation and to expand its technology toward applications in automotive, aviation and other sectors.",
+  "company_brief": "The company's technology is built around VORTEX, a foundational model designed to understand how the human body interacts with physical surfaces and respond accordingly.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Seed",
@@ -6479,7 +6294,7 @@
   "id": "b7100bba9708",
   "date": "2026-08-24",
   "company": "Third Wave Coffee",
-  "company_brief": "Funds will support city expansion and Third Rush Desserts.",
+  "company_brief": "The company targets 320 cafés across India.",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "homegrown coffee and QSR food brand",
   "round": "Bridge",
@@ -6511,7 +6326,7 @@
   "id": "c0288e9624b5",
   "date": "2026-08-24",
   "company": "Asaya",
-  "company_brief": "The company plans to invest nearly 20% of the fresh capital in R&D, while the remaining funds will support product development, distribution expansion, hiring and growth across new markets.",
+  "company_brief": "The company's portfolio targets concerns including hyperpigmentation, uneven skin tone, dehydration, and acne.",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "",
   "round": "Series A",
@@ -6524,8 +6339,7 @@
   "investors": [
    "OTP Ventures",
    "Huddle Ventures",
-   "Hyperscale Ventures",
-   "and 72 Ventures"
+   "Hyperscale Ventures"
   ],
   "city": "Bengaluru",
   "use_of_funds": "",
@@ -6557,8 +6371,7 @@
    "Sauce"
   ],
   "investors": [
-   "V3 Ventures",
-   "angel investors"
+   "V3 Ventures"
   ],
   "city": "Mumbai",
   "use_of_funds": "expand R&D, product offerings, manufacturing, clinical testing, and team",
@@ -6614,8 +6427,7 @@
    "Sauce VC"
   ],
   "investors": [
-   "Titan Capital",
-   "angel investors"
+   "Titan Capital"
   ],
   "city": "Noida",
   "use_of_funds": "expand across India and launch new collections",
@@ -6632,7 +6444,7 @@
   "id": "db55e4f39094",
   "date": "2026-08-20",
   "company": "Zaydn",
-  "company_brief": "The company plans to use the fresh capital to expand inventory and production, strengthen working capital, grow its D2C and marketplace presence, and invest in product development, technology, branding, and team expansion.",
+  "company_brief": "Read Also - Sportskeeda Founder Porush Jain Invests In Neuromod Aqua\nFounded in 2022 by Ankit Dass, Zaydn was later joined by co-founder Vidushi Chaudhary.",
   "sector": "D2C & Consumer Brands",
   "sub_sector": "",
   "round": "Seed",
@@ -6696,9 +6508,7 @@
   "lead_investors": [
    "Chiratae Ventures"
   ],
-  "investors": [
-   "in the round"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "deepen its presence in Bengaluru and expand into newer cities",
   "headline": "Peeko Raises $7 Million in Series A Funding Led by Chiratae Ventures",
@@ -6768,7 +6578,7 @@
   "id": "cb7ed893e50d",
   "date": "2026-08-19",
   "company": "Sachin Bansal's Navi",
-  "company_brief": "Founded in 2018, Navi offers a range of financial services ranging from loans, insurance, mutual funds, and UPI payments.",
+  "company_brief": "The company achieved consolidated profitability in the fourth quarter of FY26.",
   "sector": "Fintech",
   "sub_sector": "",
   "round": "Undisclosed",
@@ -6840,8 +6650,8 @@
   "id": "09418ed31c1f",
   "date": "2026-08-19",
   "company": "Butterfly Learnings",
-  "company_brief": "The company will use the funds to expand beyond Maharashtra, strengthen AI and technology, and grow its therapist training programme.",
-  "sector": "AI & Deeptech",
+  "company_brief": "Founded in 2021, Butterfly Learnings now operates 90+ centres across 22 Indian cities and focuses on care for children with autism, ADHD and learning disabilities.",
+  "sector": "Edtech",
   "sub_sector": "Indian paediatric behavioural healthcare platform focused on",
   "round": "Pre-Series B",
   "amount_text": "₹65 Crore",
@@ -6852,8 +6662,7 @@
   ],
   "investors": [
    "Enzia Ventures",
-   "Insitor Impact Asia Fund",
-   "IIMA Ventures also participated in the round"
+   "Insitor Impact Asia Fund"
   ],
   "city": "Mumbai",
   "use_of_funds": "expand beyond Maharashtra, strengthen AI and technology, and grow its therapist training programme",
@@ -6912,8 +6721,7 @@
   ],
   "investors": [
    "Vertex Ventures Southeast Asia",
-   "India",
-   "existing investor 3one4 Capital"
+   "India"
   ],
   "city": "Mumbai",
   "use_of_funds": "strengthen AI capabilities across lending, risk, underwriting and collections",
@@ -6976,12 +6784,10 @@
    "Colossa Ventures"
   ],
   "investors": [
-   "existing investors RPSG Capital Ventures",
    "Ivycap Ventures",
    "Rainmatter",
    "Multiply Ventures",
    "SucSEED Ventures",
-   "new investors New Age India Fund",
    "Beyond Capital Ventures"
   ],
   "city": "Gurugram",
@@ -7009,9 +6815,7 @@
   "lead_investors": [
    "Bharat Value Fund"
   ],
-  "investors": [
-   "quick commerce"
-  ],
+  "investors": [],
   "city": "Goa",
   "use_of_funds": "",
   "headline": "Dharwad Big Mishra Pedha raises Rs 300 Cr from Bharat Value Fund",
@@ -7027,7 +6831,7 @@
   "id": "2aa9d6cf1e4e",
   "date": "2026-08-18",
   "company": "DeHaat Honest Farms",
-  "company_brief": "DeHaat Honest Farms is the pesticide-free consumer food brand launched by DeHaat. The company will use the funds to expand geographically, build awareness of pesticide-free food and launch new products.",
+  "company_brief": "DeHaat Honest Farms is the pesticide-free consumer food brand launched by DeHaat. The company has also appointed DeHaat co-founder Adarsh J Srivastava as Chief Executive Officer to lead its next phase of growth.",
   "sector": "Agritech & Foodtech",
   "sub_sector": "pesticide-free consumer food brand launched by DeHaat",
   "round": "Pre-Series A",
@@ -7130,7 +6934,7 @@
   "id": "f25221982bfb",
   "date": "2026-08-13",
   "company": "Quarkitech",
-  "company_brief": "The company will use the capital to develop its proprietary data compression technology for defence, aerospace and other data-intensive applications.",
+  "company_brief": "The startup develops simulation and quantum-inspired algorithmic solvers for large-scale combinatorial optimisation, with applications across finance, deep science and mission-critical systems.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Pre-Seed",
@@ -7202,7 +7006,7 @@
   "id": "5d311e6b7403",
   "date": "2026-08-13",
   "company": "Centricity",
-  "company_brief": "The fresh capital will help Centricity strengthen its technology platform, expand its B2B2C wealth distribution network, and grow its private wealth and NRI businesses in India and international markets.",
+  "company_brief": "It has also onboarded more than 250 family offices.",
   "sector": "Fintech",
   "sub_sector": "technology led wealth management firm",
   "round": "Series A",
@@ -7213,7 +7017,8 @@
    "SMBC Asia Rising Fund"
   ],
   "investors": [
-   "also participating"
+   "Burman Family Office",
+   "RAAY Investments (Amit Patni Family Office)"
   ],
   "city": "Gurugram",
   "use_of_funds": "Centricity strengthen its technology platform, expand its B2B2C wealth distribution network, and grow its private wealth and NRI businesses in India and international markets",
@@ -7243,13 +7048,7 @@
   "amount_inr_cr": 400.0,
   "lead_investors": [],
   "investors": [
-   "institutional investors including SIDBI",
-   "the Governments of Kerala",
-   "Uttar Pradesh",
-   "alongside family offices",
-   "accomplished entrepreneurs",
-   "and UHNIs from India",
-   "the Middle East"
+   "Uttar Pradesh"
   ],
   "city": "Chennai",
   "use_of_funds": "Rs 80 Cr over the next six months Bluehill.VC, a frontier-tech-focused venture capital firm, has announced the final close of its maiden Rs 400 crore fund, including the full subscription of its Rs 50",
@@ -7270,7 +7069,7 @@
   "id": "133bf8f20d82",
   "date": "2026-08-12",
   "company": "Yulu",
-  "company_brief": "Yulu is a Bengaluru-based electric mobility-as-a-service (MaaS) platform. Funds will support Yulu Express, new markets, service hubs, and enterprise partnerships.",
+  "company_brief": "Yulu is a Bengaluru-based electric mobility-as-a-service (MaaS) platform. The company provides electric scooters for short-distance commuting and delivery workers through its app-based rental and subscription model.",
   "sector": "Mobility & Automotive",
   "sub_sector": "Bengaluru-based electric mobility-as-a-service (MaaS) platfo",
   "round": "Series C",
@@ -7300,7 +7099,7 @@
   "id": "f4bfac70f1de",
   "date": "2026-08-12",
   "company": "Wippi",
-  "company_brief": "The startup will use the funds to expand voice AI, engineering, manufacturing and D2C operations.",
+  "company_brief": "Wippi aims to reach 15,000 families and expand its characters, languages and products globally.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Seed",
@@ -7354,8 +7153,8 @@
   "id": "90fb7fdb5460",
   "date": "2026-08-12",
   "company": "Lane",
-  "company_brief": "The startup will use the fresh capital to expand into Bengaluru and other Tier I cities, strengthen its sensor-based driving behaviour technology and build services around first-time car ownership.",
-  "sector": "Mobility & Automotive",
+  "company_brief": "The platform offers structured driving lessons along with RTO and licensing assistance.",
+  "sector": "Edtech",
   "sub_sector": "",
   "round": "Pre-Seed",
   "amount_text": "₹8.5 Crore",
@@ -7367,8 +7166,7 @@
   "investors": [
    "DeVC",
    "Antler India",
-   "Panthera Peak",
-   "angel investors"
+   "Panthera Peak"
   ],
   "city": "Bengaluru",
   "use_of_funds": "expand into Bengaluru and other Tier I cities, strengthen its sensor-based driving behaviour technology and build services around first-time car ownership",
@@ -7436,7 +7234,7 @@
   "id": "dd1f5b0a6fcb",
   "date": "2026-08-11",
   "company": "Vecton AI",
-  "company_brief": "Vecton AI is an AI transformation partner for financial institutions. Vecton AI will use the fresh capital to accelerate its enterprise-ready AI solutions and strengthen its Forward Deployed Engineer (FDE) model.",
+  "company_brief": "Vecton AI is an AI transformation partner for financial institutions. The company also plans to expand its presence across the banking, financial services and insurance (BFSI) sector.",
   "sector": "AI & Deeptech",
   "sub_sector": "AI transformation partner for financial institutions",
   "round": "Pre-Seed",
@@ -7446,10 +7244,7 @@
   "lead_investors": [
    "Zeropearl VC"
   ],
-  "investors": [
-   "prominent startup founders",
-   "operators"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "accelerate its enterprise-ready AI solutions and strengthen its Forward Deployed Engineer (FDE) model",
   "headline": "Vecton AI Raises Rs 6 Crore to Expand AI Solutions for BFSI",
@@ -7465,7 +7260,7 @@
   "id": "80a09e325085",
   "date": "2026-08-11",
   "company": "FreightFox",
-  "company_brief": "FreightFox is a full-stack Transportation Management System (TMS) and Control Tower platform. The startup will use the fresh capital to expand enterprise sales, strengthen its distribution and partner network in India, and explore international markets.",
+  "company_brief": "FreightFox is a full-stack Transportation Management System (TMS) and Control Tower platform. The company provides an AI-powered Transportation Management System and Control Tower platform designed for large manufacturing enterprises.",
   "sector": "Logistics & Supply Chain",
   "sub_sector": "full-stack Transportation Management System (TMS) and Contro",
   "round": "Pre-Series A",
@@ -7508,7 +7303,6 @@
   "investors": [
    "Y Combinator",
    "Peak XV Partners",
-   "angel investors including Paul Graham",
    "Gokul Rajaram",
    "Thariq Shihipar"
   ],
@@ -7591,11 +7385,7 @@
   "amount_usd_mn": null,
   "amount_inr_cr": null,
   "lead_investors": [],
-  "investors": [
-   "a full-scale prototype of Shunya",
-   "India's first indigenous eVTOL of its class",
-   "the company said"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "",
   "headline": "Sarla Aviation gets design organisation approval from DGCA",
@@ -7611,7 +7401,7 @@
   "id": "edc31a00fae4",
   "date": "2026-08-10",
   "company": "Bakingo parent",
-  "company_brief": "At the time, co-founder and director Himanshu Chawla said the capital would support Bakingo’s expansion into Tier-II and III cities, technology-led demand forecasting and offline stores.",
+  "company_brief": "Founded in 2010, FA Gifts began with FlowerAura, an online platform selling flowers and gifts, and added Bakingo in 2016.",
   "sector": "SaaS & Enterprise Tech",
   "sub_sector": "",
   "round": "Undisclosed",
@@ -7674,7 +7464,7 @@
    "Singularity AMC"
   ],
   "investors": [
-   "founders"
+   "Elevation Capital"
   ],
   "city": "Bengaluru",
   "use_of_funds": "expand BlissClub’s product categories, accelerate its offline retail network, strengthen product development, and recruit talent for its next phase of growth",
@@ -7705,10 +7495,7 @@
   "lead_investors": [
    "Saama Capital"
   ],
-  "investors": [
-   "existing",
-   "new investors"
-  ],
+  "investors": [],
   "city": "Delhi",
   "use_of_funds": "strengthen quick-commerce and offline distribution, enter skincare and scale its fragrance brand Spritz by Typsy",
   "headline": "Typsy Beauty Raises ₹20 Cr for Quick Commerce and Retail Expansion",
@@ -7724,7 +7511,7 @@
   "id": "d814e4b99422",
   "date": "2026-08-06",
   "company": "Solinas Integrity",
-  "company_brief": "The company plans to use the fresh capital to expand manufacturing, accelerate product development, strengthen its software infrastructure and support working capital needs.",
+  "company_brief": "The company's solutions combine robotics, computer vision, artificial intelligence and infrastructure data to enable inspection, cleaning and digitisation of underground assets.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Undisclosed",
@@ -7737,8 +7524,6 @@
   ],
   "investors": [
    "Luthra Group",
-   "follow-on investments from existing backers SVL SME Fund",
-   "managed by SBI Ventures",
    "Rainmatter Capital",
    "8X Ventures Fund I"
   ],
@@ -7769,9 +7554,7 @@
   "amount_usd_mn": 34.091,
   "amount_inr_cr": 300.0,
   "lead_investors": [],
-  "investors": [
-   "in Piper Serica's first venture fund"
-  ],
+  "investors": [],
   "city": "Mumbai",
   "use_of_funds": "",
   "headline": "Piper Serica Raises ₹300 Cr in First Close of Bharat Tech Fund",
@@ -7805,8 +7588,7 @@
    "Lightspeed India",
    "Godrej Industries Group",
    "Cisco Foundation",
-   "Francis Family Fund",
-   "and Volta Circle"
+   "Francis Family Fund"
   ],
   "city": "",
   "use_of_funds": "",
@@ -7823,7 +7605,7 @@
   "id": "929bd45a4062",
   "date": "2026-08-06",
   "company": "HomeRun",
-  "company_brief": "The company plans to use the fresh capital to expand into new markets while strengthening its supply chain, technology and product portfolio.",
+  "company_brief": "The company delivers materials to contractors and homeowners within 60 minutes, while focusing on competitive pricing, reliability, and material genuineness.",
   "sector": "Real Estate & Proptech",
   "sub_sector": "quick commerce platform for construction and interior materi",
   "round": "Series A",
@@ -7834,10 +7616,8 @@
    "Nexus Venture Partners"
   ],
   "investors": [
-   "existing investors Sorin Investments",
    "Titan Capital",
-   "Sparrow Capital",
-   "and Consumer Collective by Atrium"
+   "Sparrow Capital"
   ],
   "city": "Bengaluru",
   "use_of_funds": "expand into new markets while strengthening its supply chain, technology and product portfolio",
@@ -7882,7 +7662,7 @@
   "id": "6d8009171406",
   "date": "2026-08-05",
   "company": "Vingo",
-  "company_brief": "Vingo is a consumer-to-consumer (C2C) marketplace for buying and selling pre-owned products. The company plans to use the fresh capital to strengthen its product, build trust and payment infrastructure, understand user behaviour and expand marketing across key customer segments.",
+  "company_brief": "Vingo is a consumer-to-consumer (C2C) marketplace for buying and selling pre-owned products. The platform currently operates in Bengaluru and is available on both Android and iOS.",
   "sector": "E-commerce & Quick Commerce",
   "sub_sector": "consumer-to-consumer (C2C) marketplace for buying and sellin",
   "round": "Seed",
@@ -7892,9 +7672,7 @@
   "lead_investors": [
    "IndiaQuotient"
   ],
-  "investors": [
-   "in the round"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "strengthen its product, build trust and payment infrastructure, understand user behaviour and expand marketing across key customer segments",
   "headline": "Vingo Secures ₹10 Crore Seed Funding to Expand C2C Marketplace",
@@ -7926,9 +7704,7 @@
    "PeerCapital",
    "All In Capital",
    "Better Capital",
-   "OTP Ventures",
-   "entrepreneur Kunal Shah",
-   "also participated in the round"
+   "OTP Ventures"
   ],
   "city": "Bengaluru",
   "use_of_funds": "customers and reducing delivery times",
@@ -7992,8 +7768,7 @@
   ],
   "investors": [
    "Silicon Valley Quad",
-   "DeVC",
-   "also participated in this round"
+   "DeVC"
   ],
   "city": "Bengaluru",
   "use_of_funds": "strengthen its go-to-market and sales operations, expand its engineering team and build an in-house team of former equity research analysts",
@@ -8014,7 +7789,7 @@
   "id": "73e1c95aa317",
   "date": "2026-08-05",
   "company": "Lighthouse Canton",
-  "company_brief": "The transaction strengthens Lighthouse Canton India’s private credit business and adds to the investment firm’s growing portfolio of structured financing deals in India.",
+  "company_brief": "Through its India private credit platform, Lighthouse Canton provides customised financing solutions to established businesses across different sectors.",
   "sector": "Fintech",
   "sub_sector": "",
   "round": "Undisclosed",
@@ -8038,7 +7813,7 @@
   "id": "0c7d1e6d9062",
   "date": "2026-08-05",
   "company": "InRisk Labs",
-  "company_brief": "The company will use the fresh capital to strengthen its underwriting, actuarial, catastrophe modelling and AI capabilities, expand into climate and other non-life insurance segments, and scale its reinsurance subsidiary EarthRe.",
+  "company_brief": "Alongside the fundraise, InRisk Labs said its subsidiary EarthRe Insurance IFSC Limited has received a reinsurance licence from the International Financial Services Centres Authority (IFSCA).",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Series A",
@@ -8049,9 +7824,7 @@
    "Bessemer Venture Partners",
    "Northpoint Capital"
   ],
-  "investors": [
-   "the fundraise"
-  ],
+  "investors": [],
   "city": "Ahmedabad",
   "use_of_funds": "strengthen its underwriting, actuarial, catastrophe modelling and AI capabilities, expand into climate and other non-life insurance segments, and scale its reinsurance subsidiary EarthRe",
   "headline": "InRisk Labs Raises $27M to Scale AI-Powered Reinsurance",
@@ -8071,7 +7844,7 @@
   "id": "430fffdb1738",
   "date": "2026-08-05",
   "company": "Hulp",
-  "company_brief": "Hulp will use the fresh capital to expand AI-powered workflows, strengthen its leadership and technology teams, and scale its operations across major Indian cities.",
+  "company_brief": "The platform allows users to delegate daily, weekly, monthly and one-time tasks through WhatsApp or its mobile app.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Seed",
@@ -8084,9 +7857,7 @@
   ],
   "investors": [
    "DeVC (Z47)",
-   "angel investors",
-   "PB Fintech co-founder",
-   "chairman Yashish Dahiya"
+   "PB Fintech co-founder"
   ],
   "city": "Gurugram",
   "use_of_funds": "expand AI-powered workflows, strengthen its leadership and technology teams, and scale its operations across major Indian cities",
@@ -8115,8 +7886,9 @@
    "Avinya Ventures"
   ],
   "investors": [
-   "stronger engineering",
-   "product development"
+   "Appreciate Capital",
+   "DeVC",
+   "San Francisco-based Operators Studio"
   ],
   "city": "Pune",
   "use_of_funds": "expand its annual manufacturing capacity to 100 MWh, accelerate product development, strengthen its engineering team, and scale the deployment of its lithium-ion battery systems across robotics, defen",
@@ -8148,10 +7920,7 @@
    "Stellaris Venture Partners",
    "3one4 Capital"
   ],
-  "investors": [
-   "its consumer offering",
-   "Profound is developing a B2B recruitment platform aimed at startups"
-  ],
+  "investors": [],
   "city": "",
   "use_of_funds": "develop its AI platform, expand its product capabilities and strengthen its consumer and B2B offerings",
   "headline": "Former Swiggy, Zomato execs launch AI startup Profound, raise $1.5 mn funding",
@@ -8176,12 +7945,9 @@
   "amount_inr_cr": 27.28,
   "lead_investors": [
    "Sorin Investments",
-   "with Razorpay",
    "Wyser Capital joining the round"
   ],
-  "investors": [
-   "in the round"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "strengthen its AI products, expand go-to-market efforts and drive adoption among major consumer brands",
   "headline": "AI startup Kily raises $3.1m to expand AI Agents for Ecommerce and Quick Commerce",
@@ -8197,19 +7963,15 @@
   "id": "373ce1ab784e",
   "date": "2026-08-04",
   "company": "Home décor and furnishings marketplace Vaaree",
-  "company_brief": "The capital will be used to expand Vaaree’s fulfilment network, improve delivery speed, and strengthen its AI-powered home styling and product discovery platform, VibeCheck.",
-  "sector": "SaaS & Enterprise Tech",
+  "company_brief": "Founded in Bengaluru in 2022, Vaaree operates a curated online marketplace for home décor and furnishings.",
+  "sector": "E-commerce & Quick Commerce",
   "sub_sector": "",
   "round": "Series A",
   "amount_text": "Rs 65 Cr",
   "amount_usd_mn": 7.386,
   "amount_inr_cr": 65.0,
   "lead_investors": [
-   "Hero Enterprise",
-   "the investment arm of Hero Group",
-   "and Cap Alpha Ventures",
-   "an early-stage investment firm",
-   "formerly known as Client Associates Alternate Fund"
+   "Hero Enterprise"
   ],
   "investors": [],
   "city": "Bengaluru",
@@ -8227,7 +7989,7 @@
   "id": "da20492a6437",
   "date": "2026-08-04",
   "company": "GetVantage",
-  "company_brief": "The startup will use the funds to scale AI-driven financing and embedded finance solutions for MSMEs.",
+  "company_brief": "The platform uses alternative data, cash-flow analysis and predictive analytics to assess businesses instead of relying only on traditional collateral and credit history.",
   "sector": "AI & Deeptech",
   "sub_sector": "B2B fintech platform for MSMEs",
   "round": "Debt",
@@ -8235,11 +7997,10 @@
   "amount_usd_mn": 7.159,
   "amount_inr_cr": 63.0,
   "lead_investors": [
-   "former RBL Bank MD Rajeev Ahuja",
-   "investment firm SanRaj Group"
+   "Rajeev Ahuja",
+   "SanRaj Group"
   ],
   "investors": [
-   "existing investors Chiratae Ventures",
    "Varanium Fintech Fund",
    "VCMint"
   ],
@@ -8320,10 +8081,7 @@
   "lead_investors": [
    "UC Impower"
   ],
-  "investors": [
-   "new investor Catamaran",
-   "existing backer Transition VC"
-  ],
+  "investors": [],
   "city": "Pune",
   "use_of_funds": "the company expand manufacturing, strengthen R&D, accelerate product innovation, and support global expansion",
   "headline": "Matel Secures ₹130 Crore to Expand Manufacturing and Global Business",
@@ -8339,7 +8097,7 @@
   "id": "12b5c7a1108f",
   "date": "2026-08-03",
   "company": "Kaapi Machines",
-  "company_brief": "Alongside the investment, both companies have entered into a strategic partnership to aim expand Kaapi Machines' product portfolio, strengthening local manufacturing, and enhancing its technology, warehousing, and service infrastructure.",
+  "company_brief": "The company also plans to explore opportunities in adjacent product categories by leveraging Sedna's HoReCa expertise.",
   "sector": "Manufacturing & Industrial",
   "sub_sector": "coffee equipment and service provider based in Bengaluru",
   "round": "Undisclosed",
@@ -8347,13 +8105,9 @@
   "amount_usd_mn": 5.682,
   "amount_inr_cr": 50.0,
   "lead_investors": [
-   "Abhinav Mathur",
-   "represents several globally renowned coffee equipment brands"
+   "Abhinav Mathur"
   ],
-  "investors": [
-   "the investment",
-   "both companies have entered into a strategic partnership"
-  ],
+  "investors": [],
   "city": "Bengaluru",
   "use_of_funds": "expand its product portfolio, stengthen its manufacturing capabilities, and improve technology",
   "headline": "Kaapi Machines Raises ₹50 Crore from Sedna HoReCa to Expand Coffee Equipment Business",
@@ -8384,7 +8138,6 @@
    "Seligman Ventures"
   ],
   "investors": [
-   "existing investors Sierra Ventures",
    "3one4 Capital"
   ],
   "city": "Bengaluru",
@@ -8436,10 +8189,7 @@
   "amount_usd_mn": 0.028,
   "amount_inr_cr": 0.25,
   "lead_investors": [],
-  "investors": [
-   "its existing foreign exchange",
-   "remittance business"
-  ],
+  "investors": [],
   "city": "",
   "use_of_funds": "",
   "headline": "EbixCash World Money gets perpetual RBI licence for trade and family remittances",
