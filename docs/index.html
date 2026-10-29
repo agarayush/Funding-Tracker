@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>India Funding Tracker</title>
+<meta name="description" content="Indian startup funding rounds, tracked weekly from VIE Stories and YourStory, with AI-written sector tailwinds and headwinds.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">
+      <h1>India Funding Tracker</h1>
+      <p class="sub">Startup rounds from <a href="https://viestories.com/funding-alert" target="_blank" rel="noopener">VIE Stories</a> and <a href="https://yourstory.com/category/funding" target="_blank" rel="noopener">YourStory</a>, refreshed weekly. <span id="updated"></span></p>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button class="tab active" data-tab="deals" role="tab">Deals</button>
+      <button class="tab" data-tab="sectors" role="tab">Sectors</button>
+      <button class="tab" data-tab="coverage" role="tab">Coverage</button>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <section id="kpis" class="kpis"></section>
+
+  <section id="tab-deals" class="panel">
+    <div class="card chart-card">
+      <div class="card-head"><h2>Deals per week</h2><span class="muted" id="chart-note"></span></div>
+      <div id="chart"></div>
+    </div>
+
+    <div class="filters card">
+      <input id="q" type="search" placeholder="Search company, investor, brief…" aria-label="Search">
+      <select id="f-sector" aria-label="Sector"><option value="">All sectors</option></select>
+      <select id="f-round" aria-label="Round"><option value="">All rounds</option></select>
+      <select id="f-source" aria-label="Source">
+        <option value="">Both sources</option><option value="viestories">VIE Stories</option><option value="yourstory">YourStory</option>
+      </select>
+      <label class="inline">From <input id="f-from" type="date"></label>
+      <label class="inline">To <input id="f-to" type="date"></label>
+      <select id="f-size" aria-label="Cheque size">
+        <option value="">Any cheque size</option>
+        <option value="0-1">Under $1M</option>
+        <option value="1-5">$1M to $5M</option>
+        <option value="5-20">$5M to $20M</option>
+        <option value="20-100">$20M to $100M</option>
+        <option value="100-100000">$100M+</option>
+        <option value="undisclosed">Undisclosed</option>
+      </select>
+      <button id="reset" class="ghost">Reset</button>
+      <button id="csv" class="primary">Export CSV</button>
+    </div>
+
+    <div class="card table-card">
+      <div class="card-head"><h2 id="count">Deals</h2><span class="muted">Click a row for the company brief and sector outlook</span></div>
+      <div class="table-scroll">
+        <table id="deals">
+          <thead><tr>
+            <th data-sort="date" class="sortable">Date</th>
+            <th data-sort="company" class="sortable">Company</th>
+            <th data-sort="sector" class="sortable">Sector</th>
+            <th data-sort="round" class="sortable">Round</th>
+            <th data-sort="amount_usd_mn" class="sortable num">Cheque</th>
+            <th>Investors</th>
+            <th>Source</th>
+          </tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div class="pager"><button id="prev" class="ghost">Previous</button><span id="page"></span><button id="next" class="ghost">Next</button></div>
+    </div>
+  </section>
+
+  <section id="tab-sectors" class="panel" hidden>
+    <p class="muted intro">AI-written notes on each sector in India, with the tailwinds and headwinds, plus a read of the deals tracked here. Notes refresh when a sector gets new deals.</p>
+    <div id="sector-grid" class="sector-grid"></div>
+  </section>
+
+  <section id="tab-coverage" class="panel" hidden>
+    <p class="muted intro">How many articles each source produced per week, how many became deals, and how many were rejected (roundups, IPOs, non-Indian companies). A week with zero articles points to a scraping gap.</p>
+    <div class="card"><div class="table-scroll"><table id="coverage-weeks"></table></div></div>
+    <div class="card"><div class="card-head"><h2>Recent runs</h2></div><div class="table-scroll"><table id="coverage-runs"></table></div></div>
+  </section>
+</main>
+
+<footer class="wrap foot muted">Data comes from public news articles; every row links to its source. Cheque sizes in INR are converted at a fixed rate to USD for sorting.</footer>
+<script src="app.js"></script>
+</body>
+</html>

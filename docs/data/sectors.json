@@ -1,0 +1,336 @@
+{
+ "Fintech": {
+  "brief": "India's largest venture category by capital, spanning payments, digital lending, wealthtech, insurtech and B2B finance infrastructure. UPI made payments ubiquitous but thin-margin, so capital has moved toward lending, wealth and embedded finance. Growth funds and fintech specialists back later stages while seed money flows to AI-led credit and compliance tools.",
+  "tailwinds": [
+   "UPI, Account Aggregator and OCEN rails cut onboarding and underwriting costs",
+   "Retail investor boom: demat accounts and SIP flows keep hitting records",
+   "Large underserved MSME credit gap, estimated at over $300B",
+   "GIFT City and RBI sandboxes open room for new products",
+   "Credit-on-UPI and RuPay credit cards widen the lending surface"
+  ],
+  "headwinds": [
+   "Tight RBI rules on digital lending, FLDG and co-lending cap growth models",
+   "Zero-MDR UPI keeps pure payments businesses unprofitable",
+   "SEBI curbs on F&O and finfluencers hit broking and trading volumes",
+   "Rising unsecured-loan delinquencies push up risk weights and funding costs",
+   "Licence dependence: NBFC/PA licences are slow and costly to get"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ },
+ "AI & Deeptech": {
+  "brief": "The fastest-growing pocket of Indian early-stage funding, spanning applied GenAI, vertical AI agents, robotics, semiconductors, spacetech and drones. Most AI startups build applications on global foundation models, with a smaller set building Indic-language models. Deeptech rounds are smaller but rising, helped by government co-investment.",
+  "tailwinds": [
+   "IndiaAI Mission funds GPU compute and Indic foundation models",
+   "Semicon India incentives and new fabs/OSAT plants anchor chip design startups",
+   "Space sector opened to private players via IN-SPACe and the 2023 Space Policy",
+   "Deep engineering talent and low cost to build global B2B AI products",
+   "Defence indigenisation and the drone PLI create domestic demand"
+  ],
+  "headwinds": [
+   "Thin moats when built on third-party foundation models",
+   "GPU compute is scarce and costly next to US peers",
+   "Long hardware gestation clashes with typical VC fund timelines",
+   "Few domestic enterprise buyers pay for frontier AI at scale",
+   "Data protection rules (DPDP Act) and unclear AI regulation add compliance load"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ },
+ "SaaS & Enterprise Tech": {
+  "brief": "India is the second-largest SaaS hub after the US, selling mostly to global mid-market and enterprise buyers. AI-native vertical SaaS, cybersecurity, devtools and HR/fin-ops software attract most rounds. Investors favour capital-efficient companies with US revenue and clear paths to $100M ARR.",
+  "tailwinds": [
+   "AI copilots and agents create a new product cycle and pricing upside",
+   "Cost advantage in engineering and support versus US competitors",
+   "Indian enterprises digitising fast (GST, e-invoicing, DPDP compliance)",
+   "Proven playbook from Freshworks, Zoho, Postman and Chargebee",
+   "Global capability centres in India seed founders and early customers"
+  ],
+  "headwinds": [
+   "Slower US software budgets and longer sales cycles",
+   "AI commoditises point solutions, compressing seat-based pricing",
+   "Low willingness to pay in the domestic SMB market",
+   "Thin late-stage capital and IPO comps for SaaS in India",
+   "Data-localisation and security reviews slow enterprise deals"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ },
+ "D2C & Consumer Brands": {
+  "brief": "Digital-first brands in beauty, personal care, food and beverage, apparel and home sell through their own sites, marketplaces and quick commerce. Funding has shifted from growth-at-all-costs to profitable brands with offline and q-commerce distribution. Consumer-focused funds and strategic corporates are the most active backers.",
+  "tailwinds": [
+   "Quick commerce gives new brands instant reach across metros",
+   "Rising per-capita income and premiumisation among younger consumers",
+   "Lower CAC through creator and regional-language marketing",
+   "Corporate acquirers (HUL, Marico, ITC, Emami) create exit routes",
+   "Tier-2/3 demand growing quickly via e-commerce"
+  ],
+  "headwinds": [
+   "Rising ad costs on Meta and Google squeeze margins",
+   "Q-commerce platforms launching private labels and charging high take rates",
+   "Hard to differentiate; copycat products appear quickly",
+   "Working-capital-heavy offline expansion",
+   "Slow rural and mass-market consumption weighs on volumes"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ },
+ "E-commerce & Quick Commerce": {
+  "brief": "Marketplaces, quick commerce, social commerce and commerce-enablement platforms. Quick commerce (Blinkit, Zepto, Instamart) is the defining growth story, pulling in large late-stage rounds and reshaping retail. Early-stage money goes to vertical marketplaces and tools that serve sellers.",
+  "tailwinds": [
+   "Q-commerce spreading beyond groceries into electronics, pharma and fashion",
+   "ONDC lowers the barrier to digital distribution",
+   "India's online shopper base expected to pass 400M+",
+   "Wider digital payments and better logistics in tier-2/3",
+   "Festive-season demand spikes reward scale players"
+  ],
+  "headwinds": [
+   "Heavy cash burn on dark stores and discounting",
+   "FDI inventory rules limit marketplace models",
+   "Regulatory scrutiny from traders' bodies and the CCI over predatory pricing",
+   "Rider supply, gig-worker welfare laws and rising labour costs",
+   "Intense competition from Amazon, Flipkart and Reliance"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ },
+ "Healthtech & Biotech": {
+  "brief": "Covers diagnostics, digital clinics, health insurance tech, medical devices, pharma supply chain, biotech and wellness. Ayushman Bharat Digital Mission rails and an ageing, more chronically ill population support steady deal flow. Medtech and biotech rounds are growing as domestic manufacturing incentives kick in.",
+  "tailwinds": [
+   "ABDM health IDs and data rails enable interoperable digital health",
+   "PLI schemes for medical devices and APIs encourage local manufacturing",
+   "Rising chronic disease and an ageing population lift demand",
+   "Health insurance penetration growing after COVID",
+   "Low-cost clinical talent supports global CRO/biotech services"
+  ],
+  "headwinds": [
+   "Low patient willingness to pay for digital consultations",
+   "Slow regulatory approvals (CDSCO) for devices and drugs",
+   "Hospital chains dominate care delivery and patient acquisition",
+   "Patient-data privacy obligations under the DPDP Act",
+   "Long R&D cycles for biotech with limited specialist investors"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ },
+ "Edtech": {
+  "brief": "After a sharp post-pandemic correction, Indian edtech is rebuilding around test prep, upskilling, vocational training, study-abroad and offline-hybrid models. Investors now prefer profitable unit economics, outcome-linked models and AI tutors over large B2C brands.",
+  "tailwinds": [
+   "NEP 2020 encourages digital and vocational learning",
+   "Large youth population needing employable skills",
+   "AI tutors cut content and teaching costs sharply",
+   "Study-abroad and global upskilling demand stays strong",
+   "Hybrid offline centres improve trust and retention"
+  ],
+  "headwinds": [
+   "Trust deficit after the high-profile Byju's collapse",
+   "Consumer protection scrutiny of aggressive sales tactics",
+   "Free content from YouTube and AI tools",
+   "Coaching-centre rules and regional regulation",
+   "Seasonal, cyclical demand tied to exam calendars"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ },
+ "Climate & Cleantech": {
+  "brief": "Spans EVs and charging, battery and energy storage, solar and renewables, carbon management, recycling and green hydrogen. India's 500 GW non-fossil target and national EV push create policy-backed demand. Climate-focused funds, DFIs and strategics provide a growing share of capital.",
+  "tailwinds": [
+   "500 GW renewable target by 2030 and National Green Hydrogen Mission",
+   "PLI for advanced chemistry cell batteries and PM E-DRIVE EV subsidies",
+   "Corporate net-zero and BRSR disclosure needs drive B2B demand",
+   "Falling solar and battery costs improve unit economics",
+   "Domestic carbon credit trading scheme being set up"
+  ],
+  "headwinds": [
+   "Capital-intensive models need debt and blended finance",
+   "Reliance on imported cells and critical minerals (China)",
+   "Policy and subsidy changes create demand uncertainty",
+   "Discom finances and grid integration limit offtake",
+   "Long payback periods versus typical VC timelines"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ },
+ "Mobility & Automotive": {
+  "brief": "Includes EV OEMs (two- and three-wheelers), ride-hailing, fleet electrification, auto-tech and vehicle aftermarket platforms. India is the world's largest two-wheeler market, which makes EV two-wheelers and commercial fleets the main investment theme.",
+  "tailwinds": [
+   "Rising EV adoption in two/three-wheelers with improving TCO",
+   "PLI for auto and components, and FAME/PM E-DRIVE support",
+   "Growing urban ride demand and fleet electrification by aggregators",
+   "Strong auto-component export base",
+   "Vehicle financing and used-car digitisation"
+  ],
+  "headwinds": [
+   "Subsidy cuts hurt demand and OEM margins",
+   "Battery safety incidents and quality concerns",
+   "Charging infrastructure gaps outside metros",
+   "Competition from incumbent OEMs moving into EVs",
+   "Gig-worker and aggregator regulations in states"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ },
+ "Logistics & Supply Chain": {
+  "brief": "Covers express and e-commerce delivery, freight marketplaces, warehousing, cold chain and supply-chain software. The National Logistics Policy aims to cut logistics costs from about 13-14% of GDP toward global levels, creating room for tech-led players.",
+  "tailwinds": [
+   "National Logistics Policy, PM Gati Shakti and dedicated freight corridors",
+   "E-commerce and q-commerce volume growth",
+   "GST simplified interstate movement and warehouse consolidation",
+   "Export growth and China+1 manufacturing shifts",
+   "Digitisation of fragmented trucking (FASTag, e-way bills)"
+  ],
+  "headwinds": [
+   "Low margins and price wars in express delivery",
+   "Fragmented, informal trucking supply",
+   "Asset-heavy warehousing needs patient capital",
+   "Fuel price volatility",
+   "Customer concentration among a few large e-commerce shippers"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ },
+ "Agritech & Foodtech": {
+  "brief": "Includes farm-input and output marketplaces, agri-fintech, precision farming, dairy and fisheries tech, food processing and restaurant tech. Agriculture employs about 45% of India's workforce, but capital has become selective after early B2B marketplaces struggled.",
+  "tailwinds": [
+   "Digital Agriculture Mission, AgriStack and farmer ID rails",
+   "Government push for FPOs and agri-infrastructure funds",
+   "Rising demand for traceable, quality produce and exports",
+   "Drone and precision-agri subsidies",
+   "Food processing PLI and growth in packaged food"
+  ],
+  "headwinds": [
+   "Low farmer incomes limit willingness to pay",
+   "Monsoon and climate shocks",
+   "Thin margins and working-capital needs in agri trading",
+   "Political sensitivity of farm reforms and price controls",
+   "Fragmented supply makes quality consistency hard"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ },
+ "Media, Gaming & Content": {
+  "brief": "Spans gaming, creator economy, OTT and audio, social and community apps, and regional-language content. After the 2025 ban on real-money gaming, capital moved to casual, skill-free and mid-core games, creator tools and micro-drama formats.",
+  "tailwinds": [
+   "Cheap data and 800M+ internet users, mostly consuming regional-language content",
+   "Government AVGC-XR push and WAVES initiatives",
+   "Creator economy monetisation tools maturing",
+   "Growing Indian game development talent and global publishing",
+   "Short video and micro-drama formats driving engagement"
+  ],
+  "headwinds": [
+   "Online gaming law bans real-money gaming and its revenue base",
+   "Low ARPU and ad-dependent monetisation",
+   "Dominance of global platforms (YouTube, Instagram)",
+   "Content regulation and IT Rules compliance",
+   "High user-acquisition costs relative to lifetime value"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ },
+ "Real Estate & Proptech": {
+  "brief": "Includes brokerage and rental platforms, co-living and co-working, construction tech, home interiors and fractional ownership. REIT and SM-REIT frameworks and a strong office leasing market support new models.",
+  "tailwinds": [
+   "SEBI SM-REIT framework enables fractional ownership",
+   "Record office leasing from GCCs supports flex workspace",
+   "RERA improves transparency and buyer trust",
+   "Urbanisation and housing demand in tier-2 cities",
+   "Construction-tech adoption in large infra programmes"
+  ],
+  "headwinds": [
+   "Cyclical, interest-rate-sensitive demand",
+   "Long sales cycles and offline-heavy transactions",
+   "Regulatory complexity in land and approvals",
+   "Asset-heavy co-living/co-working needs capital",
+   "Brokerage disintermediation is hard in practice"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ },
+ "Manufacturing & Industrial": {
+  "brief": "Covers defence and aerospace, electronics manufacturing, specialty chemicals, industrial B2B marketplaces, factory automation and contract manufacturing. Make in India, PLI schemes and China+1 sourcing have made this one of the fastest-rising categories.",
+  "tailwinds": [
+   "PLI schemes across 14 sectors including electronics and drones",
+   "China+1 sourcing by global OEMs",
+   "Defence indigenisation lists and rising capex",
+   "Industrial automation and Industry 4.0 adoption",
+   "Strong domestic infrastructure spending"
+  ],
+  "headwinds": [
+   "High capex and working capital needs",
+   "Dependence on imported components and machinery",
+   "Long qualification cycles with global customers",
+   "Tariff and trade-policy volatility",
+   "Skilled shop-floor labour shortages"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ },
+ "Travel & Hospitality": {
+  "brief": "Includes online travel, hotel tech, experiential and religious tourism, and travel fintech. Domestic travel is at record highs on new airports, better roads and rising discretionary spend.",
+  "tailwinds": [
+   "Airport expansion under UDAN and new airline capacity",
+   "Spiritual and domestic tourism growth",
+   "Rising discretionary spend among the middle class",
+   "Visa liberalisation boosting outbound travel",
+   "Corporate travel recovery"
+  ],
+  "headwinds": [
+   "Dominance of incumbents like MakeMyTrip",
+   "Low margins and high customer acquisition costs",
+   "Seasonality and sensitivity to shocks",
+   "Airline consolidation reduces pricing flexibility",
+   "Fragmented, offline supply of hotels and homestays"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ },
+ "HR & Workforce": {
+  "brief": "Covers recruitment platforms, blue-collar hiring, staffing, payroll and benefits, and workforce management. India's large young workforce and the formalisation of jobs support steady demand.",
+  "tailwinds": [
+   "New labour codes formalise employment and benefits",
+   "Formalisation of the workforce via EPFO/ESIC growth",
+   "GCC hiring boom",
+   "Blue-collar and gig workforce digitisation",
+   "AI screening reduces hiring costs"
+  ],
+  "headwinds": [
+   "Hiring is cyclical and slows with IT sector demand",
+   "Low pricing power in SMB recruitment",
+   "Competition from LinkedIn and Naukri",
+   "Gig-worker social security costs under new codes",
+   "AI disrupting entry-level white-collar roles"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ },
+ "Other": {
+  "brief": "Deals that do not fit a single sector, such as conglomerate platforms, services and niche verticals.",
+  "tailwinds": [
+   "India's broad startup ecosystem keeps producing new categories",
+   "Domestic VC dry powder remains high"
+  ],
+  "headwinds": [
+   "Small category with mixed signals",
+   "Hard to compare across business models"
+  ],
+  "funding_pulse": "",
+  "source": "seed",
+  "generated_at": "2026-10-29T00:00:00+00:00"
+ }
+}
