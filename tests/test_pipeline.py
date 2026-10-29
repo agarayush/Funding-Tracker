@@ -44,6 +44,10 @@ def test_heuristic_headlines():
     x = heuristic_extract({"url": "u", "title": "Fintech startup Cent raises $15 million in Series A round led by Blume Ventures",
                            "description": "", "body": ""})
     assert x["company"] == "Cent" and x["amount_usd_mn"] == 15 and x["round"] == "Series A"
+    x = heuristic_extract({"url": "u", "title": "CHOSEN raises $5 million in Series A led by Fireside Ventures, with participation from BOLD and other angel investors",
+                           "description": "", "body": "Angel investors also joined."})
+    assert x["round"] == "Series A" and x["lead_investors"] == ["Fireside Ventures"] and x["investors"] == ["BOLD"]
+    assert heuristic_extract({"url": "u", "title": "From Homemade Badi to GomatiRoots: Shital Kumari raises Rs 1 lakh", "description": "", "body": ""}) is None
     assert heuristic_extract({"url": "u", "title": "Paytm Q2 results: profit rises", "description": "", "body": ""}) is None
 
 

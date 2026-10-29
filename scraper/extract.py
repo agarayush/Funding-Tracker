@@ -48,8 +48,9 @@ def split_investors(text):
     parts = re.split(r",\s*|\s+and\s+|\s*&\s*|\s+with participation from\s+|\s+alongside\s+", text)
     out = []
     for p in parts:
+        p = re.sub(r"^(?:with participation from|participation from|along with|including)\s+", "", p.strip(), flags=re.I)
         p = re.sub(r"^(?:others|existing investors|other investors|clutch of investors)$", "", p.strip(" .,"), flags=re.I)
-        if p and len(p) < 70 and p.lower() not in ("others", "more"):
+        if p and len(p) < 70 and not re.search(r"\b(?:others|other (?:angel )?investors|angels?)$", p, re.I):
             out.append(p)
     return out
 
@@ -67,14 +68,21 @@ def heuristic_extract(art):
     amount_text, usd, inr = parse_amount(m.group("rest"))
     if not amount_text:
         amount_text, usd, inr = parse_amount(text)
-    round_name = normalize_round(m.group("rest") + " " + body[:600])
+    if ":" in company or len(company.split()) > 6:  # feature stories, not deal announcements
+        return None
+    round_name = normalize_round(m.group("rest"))
+    if round_name == "Undisclosed":
+        round_name = normalize_round(" ".join(re.findall(r"[^.]*\b(?:round|funding)\b[^.]*", body[:1500])[:2]))
     leads = []
     lm = re.search(r"led by\s+(.+?)(?:[.;]|$)", m.group("rest"), re.I) or re.search(r"led by\s+(.+?)[.;]", text, re.I)
-    if lm:
-        leads = split_investors(lm.group(1))
     others = []
+    if lm:
+        parts = re.split(r",?\s+(?:with participation from|alongside)\s+", lm.group(1), maxsplit=1, flags=re.I)
+        lead_text, part_text = parts[0], parts[1] if len(parts) > 1 else ""
+        leads = split_investors(lead_text)
+        others = split_investors(part_text) if part_text else []
     pm = re.search(r"(?:participation from|also participated|alongside|existing investors)\s+(.+?)[.;]", text, re.I)
-    if pm:
+    if pm and not others:
         others = [i for i in split_investors(pm.group(1)) if i not in leads]
     first = next((s for s in re.split(r"(?<=[.!?])\s+", body) if company.split()[0].lower() in s.lower()), "")
     brief = first[:300]

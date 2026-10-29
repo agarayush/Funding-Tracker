@@ -38,7 +38,7 @@ def classify(text):
 
 def normalize_round(text):
     t = (text or "").lower()
-    if "pre-seed" in t or "pre seed" in t or "angel" in t:
+    if "pre-seed" in t or "pre seed" in t or "angel round" in t:
         return "Pre-Seed"
     m = re.search(r"pre[- ]series[- ]?([abc])\b", t)
     if m:
