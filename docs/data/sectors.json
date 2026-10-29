@@ -17,7 +17,61 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 18,
+  "total_usd_mn": 838.23,
+  "top_rounds": [
+   [
+    "Undisclosed",
+    9
+   ],
+   [
+    "Series A",
+    3
+   ],
+   [
+    "Pre-Seed",
+    2
+   ],
+   [
+    "Debt",
+    2
+   ]
+  ],
+  "top_investors": [
+   [
+    "CoinFund",
+    1
+   ],
+   [
+    "Coinbase Ventures",
+    1
+   ],
+   [
+    "Nicky Montana",
+    1
+   ],
+   [
+    "general partner at Zero Knowledge Ventures",
+    1
+   ],
+   [
+    "FMO",
+    1
+   ],
+   [
+    "LeapFrog Investments",
+    1
+   ],
+   [
+    "NABVENTURES",
+    1
+   ],
+   [
+    "KisaanSay through the AgriSURE Fund",
+    1
+   ]
+  ]
  },
  "AI & Deeptech": {
   "brief": "The fastest-growing pocket of Indian early-stage funding, spanning applied GenAI, vertical AI agents, robotics, semiconductors, spacetech and drones. Most AI startups build applications on global foundation models, with a smaller set building Indic-language models. Deeptech rounds are smaller but rising, helped by government co-investment.",
@@ -37,7 +91,61 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 91,
+  "total_usd_mn": 3374.51,
+  "top_rounds": [
+   [
+    "Pre-Seed",
+    21
+   ],
+   [
+    "Undisclosed",
+    20
+   ],
+   [
+    "Series A",
+    18
+   ],
+   [
+    "Seed",
+    12
+   ]
+  ],
+  "top_investors": [
+   [
+    "in the round",
+    8
+   ],
+   [
+    "Accel",
+    7
+   ],
+   [
+    "Peak XV Partners",
+    4
+   ],
+   [
+    "Together Fund",
+    3
+   ],
+   [
+    "Endiya Partners",
+    3
+   ],
+   [
+    "Nexus Venture Partners",
+    3
+   ],
+   [
+    "Arkam Ventures",
+    3
+   ],
+   [
+    "Shastra VC",
+    2
+   ]
+  ]
  },
  "SaaS & Enterprise Tech": {
   "brief": "India is the second-largest SaaS hub after the US, selling mostly to global mid-market and enterprise buyers. AI-native vertical SaaS, cybersecurity, devtools and HR/fin-ops software attract most rounds. Investors favour capital-efficient companies with US revenue and clear paths to $100M ARR.",
@@ -57,7 +165,16 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 2,
+  "total_usd_mn": 113.64,
+  "top_rounds": [
+   [
+    "Undisclosed",
+    2
+   ]
+  ],
+  "top_investors": []
  },
  "D2C & Consumer Brands": {
   "brief": "Digital-first brands in beauty, personal care, food and beverage, apparel and home sell through their own sites, marketplaces and quick commerce. Funding has shifted from growth-at-all-costs to profitable brands with offline and q-commerce distribution. Consumer-focused funds and strategic corporates are the most active backers.",
@@ -77,7 +194,61 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 35,
+  "total_usd_mn": 593.34,
+  "top_rounds": [
+   [
+    "Undisclosed",
+    7
+   ],
+   [
+    "Pre-Seed",
+    7
+   ],
+   [
+    "Seed",
+    6
+   ],
+   [
+    "Series A",
+    5
+   ]
+  ],
+  "top_investors": [
+   [
+    "other angel investors",
+    3
+   ],
+   [
+    "Fireside Ventures",
+    2
+   ],
+   [
+    "Sauce",
+    2
+   ],
+   [
+    "Singularity AMC",
+    2
+   ],
+   [
+    "Mirabilis Investment Trust",
+    2
+   ],
+   [
+    "Filter Capital",
+    2
+   ],
+   [
+    "Footpath Ventures",
+    2
+   ],
+   [
+    "Inflection Point Ventures",
+    2
+   ]
+  ]
  },
  "E-commerce & Quick Commerce": {
   "brief": "Marketplaces, quick commerce, social commerce and commerce-enablement platforms. Quick commerce (Blinkit, Zepto, Instamart) is the defining growth story, pulling in large late-stage rounds and reshaping retail. Early-stage money goes to vertical marketplaces and tools that serve sellers.",
@@ -97,7 +268,61 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 5,
+  "total_usd_mn": 17.6,
+  "top_rounds": [
+   [
+    "Pre-Seed",
+    2
+   ],
+   [
+    "Pre-Series A",
+    1
+   ],
+   [
+    "Seed",
+    1
+   ],
+   [
+    "Series A",
+    1
+   ]
+  ],
+  "top_investors": [
+   [
+    "GVFL Prarambh Fund",
+    1
+   ],
+   [
+    "Proteus Partners",
+    1
+   ],
+   [
+    "backed by True Elements co-founders Puru Gupta",
+    1
+   ],
+   [
+    "Sreejith Moolayil",
+    1
+   ],
+   [
+    "Sauce VC",
+    1
+   ],
+   [
+    "Titan Capital",
+    1
+   ],
+   [
+    "angel investors",
+    1
+   ],
+   [
+    "Chiratae Ventures",
+    1
+   ]
+  ]
  },
  "Healthtech & Biotech": {
   "brief": "Covers diagnostics, digital clinics, health insurance tech, medical devices, pharma supply chain, biotech and wellness. Ayushman Bharat Digital Mission rails and an ageing, more chronically ill population support steady deal flow. Medtech and biotech rounds are growing as domestic manufacturing incentives kick in.",
@@ -117,7 +342,61 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 16,
+  "total_usd_mn": 215.91,
+  "top_rounds": [
+   [
+    "Series A",
+    4
+   ],
+   [
+    "Pre-Seed",
+    4
+   ],
+   [
+    "Pre-Series A",
+    3
+   ],
+   [
+    "Seed",
+    2
+   ]
+  ],
+  "top_investors": [
+   [
+    "angel investors",
+    2
+   ],
+   [
+    "Blume Ventures",
+    1
+   ],
+   [
+    "individual investors Arun Sarin",
+    1
+   ],
+   [
+    "Srinivas Narayanan",
+    1
+   ],
+   [
+    "Sharath Narayana",
+    1
+   ],
+   [
+    "Aprameya Radhakrishna",
+    1
+   ],
+   [
+    "Krishan Sridhar",
+    1
+   ],
+   [
+    "Peak XV",
+    1
+   ]
+  ]
  },
  "Edtech": {
   "brief": "After a sharp post-pandemic correction, Indian edtech is rebuilding around test prep, upskilling, vocational training, study-abroad and offline-hybrid models. Investors now prefer profitable unit economics, outcome-linked models and AI tutors over large B2C brands.",
@@ -137,7 +416,61 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 5,
+  "total_usd_mn": 27.12,
+  "top_rounds": [
+   [
+    "Series A",
+    1
+   ],
+   [
+    "Debt",
+    1
+   ],
+   [
+    "Seed",
+    1
+   ],
+   [
+    "Undisclosed",
+    1
+   ]
+  ],
+  "top_investors": [
+   [
+    "Dharana Capital",
+    2
+   ],
+   [
+    "Elevation Capital",
+    2
+   ],
+   [
+    "angel investors",
+    2
+   ],
+   [
+    "ABP Education",
+    1
+   ],
+   [
+    "Kae Capital",
+    1
+   ],
+   [
+    "DeVC",
+    1
+   ],
+   [
+    "Antler India",
+    1
+   ],
+   [
+    "Panthera Peak",
+    1
+   ]
+  ]
  },
  "Climate & Cleantech": {
   "brief": "Spans EVs and charging, battery and energy storage, solar and renewables, carbon management, recycling and green hydrogen. India's 500 GW non-fossil target and national EV push create policy-backed demand. Climate-focused funds, DFIs and strategics provide a growing share of capital.",
@@ -157,7 +490,61 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 13,
+  "total_usd_mn": 496.07,
+  "top_rounds": [
+   [
+    "Undisclosed",
+    3
+   ],
+   [
+    "Pre-Series A",
+    2
+   ],
+   [
+    "Series C",
+    2
+   ],
+   [
+    "Pre-Seed",
+    2
+   ]
+  ],
+  "top_investors": [
+   [
+    "Rainmatter",
+    2
+   ],
+   [
+    "strategic investors",
+    1
+   ],
+   [
+    "a consortium of CXOs from global energy",
+    1
+   ],
+   [
+    "infrastructure companies",
+    1
+   ],
+   [
+    "Dr Arokiaswamy Velumani’s family office",
+    1
+   ],
+   [
+    "founder",
+    1
+   ],
+   [
+    "CEO Suhas Rajkumar",
+    1
+   ],
+   [
+    "co-founder",
+    1
+   ]
+  ]
  },
  "Mobility & Automotive": {
   "brief": "Includes EV OEMs (two- and three-wheelers), ride-hailing, fleet electrification, auto-tech and vehicle aftermarket platforms. India is the world's largest two-wheeler market, which makes EV two-wheelers and commercial fleets the main investment theme.",
@@ -177,7 +564,61 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 6,
+  "total_usd_mn": 135.3,
+  "top_rounds": [
+   [
+    "Pre-Seed",
+    2
+   ],
+   [
+    "Seed",
+    1
+   ],
+   [
+    "Series B",
+    1
+   ],
+   [
+    "Undisclosed",
+    1
+   ]
+  ],
+  "top_investors": [
+   [
+    "Accel",
+    2
+   ],
+   [
+    "Zacua Ventures",
+    1
+   ],
+   [
+    "Prosus Ventures",
+    1
+   ],
+   [
+    "in the round",
+    1
+   ],
+   [
+    "Uber",
+    1
+   ],
+   [
+    "Abhishek Misra (SKG Asset Management",
+    1
+   ],
+   [
+    "SKG Fund)",
+    1
+   ],
+   [
+    "Unistone Capital",
+    1
+   ]
+  ]
  },
  "Logistics & Supply Chain": {
   "brief": "Covers express and e-commerce delivery, freight marketplaces, warehousing, cold chain and supply-chain software. The National Logistics Policy aims to cut logistics costs from about 13-14% of GDP toward global levels, creating room for tech-led players.",
@@ -197,7 +638,61 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 7,
+  "total_usd_mn": 39.72,
+  "top_rounds": [
+   [
+    "Pre-Seed",
+    3
+   ],
+   [
+    "Undisclosed",
+    2
+   ],
+   [
+    "Series A",
+    1
+   ],
+   [
+    "Pre-Series A",
+    1
+   ]
+  ],
+  "top_investors": [
+   [
+    "AJVC",
+    1
+   ],
+   [
+    "in the round",
+    1
+   ],
+   [
+    "Sharrp Ventures",
+    1
+   ],
+   [
+    "several angel investors",
+    1
+   ],
+   [
+    "Bertelsmann India",
+    1
+   ],
+   [
+    "existing investors Accel",
+    1
+   ],
+   [
+    "Bain Capital Ventures",
+    1
+   ],
+   [
+    "and Hara Global",
+    1
+   ]
+  ]
  },
  "Agritech & Foodtech": {
   "brief": "Includes farm-input and output marketplaces, agri-fintech, precision farming, dairy and fisheries tech, food processing and restaurant tech. Agriculture employs about 45% of India's workforce, but capital has become selective after early B2B marketplaces struggled.",
@@ -217,7 +712,61 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 4,
+  "total_usd_mn": 75.68,
+  "top_rounds": [
+   [
+    "Undisclosed",
+    1
+   ],
+   [
+    "Series B",
+    1
+   ],
+   [
+    "Pre-Series A",
+    1
+   ],
+   [
+    "Pre-Series B",
+    1
+   ]
+  ],
+  "top_investors": [
+   [
+    "NABVENTURES",
+    1
+   ],
+   [
+    "KisaanSay",
+    1
+   ],
+   [
+    "with the investment made through the AgriSURE fund",
+    1
+   ],
+   [
+    "First Bridge",
+    1
+   ],
+   [
+    "other institutional investors",
+    1
+   ],
+   [
+    "OTP Ventures",
+    1
+   ],
+   [
+    "Sadev Capital",
+    1
+   ],
+   [
+    "Maiuni Ventures",
+    1
+   ]
+  ]
  },
  "Media, Gaming & Content": {
   "brief": "Spans gaming, creator economy, OTT and audio, social and community apps, and regional-language content. After the 2025 ban on real-money gaming, capital moved to casual, skill-free and mid-core games, creator tools and micro-drama formats.",
@@ -237,7 +786,61 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 5,
+  "total_usd_mn": 26.41,
+  "top_rounds": [
+   [
+    "Pre-Seed",
+    2
+   ],
+   [
+    "Pre-Series A",
+    1
+   ],
+   [
+    "Series A",
+    1
+   ],
+   [
+    "Seed",
+    1
+   ]
+  ],
+  "top_investors": [
+   [
+    "Anand Mahindra",
+    1
+   ],
+   [
+    "Bestvantage Investments",
+    1
+   ],
+   [
+    "in the round",
+    1
+   ],
+   [
+    "General Catalyst",
+    1
+   ],
+   [
+    "Ronnie Screwvala",
+    1
+   ],
+   [
+    "founder of upgrad",
+    1
+   ],
+   [
+    "and existing investors Info Edge Ventures",
+    1
+   ],
+   [
+    "Tanglin Venture Partners",
+    1
+   ]
+  ]
  },
  "Real Estate & Proptech": {
   "brief": "Includes brokerage and rental platforms, co-living and co-working, construction tech, home interiors and fractional ownership. REIT and SM-REIT frameworks and a strong office leasing market support new models.",
@@ -257,7 +860,57 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 5,
+  "total_usd_mn": 43.59,
+  "top_rounds": [
+   [
+    "Pre-Seed",
+    2
+   ],
+   [
+    "Undisclosed",
+    2
+   ],
+   [
+    "Series A",
+    1
+   ]
+  ],
+  "top_investors": [
+   [
+    "Info Edge Ventures",
+    1
+   ],
+   [
+    "3one4 Capital",
+    1
+   ],
+   [
+    "in the round",
+    1
+   ],
+   [
+    "Nexus Venture Partners",
+    1
+   ],
+   [
+    "existing investors Sorin Investments",
+    1
+   ],
+   [
+    "Titan Capital",
+    1
+   ],
+   [
+    "Sparrow Capital",
+    1
+   ],
+   [
+    "and Consumer Collective by Atrium",
+    1
+   ]
+  ]
  },
  "Manufacturing & Industrial": {
   "brief": "Covers defence and aerospace, electronics manufacturing, specialty chemicals, industrial B2B marketplaces, factory automation and contract manufacturing. Make in India, PLI schemes and China+1 sourcing have made this one of the fastest-rising categories.",
@@ -277,7 +930,61 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 20,
+  "total_usd_mn": 2890.14,
+  "top_rounds": [
+   [
+    "Undisclosed",
+    7
+   ],
+   [
+    "Seed",
+    4
+   ],
+   [
+    "Pre-Seed",
+    4
+   ],
+   [
+    "Series B",
+    2
+   ]
+  ],
+  "top_investors": [
+   [
+    "Fireside Ventures",
+    2
+   ],
+   [
+    "in the round",
+    2
+   ],
+   [
+    "Sharrp Ventures",
+    1
+   ],
+   [
+    "IAN Alpha Fund",
+    1
+   ],
+   [
+    "3i Partners",
+    1
+   ],
+   [
+    "Avaana Capital",
+    1
+   ],
+   [
+    "Shastra VC",
+    1
+   ],
+   [
+    "Bharat Value Fund",
+    1
+   ]
+  ]
  },
  "Travel & Hospitality": {
   "brief": "Includes online travel, hotel tech, experiential and religious tourism, and travel fintech. Domestic travel is at record highs on new airports, better roads and rising discretionary spend.",
@@ -297,7 +1004,45 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 2,
+  "total_usd_mn": 1.86,
+  "top_rounds": [
+   [
+    "Seed",
+    1
+   ],
+   [
+    "Pre-Seed",
+    1
+   ]
+  ],
+  "top_investors": [
+   [
+    "Kairon Capital",
+    1
+   ],
+   [
+    "Titan Capital",
+    1
+   ],
+   [
+    "Divisa Family Office",
+    1
+   ],
+   [
+    "Kunal Popat",
+    1
+   ],
+   [
+    "Stargazer Fund",
+    1
+   ],
+   [
+    "Singapore-based White Venture Capital",
+    1
+   ]
+  ]
  },
  "HR & Workforce": {
   "brief": "Covers recruitment platforms, blue-collar hiring, staffing, payroll and benefits, and workforce management. India's large young workforce and the formalisation of jobs support steady demand.",
@@ -317,7 +1062,33 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 2,
+  "total_usd_mn": 20.17,
+  "top_rounds": [
+   [
+    "Pre-Seed",
+    1
+   ],
+   [
+    "Series A",
+    1
+   ]
+  ],
+  "top_investors": [
+   [
+    "AJVC",
+    1
+   ],
+   [
+    "Neev II Fund",
+    1
+   ],
+   [
+    "Aavishkaar Capital",
+    1
+   ]
+  ]
  },
  "Other": {
   "brief": "Deals that do not fit a single sector, such as conglomerate platforms, services and niche verticals.",
@@ -331,6 +1102,60 @@
   ],
   "funding_pulse": "",
   "source": "seed",
-  "generated_at": "2026-10-29T00:00:00+00:00"
+  "generated_at": "2026-10-29T00:00:00+00:00",
+  "deal_count": 42,
+  "total_usd_mn": 3739.04,
+  "top_rounds": [
+   [
+    "Pre-Seed",
+    13
+   ],
+   [
+    "Undisclosed",
+    11
+   ],
+   [
+    "Seed",
+    8
+   ],
+   [
+    "Series A",
+    6
+   ]
+  ],
+  "top_investors": [
+   [
+    "Antler",
+    2
+   ],
+   [
+    "several family offices",
+    2
+   ],
+   [
+    "angel investors",
+    2
+   ],
+   [
+    "Sauce",
+    2
+   ],
+   [
+    "3one4 Capital",
+    1
+   ],
+   [
+    "Stellaris",
+    1
+   ],
+   [
+    "general knowledge",
+    1
+   ],
+   [
+    "mythology",
+    1
+   ]
+  ]
  }
 }

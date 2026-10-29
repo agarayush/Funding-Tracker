@@ -1,1 +1,222 @@
-{"weeks": {}, "runs": []}
+{
+ "weeks": {
+  "2026-W44": {
+   "viestories": {
+    "articles": 20,
+    "deals": 15,
+    "rejected": 5
+   },
+   "yourstory": {
+    "articles": 14,
+    "deals": 8,
+    "rejected": 6
+   }
+  },
+  "2026-W43": {
+   "viestories": {
+    "articles": 15,
+    "deals": 10,
+    "rejected": 5
+   },
+   "yourstory": {
+    "articles": 11,
+    "deals": 6,
+    "rejected": 5
+   }
+  },
+  "2026-W42": {
+   "viestories": {
+    "articles": 25,
+    "deals": 20,
+    "rejected": 5
+   },
+   "yourstory": {
+    "articles": 10,
+    "deals": 4,
+    "rejected": 6
+   }
+  },
+  "2026-W41": {
+   "viestories": {
+    "articles": 26,
+    "deals": 22,
+    "rejected": 4
+   },
+   "yourstory": {
+    "articles": 24,
+    "deals": 10,
+    "rejected": 14
+   }
+  },
+  "2026-W40": {
+   "viestories": {
+    "articles": 25,
+    "deals": 17,
+    "rejected": 8
+   },
+   "yourstory": {
+    "articles": 21,
+    "deals": 11,
+    "rejected": 10
+   }
+  },
+  "2026-W39": {
+   "viestories": {
+    "articles": 24,
+    "deals": 17,
+    "rejected": 7
+   },
+   "yourstory": {
+    "articles": 19,
+    "deals": 6,
+    "rejected": 13
+   }
+  },
+  "2026-W38": {
+   "viestories": {
+    "articles": 19,
+    "deals": 16,
+    "rejected": 3
+   },
+   "yourstory": {
+    "articles": 17,
+    "deals": 5,
+    "rejected": 12
+   }
+  },
+  "2026-W37": {
+   "viestories": {
+    "articles": 25,
+    "deals": 20,
+    "rejected": 5
+   },
+   "yourstory": {
+    "articles": 21,
+    "deals": 13,
+    "rejected": 8
+   }
+  },
+  "2026-W36": {
+   "viestories": {
+    "articles": 33,
+    "deals": 20,
+    "rejected": 13
+   },
+   "yourstory": {
+    "articles": 18,
+    "deals": 10,
+    "rejected": 8
+   }
+  },
+  "2026-W35": {
+   "viestories": {
+    "articles": 24,
+    "deals": 17,
+    "rejected": 7
+   },
+   "yourstory": {
+    "articles": 25,
+    "deals": 13,
+    "rejected": 12
+   }
+  },
+  "2026-W34": {
+   "viestories": {
+    "articles": 23,
+    "deals": 16,
+    "rejected": 7
+   },
+   "yourstory": {
+    "articles": 12,
+    "deals": 6,
+    "rejected": 6
+   }
+  },
+  "2026-W33": {
+   "viestories": {
+    "articles": 20,
+    "deals": 15,
+    "rejected": 5
+   },
+   "yourstory": {
+    "articles": 15,
+    "deals": 9,
+    "rejected": 6
+   }
+  },
+  "2026-W32": {
+   "viestories": {
+    "articles": 23,
+    "deals": 19,
+    "rejected": 4
+   },
+   "yourstory": {
+    "articles": 24,
+    "deals": 14,
+    "rejected": 10
+   }
+  },
+  "2026-W31": {
+   "viestories": {
+    "articles": 5,
+    "deals": 4,
+    "rejected": 1
+   },
+   "yourstory": {
+    "articles": 7,
+    "deals": 4,
+    "rejected": 3
+   }
+  }
+ },
+ "runs": [
+  {
+   "started": "2026-10-29T05:55:45.666355+00:00",
+   "window": [
+    "2026-07-31",
+    "2026-10-29"
+   ],
+   "extraction": "rules",
+   "sources": {
+    "viestories": {
+     "candidates": 350,
+     "new_urls": 350,
+     "channels": {
+      "daily_sitemap": 306,
+      "news_sitemap": 20,
+      "rss": 13,
+      "listing": 277
+     },
+     "outside_window": 43,
+     "deals": 228,
+     "unparsed": 79,
+     "http": {
+      "requests": 465,
+      "errors": 1,
+      "robots_blocked": 0
+     }
+    },
+    "yourstory": {
+     "candidates": 250,
+     "new_urls": 250,
+     "channels": {
+      "sitemap": 250,
+      "news_sitemap": 14,
+      "rss": 3,
+      "funding_listing": 11
+     },
+     "outside_window": 12,
+     "deals": 119,
+     "unparsed": 119,
+     "http": {
+      "requests": 479,
+      "errors": 0,
+      "robots_blocked": 0
+     }
+    }
+   },
+   "new_deals": 278,
+   "total_deals": 278
+  }
+ ]
+}
