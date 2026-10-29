@@ -135,6 +135,11 @@ def main():
     else:
         start = end - timedelta(days=90)
     log.info("window %s -> %s", start.date(), end.date())
+    if args.reprocess:
+        # rebuild the window from scratch so re-extracted fields replace the old ones
+        cutoff = start.astimezone(IST).date().isoformat()
+        deals = [d for d in deals if d["date"] < cutoff]
+        coverage["weeks"] = {w: v for w, v in coverage["weeks"].items() if w < iso_week(cutoff)}
 
     classes = {"viestories": VieStories, "yourstory": YourStory}
     sources = [classes[s](PoliteClient()) for s in args.sources.split(",")]
