@@ -13,6 +13,10 @@ on:
         description: "Regenerate every sector note"
         type: boolean
         default: false
+      reprocess:
+        description: "Re-read articles already processed (e.g. after adding the API key)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -42,6 +46,7 @@ jobs:
           ARGS=""
           if [ -n "${{ inputs.days }}" ]; then ARGS="$ARGS --days ${{ inputs.days }}"; fi
           if [ "${{ inputs.refresh_insights }}" = "true" ]; then ARGS="$ARGS --refresh-insights"; fi
+          if [ "${{ inputs.reprocess }}" = "true" ]; then ARGS="$ARGS --reprocess"; fi
           python -m scraper.run $ARGS
       - name: Commit data
         run: |
