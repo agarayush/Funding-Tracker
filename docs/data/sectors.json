@@ -18,19 +18,19 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 18,
-  "total_usd_mn": 838.23,
+  "deal_count": 24,
+  "total_usd_mn": 12713.63,
   "top_rounds": [
    [
     "Undisclosed",
-    9
+    13
    ],
    [
     "Series A",
     3
    ],
    [
-    "Pre-Seed",
+    "Seed",
     2
    ],
    [
@@ -92,38 +92,42 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 91,
-  "total_usd_mn": 3374.51,
+  "deal_count": 90,
+  "total_usd_mn": 23094.98,
   "top_rounds": [
    [
-    "Pre-Seed",
-    21
+    "Undisclosed",
+    23
    ],
    [
-    "Undisclosed",
-    20
+    "Seed",
+    22
    ],
    [
     "Series A",
     18
    ],
    [
-    "Seed",
-    12
+    "Pre-Seed",
+    7
    ]
   ],
   "top_investors": [
-   [
-    "in the round",
-    8
-   ],
    [
     "Accel",
     7
    ],
    [
+    "in the round",
+    7
+   ],
+   [
     "Peak XV Partners",
     4
+   ],
+   [
+    "Shastra VC",
+    3
    ],
    [
     "Together Fund",
@@ -134,16 +138,12 @@
     3
    ],
    [
-    "Nexus Venture Partners",
+    "3one4 Capital",
     3
    ],
    [
     "Arkam Ventures",
     3
-   ],
-   [
-    "Shastra VC",
-    2
    ]
   ]
  },
@@ -166,15 +166,56 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 2,
-  "total_usd_mn": 113.64,
+  "deal_count": 9,
+  "total_usd_mn": 749.09,
   "top_rounds": [
    [
     "Undisclosed",
+    6
+   ],
+   [
+    "Series A",
     2
+   ],
+   [
+    "Pre-Seed",
+    1
    ]
   ],
-  "top_investors": []
+  "top_investors": [
+   [
+    "Fireside Ventures",
+    1
+   ],
+   [
+    "as the Bengaluru-based smart kitchen appliances startup looks",
+    1
+   ],
+   [
+    "Alkemi Growth Capital",
+    1
+   ],
+   [
+    "technology",
+    1
+   ],
+   [
+    "Hero Enterprise",
+    1
+   ],
+   [
+    "the investment arm of Hero Group",
+    1
+   ],
+   [
+    "and Cap Alpha Ventures",
+    1
+   ],
+   [
+    "an early-stage investment firm",
+    1
+   ]
+  ]
  },
  "D2C & Consumer Brands": {
   "brief": "Digital-first brands in beauty, personal care, food and beverage, apparel and home sell through their own sites, marketplaces and quick commerce. Funding has shifted from growth-at-all-costs to profitable brands with offline and q-commerce distribution. Consumer-focused funds and strategic corporates are the most active backers.",
@@ -195,29 +236,29 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 35,
-  "total_usd_mn": 593.34,
+  "deal_count": 50,
+  "total_usd_mn": 702.59,
   "top_rounds": [
    [
+    "Seed",
+    11
+   ],
+   [
     "Undisclosed",
-    7
+    9
    ],
    [
     "Pre-Seed",
-    7
-   ],
-   [
-    "Seed",
-    6
+    8
    ],
    [
     "Series A",
-    5
+    6
    ]
   ],
   "top_investors": [
    [
-    "other angel investors",
+    "Sauce",
     3
    ],
    [
@@ -225,27 +266,27 @@
     2
    ],
    [
-    "Sauce",
+    "Sharrp Ventures",
     2
    ],
    [
-    "Singularity AMC",
+    "several family offices",
     2
    ],
    [
-    "Mirabilis Investment Trust",
+    "Sadev Ventures",
     2
    ],
    [
-    "Filter Capital",
+    "Bessemer Venture Partners",
     2
    ],
    [
-    "Footpath Ventures",
+    "Stride Ventures",
     2
    ],
    [
-    "Inflection Point Ventures",
+    "angel investors",
     2
    ]
   ]
@@ -269,11 +310,11 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 5,
-  "total_usd_mn": 17.6,
+  "deal_count": 6,
+  "total_usd_mn": 43.78,
   "top_rounds": [
    [
-    "Pre-Seed",
+    "Undisclosed",
     2
    ],
    [
@@ -281,15 +322,19 @@
     1
    ],
    [
-    "Seed",
+    "Series A",
     1
    ],
    [
-    "Series A",
+    "Pre-Seed",
     1
    ]
   ],
   "top_investors": [
+   [
+    "in the round",
+    2
+   ],
    [
     "GVFL Prarambh Fund",
     1
@@ -317,10 +362,6 @@
    [
     "angel investors",
     1
-   ],
-   [
-    "Chiratae Ventures",
-    1
    ]
   ]
  },
@@ -343,34 +384,46 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 16,
-  "total_usd_mn": 215.91,
+  "deal_count": 24,
+  "total_usd_mn": 413.82,
   "top_rounds": [
    [
-    "Series A",
-    4
+    "Seed",
+    6
    ],
    [
-    "Pre-Seed",
-    4
+    "Series A",
+    5
    ],
    [
     "Pre-Series A",
-    3
+    4
    ],
    [
-    "Seed",
-    2
+    "Undisclosed",
+    4
    ]
   ],
   "top_investors": [
    [
     "angel investors",
-    2
+    3
    ],
    [
     "Blume Ventures",
-    1
+    2
+   ],
+   [
+    "Alpha Wave",
+    2
+   ],
+   [
+    "in the round",
+    2
+   ],
+   [
+    "Sauce",
+    2
    ],
    [
     "individual investors Arun Sarin",
@@ -382,18 +435,6 @@
    ],
    [
     "Sharath Narayana",
-    1
-   ],
-   [
-    "Aprameya Radhakrishna",
-    1
-   ],
-   [
-    "Krishan Sridhar",
-    1
-   ],
-   [
-    "Peak XV",
     1
    ]
   ]
@@ -418,7 +459,7 @@
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
   "deal_count": 5,
-  "total_usd_mn": 27.12,
+  "total_usd_mn": 39.79,
   "top_rounds": [
    [
     "Series A",
@@ -429,11 +470,11 @@
     1
    ],
    [
-    "Seed",
+    "Bridge",
     1
    ],
    [
-    "Undisclosed",
+    "Seed",
     1
    ]
   ],
@@ -447,27 +488,15 @@
     2
    ],
    [
-    "angel investors",
-    2
+    "their education",
+    1
    ],
    [
     "ABP Education",
     1
    ],
    [
-    "Kae Capital",
-    1
-   ],
-   [
-    "DeVC",
-    1
-   ],
-   [
-    "Antler India",
-    1
-   ],
-   [
-    "Panthera Peak",
+    "angel investors",
     1
    ]
   ]
@@ -491,20 +520,20 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 13,
-  "total_usd_mn": 496.07,
+  "deal_count": 18,
+  "total_usd_mn": 1718.66,
   "top_rounds": [
    [
     "Undisclosed",
-    3
+    5
    ],
    [
     "Pre-Series A",
-    2
+    4
    ],
    [
     "Series C",
-    2
+    3
    ],
    [
     "Pre-Seed",
@@ -512,6 +541,14 @@
    ]
   ],
   "top_investors": [
+   [
+    "Bengaluru-based HNI Amit Mishra",
+    2
+   ],
+   [
+    "the Haran Family Office",
+    2
+   ],
    [
     "Rainmatter",
     2
@@ -529,19 +566,11 @@
     1
    ],
    [
-    "Dr Arokiaswamy Velumani’s family office",
+    "Dr",
     1
    ],
    [
-    "founder",
-    1
-   ],
-   [
-    "CEO Suhas Rajkumar",
-    1
-   ],
-   [
-    "co-founder",
+    "co-founders Suhas Rajkumar",
     1
    ]
   ]
@@ -565,8 +594,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 6,
-  "total_usd_mn": 135.3,
+  "deal_count": 7,
+  "total_usd_mn": 118.53,
   "top_rounds": [
    [
     "Pre-Seed",
@@ -581,17 +610,13 @@
     1
    ],
    [
-    "Undisclosed",
+    "Series A",
     1
    ]
   ],
   "top_investors": [
    [
     "Accel",
-    2
-   ],
-   [
-    "Zacua Ventures",
     1
    ],
    [
@@ -603,19 +628,23 @@
     1
    ],
    [
+    "Avaana Capital",
+    1
+   ],
+   [
     "Uber",
     1
    ],
    [
-    "Abhishek Misra (SKG Asset Management",
+    "Info Edge Ventures",
     1
    ],
    [
-    "SKG Fund)",
+    "Deepinder Goyal",
     1
    ],
    [
-    "Unistone Capital",
+    "Three Words Capital",
     1
    ]
   ]
@@ -639,27 +668,31 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 7,
-  "total_usd_mn": 39.72,
+  "deal_count": 10,
+  "total_usd_mn": 291.72,
   "top_rounds": [
-   [
-    "Pre-Seed",
-    3
-   ],
    [
     "Undisclosed",
     2
    ],
    [
-    "Series A",
-    1
+    "Series B",
+    2
    ],
    [
-    "Pre-Series A",
+    "Series A",
+    2
+   ],
+   [
+    "Pre-Seed",
     1
    ]
   ],
   "top_investors": [
+   [
+    "Bain Capital Ventures",
+    2
+   ],
    [
     "AJVC",
     1
@@ -682,10 +715,6 @@
    ],
    [
     "existing investors Accel",
-    1
-   ],
-   [
-    "Bain Capital Ventures",
     1
    ],
    [
@@ -713,16 +742,16 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 4,
-  "total_usd_mn": 75.68,
+  "deal_count": 6,
+  "total_usd_mn": 94.39,
   "top_rounds": [
    [
-    "Undisclosed",
-    1
+    "Series A",
+    2
    ],
    [
     "Series B",
-    1
+    2
    ],
    [
     "Pre-Series A",
@@ -735,6 +764,26 @@
   ],
   "top_investors": [
    [
+    "Omnivore",
+    2
+   ],
+   [
+    "NSFO",
+    2
+   ],
+   [
+    "Dodla Dairy",
+    2
+   ],
+   [
+    "Next Bharat Ventures",
+    2
+   ],
+   [
+    "and LIO",
+    2
+   ],
+   [
     "NABVENTURES",
     1
    ],
@@ -744,26 +793,6 @@
    ],
    [
     "with the investment made through the AgriSURE fund",
-    1
-   ],
-   [
-    "First Bridge",
-    1
-   ],
-   [
-    "other institutional investors",
-    1
-   ],
-   [
-    "OTP Ventures",
-    1
-   ],
-   [
-    "Sadev Capital",
-    1
-   ],
-   [
-    "Maiuni Ventures",
     1
    ]
   ]
@@ -787,11 +816,15 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 5,
-  "total_usd_mn": 26.41,
+  "deal_count": 8,
+  "total_usd_mn": 156.02,
   "top_rounds": [
    [
-    "Pre-Seed",
+    "Seed",
+    3
+   ],
+   [
+    "Undisclosed",
     2
    ],
    [
@@ -800,10 +833,6 @@
    ],
    [
     "Series A",
-    1
-   ],
-   [
-    "Seed",
     1
    ]
   ],
@@ -821,23 +850,23 @@
     1
    ],
    [
-    "General Catalyst",
+    "3one4 Capital",
     1
    ],
    [
-    "Ronnie Screwvala",
+    "Antler",
     1
    ],
    [
-    "founder of upgrad",
+    "Stellaris",
     1
    ],
    [
-    "and existing investors Info Edge Ventures",
+    "general knowledge",
     1
    ],
    [
-    "Tanglin Venture Partners",
+    "mythology",
     1
    ]
   ]
@@ -861,16 +890,16 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 5,
-  "total_usd_mn": 43.59,
+  "deal_count": 6,
+  "total_usd_mn": 67.52,
   "top_rounds": [
    [
-    "Pre-Seed",
-    2
+    "Undisclosed",
+    4
    ],
    [
-    "Undisclosed",
-    2
+    "Debt",
+    1
    ],
    [
     "Series A",
@@ -878,6 +907,14 @@
    ]
   ],
   "top_investors": [
+   [
+    "Accel",
+    1
+   ],
+   [
+    "Zacua Ventures",
+    1
+   ],
    [
     "Info Edge Ventures",
     1
@@ -901,14 +938,6 @@
    [
     "Titan Capital",
     1
-   ],
-   [
-    "Sparrow Capital",
-    1
-   ],
-   [
-    "and Consumer Collective by Atrium",
-    1
    ]
   ]
  },
@@ -931,37 +960,33 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 20,
-  "total_usd_mn": 2890.14,
+  "deal_count": 26,
+  "total_usd_mn": 3025.76,
   "top_rounds": [
    [
     "Undisclosed",
-    7
+    11
    ],
    [
     "Seed",
-    4
+    6
    ],
    [
     "Pre-Seed",
-    4
+    2
    ],
    [
-    "Series B",
+    "Series A",
     2
    ]
   ],
   "top_investors": [
    [
-    "Fireside Ventures",
-    2
-   ],
-   [
     "in the round",
     2
    ],
    [
-    "Sharrp Ventures",
+    "Singularity AMC",
     1
    ],
    [
@@ -981,7 +1006,11 @@
     1
    ],
    [
-    "Bharat Value Fund",
+    "Trident Growth Partners",
+    1
+   ],
+   [
+    "Bertelsmann India Investments",
     1
    ]
   ]
@@ -1005,11 +1034,15 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 2,
-  "total_usd_mn": 1.86,
+  "deal_count": 3,
+  "total_usd_mn": 6.86,
   "top_rounds": [
    [
     "Seed",
+    1
+   ],
+   [
+    "Pre-Series A",
     1
    ],
    [
@@ -1035,11 +1068,19 @@
     1
    ],
    [
-    "Stargazer Fund",
+    "Trifecta Capital",
     1
    ],
    [
-    "Singapore-based White Venture Capital",
+    "Leo Capital",
+    1
+   ],
+   [
+    "The Ventures",
+    1
+   ],
+   [
+    "Hashed",
     1
    ]
   ]
@@ -1063,29 +1104,49 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 2,
-  "total_usd_mn": 20.17,
+  "deal_count": 3,
+  "total_usd_mn": 1.99,
   "top_rounds": [
    [
     "Pre-Seed",
-    1
+    2
    ],
    [
-    "Series A",
+    "Seed",
     1
    ]
   ],
   "top_investors": [
    [
+    "Better Capital",
+    1
+   ],
+   [
+    "Antler India",
+    1
+   ],
+   [
+    "several angel investors",
+    1
+   ],
+   [
     "AJVC",
     1
    ],
    [
-    "Neev II Fund",
+    "All In Capital",
     1
    ],
    [
-    "Aavishkaar Capital",
+    "Suashish Group",
+    1
+   ],
+   [
+    "Anupam Mittal",
+    1
+   ],
+   [
+    "Kunal Shah",
     1
    ]
   ]
@@ -1103,57 +1164,49 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 42,
-  "total_usd_mn": 3739.04,
+  "deal_count": 2,
+  "total_usd_mn": 3.04,
   "top_rounds": [
    [
-    "Pre-Seed",
-    13
-   ],
-   [
     "Undisclosed",
-    11
+    1
    ],
    [
-    "Seed",
-    8
-   ],
-   [
-    "Series A",
-    6
+    "Pre-Series A",
+    1
    ]
   ],
   "top_investors": [
    [
-    "Antler",
-    2
-   ],
-   [
-    "several family offices",
-    2
-   ],
-   [
-    "angel investors",
-    2
-   ],
-   [
-    "Sauce",
-    2
-   ],
-   [
-    "3one4 Capital",
+    "IndiaQuotient in October 2024",
     1
    ],
    [
-    "Stellaris",
+    "Beenext Asia",
     1
    ],
    [
-    "general knowledge",
+    "Bhaarath Sang",
     1
    ],
    [
-    "mythology",
+    "Onyx InVen",
+    1
+   ],
+   [
+    "Amit Jain",
+    1
+   ],
+   [
+    "Shantanu Jain",
+    1
+   ],
+   [
+    "Manish Dugar",
+    1
+   ],
+   [
+    "Mohit Gupta",
     1
    ]
   ]
