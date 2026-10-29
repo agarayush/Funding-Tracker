@@ -161,6 +161,9 @@
     $("#coverage-weeks").innerHTML = `<thead><tr><th>ISO week</th><th class="num">VIE articles</th><th class="num">VIE deals</th><th class="num">VIE rejected</th><th class="num">YS articles</th><th class="num">YS deals</th><th class="num">YS rejected</th></tr></thead>
       <tbody>${weeks.map(([wk, w]) => `<tr><td>${esc(wk)}</td>${cell(w, "viestories")}${cell(w, "yourstory")}</tr>`).join("") || '<tr><td colspan="7" class="empty">No runs yet</td></tr>'}</tbody>`;
     const runs = [...(state.coverage.runs || [])].reverse();
+    const fr = runs[0]?.fill_rates;
+    $("#fill-rates").innerHTML = fr ? `<thead><tr>${Object.keys(fr).map((k) => `<th class="num">${esc(k.replace(/_/g, " "))}</th>`).join("")}</tr></thead>
+      <tbody><tr>${Object.values(fr).map((v) => `<td class="num">${Math.round(v * 100)}%</td>`).join("")}</tr></tbody>` : "";
     $("#coverage-runs").innerHTML = `<thead><tr><th>Run</th><th>Window</th><th>Mode</th><th>Source</th><th class="num">Candidates</th><th class="num">New URLs</th><th class="num">Deals</th><th>Channels</th><th class="num">Fetch errors</th></tr></thead>
       <tbody>${runs.flatMap((r) => Object.entries(r.sources || {}).map(([s, x]) => `<tr><td>${esc((r.started || "").slice(0, 16).replace("T", " "))}</td><td>${esc((r.window || []).join(" → "))}</td><td>${esc(r.extraction)}</td><td>${esc(siteName[s] || s)}</td><td class="num">${x.candidates || 0}</td><td class="num">${x.new_urls || 0}</td><td class="num">${x.deals || 0}</td><td class="subtle">${esc(Object.entries(x.channels || {}).map(([k, v]) => `${k}: ${v}`).join(", "))}</td><td class="num">${x.fetch_failed || 0}</td></tr>`)).join("") || '<tr><td colspan="9" class="empty">No runs yet</td></tr>'}</tbody>`;
   }

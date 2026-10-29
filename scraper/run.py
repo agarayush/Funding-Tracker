@@ -194,6 +194,11 @@ def main():
 
     deals.sort(key=lambda d: (d["date"], d["company"]), reverse=True)
     sectors = insights.refresh(sectors, deals, extract.llm, force=args.refresh_insights)
+    fields = ["company_brief", "sub_sector", "amount_usd_mn", "lead_investors", "investors", "city", "use_of_funds"]
+    window_deals = [d for d in deals if d["date"] >= start.astimezone(IST).date().isoformat()]
+    run_stats["fill_rates"] = {f: round(sum(1 for d in window_deals if d.get(f)) / max(len(window_deals), 1), 3) for f in fields}
+    run_stats["fill_rates"]["round_known"] = round(sum(1 for d in window_deals if d["round"] != "Undisclosed") / max(len(window_deals), 1), 3)
+    run_stats["fill_rates"]["sector_known"] = round(sum(1 for d in window_deals if d["sector"] != "Other") / max(len(window_deals), 1), 3)
     run_stats["new_deals"] = added
     run_stats["total_deals"] = len(deals)
     coverage["runs"] = (coverage["runs"] + [run_stats])[-60:]

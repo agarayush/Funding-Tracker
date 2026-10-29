@@ -35,7 +35,8 @@ def test_heuristic_headlines():
     assert x["round"] == "Pre-Series A"
     assert x["amount_inr_cr"] == 9.7
     assert x["lead_investors"] == ["Sadev Ventures", "Atom XVII"]
-    assert x["company_brief"].startswith("ReplyAll, an AI")
+    assert x["company_brief"] == "ReplyAll is an AI customer support platform."
+    assert x["sub_sector"] == "AI customer support platform"
 
     x = heuristic_extract({"url": "u", "title": "Rotoris bags Rs 70 Cr to expand its luxury watch business",
                            "description": "", "body": ""})
@@ -49,6 +50,31 @@ def test_heuristic_headlines():
     assert x["round"] == "Series A" and x["lead_investors"] == ["Fireside Ventures"] and x["investors"] == ["BOLD"]
     assert heuristic_extract({"url": "u", "title": "From Homemade Badi to GomatiRoots: Shital Kumari raises Rs 1 lakh", "description": "", "body": ""}) is None
     assert heuristic_extract({"url": "u", "title": "Paytm Q2 results: profit rises", "description": "", "body": ""}) is None
+
+
+def test_body_only_extraction():
+    # YourStory-style headline that doesn't follow "X raises $Y"
+    art = {"url": "u", "title": "This Pune startup wants to fix cold-chain logistics for pharma",
+           "description": "",
+           "body": "Pune-based ColdCart, a cold-chain logistics platform for pharma distributors, has raised $4 million "
+                   "in a Series A round led by Chiratae Ventures, with participation from Venture Catalysts and Blume Founders Fund. "
+                   "Founded in 2021 by Asha Rao, ColdCart runs temperature-controlled warehouses across 12 cities. "
+                   "The startup will use the funds to expand into tier-2 cities and build its tracking software."}
+    x = heuristic_extract(art)
+    assert x["company"] == "ColdCart"
+    assert x["round"] == "Series A" and x["amount_usd_mn"] == 4
+    assert x["lead_investors"] == ["Chiratae Ventures"]
+    assert x["investors"] == ["Venture Catalysts", "Blume Founders Fund"]
+    assert x["city"] == "Pune" and x["sector"] == "Logistics & Supply Chain"
+    assert x["company_brief"].startswith("ColdCart is a cold-chain logistics platform")
+    assert "Founded in 2021" in x["company_brief"]
+    assert x["use_of_funds"].startswith("expand into tier-2 cities")
+    assert x["is_indian_company"]
+
+
+def test_foreign_company_flagged():
+    x = heuristic_extract({"url": "u", "title": "US-based Acme raises $5 million in seed round", "description": "", "body": ""})
+    assert x and not x["is_indian_company"]
 
 
 def test_classify():

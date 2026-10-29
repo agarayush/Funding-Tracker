@@ -55,52 +55,154 @@ def split_investors(text):
     return out
 
 
-def heuristic_extract(art):
-    title = art["title"]
-    body = art.get("body", "")
-    text = f"{title}. {art.get('description', '')} {body[:3000]}"
+CITIES = {
+    "bengaluru": "Bengaluru", "bangalore": "Bengaluru", "mumbai": "Mumbai", "new delhi": "New Delhi",
+    "delhi": "Delhi", "gurugram": "Gurugram", "gurgaon": "Gurugram", "noida": "Noida", "hyderabad": "Hyderabad",
+    "chennai": "Chennai", "pune": "Pune", "kolkata": "Kolkata", "ahmedabad": "Ahmedabad", "jaipur": "Jaipur",
+    "kochi": "Kochi", "chandigarh": "Chandigarh", "indore": "Indore", "surat": "Surat", "coimbatore": "Coimbatore",
+    "lucknow": "Lucknow", "bhubaneswar": "Bhubaneswar", "thiruvananthapuram": "Thiruvananthapuram", "goa": "Goa",
+    "nagpur": "Nagpur", "vadodara": "Vadodara", "mysuru": "Mysuru", "visakhapatnam": "Visakhapatnam",
+    "kozhikode": "Kozhikode", "bhopal": "Bhopal", "guwahati": "Guwahati", "patna": "Patna", "ranchi": "Ranchi",
+    "dehradun": "Dehradun", "mohali": "Mohali", "thane": "Thane", "navi mumbai": "Navi Mumbai",
+}
+CITY_RX = re.compile(r"\b(" + "|".join(sorted(CITIES, key=len, reverse=True)) + r")\b", re.I)
+FOREIGN_RX = re.compile(r"\b(US|U\.S\.|USA|Singapore|UK|London|Dubai|UAE|San Francisco|New York|Silicon Valley|"
+                        r"Delaware|Germany|Berlin|Israel|Indonesia|Japan|Australia|Canada|Saudi)[- ]based\b")
+BODY_DEAL = re.compile(
+    r"^(?P<company>[^,]{2,80}?)(?:,\s*(?P<desc>(?:an?|the|India's|India’s)\s[^.]{5,220}?),)?\s+"
+    r"(?:has\s+|have\s+|had\s+)?(?:raised|secured|bagged|closed|received|mopped up|garnered|netted|picked up|"
+    r"announced (?:that it has raised|a fresh|its|a))\s+(?P<rest>.+)$", re.I)
+SENT_SPLIT = re.compile(r"(?<=[.!?])\s+(?=[A-Z0-9“\"‘'(])")
+USE_RX = re.compile(r"(will use|plans to use|intends to use|to use the (?:fresh )?(?:funds|capital|proceeds)|"
+                    r"proceeds will|funds will be|capital will be|plans to deploy|will deploy|"
+                    r"(?:the )?(?:fresh )?(?:funds|capital|money|investment) (?:will|would) (?:be used|help|go))", re.I)
+PREFIX_RX = re.compile(r"^(?:[\w&-]+-based|homegrown|indian|bengaluru's|mumbai's|delhi's|"
+                       r"[\w-]+(?: [\w-]+){0,3}\s(?:startup|platform|brand|company|firm|maker|provider|player|venture))\s+", re.I)
+
+
+def clean_company(name):
+    name = name.strip(" “”\"'")
+    for _ in range(2):
+        name = PREFIX_RX.sub("", name)
+    name = re.sub(r"^(?:startup|platform|brand|company|firm)\s+", "", name, flags=re.I)
+    return name.strip(" ,")
+
+
+def find_deal(title, sentences):
+    """Locate the sentence announcing the raise. Returns (company, appositive_desc, rest, from_title)."""
     m = re.match(rf"^(?P<company>.+?)\s+{VERB}\s+(?P<rest>.+)$", title, re.I)
-    if not m:
+    if m:
+        company = clean_company(m.group("company"))
+        if ":" not in company and 0 < len(company.split()) <= 6:
+            return company, None, m.group("rest"), True
+    for sent in sentences[:12]:
+        b = BODY_DEAL.match(sent)
+        if not b:
+            continue
+        company = clean_company(b.group("company"))
+        if 0 < len(company.split()) <= 6 and (AMOUNT_RX.search(b.group("rest")) or re.search(r"round|funding", b.group("rest"), re.I)):
+            return company, b.group("desc"), b.group("rest"), False
+    return None
+
+
+def heuristic_extract(art):
+    """Rules-based extraction from the headline plus the article's opening paragraphs."""
+    title = art.get("title") or ""
+    body = art.get("body") or ""
+    desc_meta = art.get("description") or ""
+    opening = body[:4000]
+    sentences = [s.strip() for s in SENT_SPLIT.split(f"{desc_meta} {opening}".strip()) if len(s.strip()) > 20]
+    found = find_deal(title, sentences)
+    if not found:
         return None
-    company = re.sub(r"^(?:[\w-]+-based|homegrown|bengaluru's|mumbai's|delhi's)\s+", "", m.group("company"), flags=re.I)
-    # "Fintech startup Cent" -> "Cent"
-    company = re.sub(r"^.*\b(?:startup|platform|brand|company|firm|maker|provider)\s+(?=\S)", "", company, flags=re.I)
-    amount_text, usd, inr = parse_amount(m.group("rest"))
+    company, appositive, rest, from_title = found
+    key = company.split()[0].lower()
+    deal_sentence = next((s for s in sentences if key in s.lower() and AMOUNT_RX.search(s)), "")
+    if appositive is None:  # pick up "X, a ... platform, has raised" from the body
+        for s in sentences[:12]:
+            b = BODY_DEAL.match(s)
+            if b and b.group("desc") and key in b.group("company").lower():
+                appositive, deal_sentence = b.group("desc"), s
+                break
+
+    amount_text, usd, inr = parse_amount(rest)
     if not amount_text:
-        amount_text, usd, inr = parse_amount(text)
-    if ":" in company or len(company.split()) > 6:  # feature stories, not deal announcements
-        return None
-    round_name = normalize_round(m.group("rest"))
+        amount_text, usd, inr = parse_amount(deal_sentence or opening[:1500])
+
+    round_name = normalize_round(rest)
     if round_name == "Undisclosed":
-        round_name = normalize_round(" ".join(re.findall(r"[^.]*\b(?:round|funding)\b[^.]*", body[:1500])[:2]))
-    leads = []
-    lm = re.search(r"led by\s+(.+?)(?:[.;]|$)", m.group("rest"), re.I) or re.search(r"led by\s+(.+?)[.;]", text, re.I)
-    others = []
+        round_name = normalize_round(" ".join([deal_sentence] + [s for s in sentences[:8] if re.search(r"\bround\b", s, re.I)][:2]))
+
+    leads, others = [], []
+    lm = re.search(r"led by\s+(.+?)(?:[.;]|$)", rest, re.I) or re.search(r"led by\s+(.+?)(?:[.;]|$)", deal_sentence, re.I) \
+        or re.search(r"led by\s+(.+?)[.;]", opening[:3000], re.I)
     if lm:
         parts = re.split(r",?\s+(?:with participation from|alongside)\s+", lm.group(1), maxsplit=1, flags=re.I)
-        lead_text, part_text = parts[0], parts[1] if len(parts) > 1 else ""
-        leads = split_investors(lead_text)
-        others = split_investors(part_text) if part_text else []
-    pm = re.search(r"(?:participation from|also participated|alongside|existing investors)\s+(.+?)[.;]", text, re.I)
-    if pm and not others:
-        others = [i for i in split_investors(pm.group(1)) if i not in leads]
-    first = next((s for s in re.split(r"(?<=[.!?])\s+", body) if company.split()[0].lower() in s.lower()), "")
-    brief = first[:300]
+        leads = split_investors(parts[0])
+        others = split_investors(parts[1]) if len(parts) > 1 else []
+    if not others:
+        pm = re.search(r"(?:participation from|also participated|saw participation of|alongside|"
+                       r"other investors (?:include|including)|existing investors)\s+(.+?)[.;]", opening[:3000], re.I)
+        if pm:
+            others = [i for i in split_investors(pm.group(1)) if i not in leads]
+    if not leads:
+        fm = re.search(r"(?:from|by)\s+((?:[A-Z][\w&.'-]*\s?){1,5}(?:Capital|Ventures|Partners|VC|Fund|Investments|Angels|Network|Advisors|Holdings)\b"
+                       r"(?:(?:,\s*|\s+and\s+)(?:[A-Z][\w&.'-]*\s?){1,5}(?:Capital|Ventures|Partners|VC|Fund|Investments|Angels|Network|Advisors|Holdings)\b)*)",
+                       deal_sentence or rest)
+        if fm:
+            leads = split_investors(fm.group(1))
+
+    # company brief: the appositive plus the first descriptive sentence that isn't about the raise
+    brief_parts = []
+    if appositive:
+        brief_parts.append(f"{company} is {appositive.strip()}.")
+    for s in sentences[:15]:
+        low = s.lower()
+        if (key in low or low.startswith(("founded", "the startup", "the company", "the platform", "it "))) \
+                and not AMOUNT_RX.search(s) and not re.search(r"\b(raised|funding|round|investors?|led by)\b", low):
+            brief_parts.append(s)
+            break
+    if not brief_parts and deal_sentence:
+        brief_parts.append(deal_sentence)
+    brief = " ".join(brief_parts)[:420]
+
+    head_text = f"{title} {appositive or ''} {desc_meta}"
+    sector = classify(f"{head_text} {head_text} {brief}")
+    if sector == "Other":
+        sector = classify(opening[:2000])
+    sub_sector = ""
+    if appositive:
+        sub_sector = re.sub(r"^(?:an?|the|India's|India’s)\s+", "", appositive.strip(), flags=re.I)
+        sub_sector = re.split(r"\s+(?:that|which|who|founded|offering|helping|enabling)\s+", sub_sector)[0][:60]
+
+    early = f"{title} {desc_meta} {opening[:2000]}"
+    cm = re.search(r"\b(" + CITY_RX.pattern[3:-3] + r")[- ](?:based|headquartered)", early, re.I) \
+        or re.search(r"(?:headquartered|based) (?:in|out of) (" + CITY_RX.pattern[3:-3] + r")\b", early, re.I) \
+        or CITY_RX.search(early)
+    city = CITIES[cm.group(1).lower()] if cm else ""
+    indian = bool(city) or bool(re.search(r"\bIndia|Indian\b", early)) or not FOREIGN_RX.search(early[:800])
+    if FOREIGN_RX.search(f"{title} {early[:400]}") and not city:
+        indian = False
+
+    use = next((s for s in sentences[:25] if USE_RX.search(s)), "")
+    if use:
+        use = re.sub(r"^.*?\b(?:to|for)\s+", "", use[USE_RX.search(use).end():], count=1).strip(" .")[:200]
+
     return {
         "is_funding_round": True,
-        "is_indian_company": True,
-        "company": company.strip(),
+        "is_indian_company": indian,
+        "company": company,
         "company_brief": brief,
-        "sector": classify(f"{title} {brief} {art.get('description', '')}"),
-        "sub_sector": "",
+        "sector": sector,
+        "sub_sector": sub_sector,
         "round": round_name,
         "amount_text": amount_text or "Undisclosed",
         "amount_usd_mn": usd,
         "amount_inr_cr": inr,
         "lead_investors": leads,
         "investors": others,
-        "city": "",
-        "use_of_funds": "",
+        "city": city,
+        "use_of_funds": use,
         "extraction": "rules",
     }
 
