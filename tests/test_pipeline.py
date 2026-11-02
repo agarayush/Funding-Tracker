@@ -159,3 +159,30 @@ def test_yourstory_discovery():
     c = src.discover(datetime(2026, 8, 1, tzinfo=timezone.utc), datetime(2026, 10, 29, tzinfo=timezone.utc), max_pages=3)
     assert set(c) == {f"{base}/2026/10/rotoris-bags-rs-70-cr-to-expand-its-luxury-watch-business",
                       f"{base}/2026/10/matiks-pre-series-a"}
+
+
+def test_custom_range_limits():
+    import pytest
+    from scraper.run import parse_range
+    now = datetime(2026, 11, 2, 12, 0, tzinfo=timezone.utc)
+    start, end = parse_range("2026-05-01", "2026-06-30", now)
+    assert start.isoformat() == "2026-04-30T18:30:00+00:00"  # midnight IST
+    assert end.date().isoformat() == "2026-06-30"
+    _, end = parse_range("2026-10-01", "2027-01-01", now)  # future end is clipped to now
+    assert end == now
+    with pytest.raises(SystemExit):
+        parse_range("2025-10-01", "2026-01-01", now)  # more than a year back
+    with pytest.raises(SystemExit):
+        parse_range("2026-06-01", "2026-05-01", now)  # reversed
+    with pytest.raises(SystemExit):
+        parse_range("01/05/2026", None, now)
+
+
+def test_non_deal_stories_rejected():
+    for url, title in [
+        ("https://yourstory.com/2026/08/indian-deeptech-investments-reach-114-billion-report", "The deeptech sector raised $11.4 billion: report"),
+        ("https://yourstory.com/2026/09/indias-tech-cos-raise-usd-103b-in-2026-tracxn-report", "India's tech companies raise $10.3B in 2026"),
+        ("https://viestories.com/funding-alert/accel-raises-550-million-for-ninth-india-early-stage-fund-12252285", "Accel raises $550 Million for ninth India early-stage fund"),
+        ("https://yourstory.com/2026/08/ola-electric-secures-5-year-pli-window-get-upto-7240cr-incentives", "Ola Electric secures 5-year PLI window, gets up to Rs 7,240cr incentives"),
+    ]:
+        assert heuristic_extract({"url": url, "title": title, "description": "", "body": ""}) is None, title

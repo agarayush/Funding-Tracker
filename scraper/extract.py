@@ -107,9 +107,21 @@ def find_deal(title, sentences):
     return None
 
 
+NON_DEAL_RX = re.compile(
+    r"\b(report|tracxn|data shows|funding (?:fell|rose|dips|drops|jumps)|in h[12]\b|quarter|q[1-4]\b|"
+    r"for (?:its |a |the )?(?:[\w-]+ ){0,4}fund\b|fund[- ](?:i|ii|iii|iv|v|vi)\b|corpus|first close|final close|"
+    r"pli|incentives?|subsidy|government|ministry|announces? .*\b(?:hub|park|policy)|ipo|acquires|acquisition|merger)\b", re.I)
+GENERIC_COMPANY_RX = re.compile(
+    r"\b(sector|companies|startups|industry|ecosystem|government|ministry|investors|founders|"
+    r"report|market|state|india’s|india's|indian)\b|^(?:ai|india|it|this|the)$", re.I)
+
+
 def heuristic_extract(art):
     """Rules-based extraction from the headline plus the article's opening paragraphs."""
     title = art.get("title") or ""
+    slug_words = art.get("url", "").rstrip("/").rsplit("/", 1)[-1].replace("-", " ")
+    if NON_DEAL_RX.search(title) or NON_DEAL_RX.search(slug_words):
+        return None
     body = art.get("body") or ""
     desc_meta = art.get("description") or ""
     opening = body[:4000]
@@ -118,6 +130,8 @@ def heuristic_extract(art):
     if not found:
         return None
     company, appositive, rest, from_title = found
+    if GENERIC_COMPANY_RX.search(company):
+        return None
     key = company.split()[0].lower()
     deal_sentence = next((s for s in sentences if key in s.lower() and AMOUNT_RX.search(s)), "")
     if appositive is None:  # pick up "X, a ... platform, has raised" from the body

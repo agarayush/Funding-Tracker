@@ -77,9 +77,26 @@ tr.detail td { background: var(--bg); }
 .intro { margin: 0 0 14px; max-width: 760px; }
 .foot { padding: 24px 16px 40px; font-size: 12px; }
 .empty { padding: 30px; text-align: center; color: var(--muted); }
+.refresh-card { max-width: 760px; }
+.refresh-form { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.refresh-form label { display: flex; flex-direction: column; gap: 4px; color: var(--muted); font-size: 13px; }
+.refresh-form input[type=date], .refresh-form input[type=password] { font: inherit; color: var(--text); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 7px 10px; }
+.refresh-form .presets, .refresh-form .check, .refresh-form .token, .refresh-form .actions, .refresh-form .msg { grid-column: 1 / -1; }
+.refresh-form .presets { display: flex; flex-wrap: wrap; gap: 6px; }
+.refresh-form .presets button { padding: 4px 10px; font-size: 13px; }
+.refresh-form .check { flex-direction: row; align-items: center; gap: 8px; color: var(--text); }
+.refresh-form .actions { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+.msg { margin: 0; min-height: 1.5em; }
+.msg.error { color: var(--bad); } .msg.ok { color: var(--good); }
+.help { margin-top: 14px; border-top: 1px solid var(--line); padding-top: 10px; }
+.help summary { cursor: pointer; font-weight: 600; }
+.help ol { padding-left: 20px; }
+code { background: var(--bg); padding: 1px 5px; border-radius: 4px; }
 @media (max-width: 640px) {
+  .refresh-form { grid-template-columns: 1fr; }
   .sector-grid { grid-template-columns: 1fr; }
   .winds { grid-template-columns: 1fr; }
   .investors { max-width: 200px; }
   .inline { flex: 1 1 45%; }
 }
+[hidden] { display: none !important; }

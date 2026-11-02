@@ -184,10 +184,90 @@
     URL.revokeObjectURL(a.href);
   }
 
+  // ---- Refresh tab: dispatch the GitHub Actions workflow for a custom date range ----
+  const REPO = "agarayush/Funding-Tracker", WORKFLOW = "weekly-update.yml", MAX_DAYS = 365, TOKEN_KEY = "ft_github_token";
+  const isoDay = (d) => d.toISOString().slice(0, 10);
+  const daysAgo = (n) => { const d = new Date(); d.setDate(d.getDate() - n); return isoDay(d); };
+  const store = { get: (k) => { try { return localStorage.getItem(k); } catch { return null; } },
+                  set: (k, v) => { try { v ? localStorage.setItem(k, v) : localStorage.removeItem(k); } catch {} } };
+
+  function rangeError(from, to) {
+    if (!from || !to) return "Pick both dates.";
+    if (from > to) return "The From date must be on or before the To date.";
+    if (to > daysAgo(0)) return "The To date can't be in the future.";
+    if (from < daysAgo(MAX_DAYS)) return `Only the last 12 months can be refreshed, so the earliest From date is ${fmtDate(daysAgo(MAX_DAYS))}.`;
+    return "";
+  }
+
+  function setMsg(text, kind) { const m = $("#r-msg"); m.textContent = text; m.className = `msg ${kind || ""}`; }
+
+  async function loadRuns() {
+    try {
+      const r = await fetch(`https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW}/runs?per_page=8`);
+      const data = await r.json();
+      const rows = (data.workflow_runs || []).map((run) => {
+        const status = run.status === "completed" ? (run.conclusion === "success" ? "Done" : run.conclusion || "Done") : run.status === "queued" ? "Queued" : "Running";
+        const mins = run.status === "completed" ? Math.max(1, Math.round((new Date(run.updated_at) - new Date(run.run_started_at || run.created_at)) / 60000)) + " min" : "";
+        return `<tr><td>${esc(new Date(run.created_at).toLocaleString("en-IN", { dateStyle: "medium", timeStyle: "short" }))}</td>
+          <td>${run.event === "schedule" ? "Weekly (automatic)" : "Manual"}</td><td>${esc(status)}</td><td class="num">${mins}</td>
+          <td><a href="${esc(run.html_url)}" target="_blank" rel="noopener">Details</a></td></tr>`;
+      }).join("");
+      $("#r-runs").innerHTML = `<thead><tr><th>Started</th><th>Type</th><th>Status</th><th class="num">Took</th><th></th></tr></thead><tbody>${rows || '<tr><td colspan="5" class="empty">No runs yet</td></tr>'}</tbody>`;
+      return data.workflow_runs || [];
+    } catch {
+      $("#r-runs").innerHTML = `<tbody><tr><td class="empty">Couldn't load run history from GitHub.</td></tr></tbody>`;
+      return [];
+    }
+  }
+
+  function initRefresh() {
+    const from = $("#r-from"), to = $("#r-to");
+    from.min = to.min = daysAgo(MAX_DAYS);
+    from.max = to.max = daysAgo(0);
+    from.value = daysAgo(7); to.value = daysAgo(0);
+    $("#range-limit").textContent = `Earliest allowed: ${fmtDate(daysAgo(MAX_DAYS))}`;
+    $("#r-open").href = `https://github.com/${REPO}/actions/workflows/${WORKFLOW}`;
+    const saved = store.get(TOKEN_KEY);
+    if (saved) { $("#r-token").value = saved; $("#r-remember").checked = true; }
+    document.querySelectorAll(".presets button").forEach((b) => (b.onclick = () => {
+      from.value = daysAgo(Number(b.dataset.days)); to.value = daysAgo(0); setMsg("");
+    }));
+    [from, to].forEach((i) => i.addEventListener("input", () => setMsg(rangeError(from.value, to.value), "error")));
+    $("#r-reload").onclick = loadRuns;
+    $("#refresh-form").addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const err = rangeError(from.value, to.value);
+      if (err) return setMsg(err, "error");
+      const token = $("#r-token").value.trim();
+      if (!token) return setMsg("Add a GitHub token (see the steps below), or use “Or start it on GitHub instead” and enter these dates there.", "error");
+      store.set(TOKEN_KEY, $("#r-remember").checked ? token : null);
+      setMsg("Starting the refresh…");
+      try {
+        const r = await fetch(`https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW}/dispatches`, {
+          method: "POST",
+          headers: { Accept: "application/vnd.github+json", Authorization: `Bearer ${token}`, "X-GitHub-Api-Version": "2022-11-28" },
+          body: JSON.stringify({ ref: "main", inputs: { from_date: from.value, to_date: to.value, reprocess: $("#r-reprocess").checked } }),
+        });
+        if (r.status === 204) {
+          setMsg(`Refresh started for ${fmtDate(from.value)} to ${fmtDate(to.value)}. The site will update a few minutes after the run shows “Done” below.`, "ok");
+          setTimeout(loadRuns, 4000);
+        } else if (r.status === 401 || r.status === 403 || r.status === 404) {
+          setMsg("GitHub rejected the token. Check that it covers the Funding-Tracker repo, has Actions set to Read and write, and hasn't expired.", "error");
+        } else {
+          const body = await r.json().catch(() => ({}));
+          setMsg(`GitHub returned ${r.status}: ${body.message || "unknown error"}`, "error");
+        }
+      } catch {
+        setMsg("Couldn't reach GitHub. Check your connection and try again.", "error");
+      }
+    });
+    loadRuns();
+  }
+
   function showTab(name) {
     document.querySelectorAll(".tab").forEach((t) => t.classList.toggle("active", t.dataset.tab === name));
     document.querySelectorAll(".panel").forEach((p) => (p.hidden = p.id !== `tab-${name}`));
-    $("#kpis").hidden = name === "coverage";
+    $("#kpis").hidden = name === "coverage" || name === "refresh";
   }
 
   function fillSelect(sel, values) {
@@ -220,7 +300,7 @@
       const a = e.target.closest("a[data-sector]"); if (!a) return;
       e.preventDefault(); $("#f-sector").value = a.dataset.sector; showTab("deals"); applyFilters();
     });
-    applyFilters(); renderSectors(); renderCoverage();
+    applyFilters(); renderSectors(); renderCoverage(); initRefresh();
   }
   init();
 })();

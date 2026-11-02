@@ -18,6 +18,7 @@
       <button class="tab active" data-tab="deals" role="tab">Deals</button>
       <button class="tab" data-tab="sectors" role="tab">Sectors</button>
       <button class="tab" data-tab="coverage" role="tab">Coverage</button>
+      <button class="tab" data-tab="refresh" role="tab">Refresh</button>
     </nav>
   </div>
 </header>
@@ -83,6 +84,43 @@
     <div class="card"><div class="table-scroll"><table id="coverage-weeks"></table></div></div>
     <div class="card"><div class="card-head"><h2>Field fill rates (latest run)</h2><span class="muted">Share of deals in the run's window with each field filled</span></div><div class="table-scroll"><table id="fill-rates"></table></div></div>
     <div class="card"><div class="card-head"><h2>Recent runs</h2></div><div class="table-scroll"><table id="coverage-runs"></table></div></div>
+  </section>
+
+  <section id="tab-refresh" class="panel" hidden>
+    <p class="muted intro">Fetch and update deals for any date range in the last 12 months. The update runs on GitHub Actions and usually takes 3 to 15 minutes, depending on the length of the range. The site refreshes itself when the run finishes. The automatic weekly run continues every Monday regardless.</p>
+    <div class="card refresh-card">
+      <div class="card-head"><h2>Choose a date range</h2><span class="muted" id="range-limit"></span></div>
+      <form id="refresh-form" class="refresh-form">
+        <label>From <input id="r-from" type="date" required></label>
+        <label>To <input id="r-to" type="date" required></label>
+        <div class="presets">
+          <button type="button" class="ghost" data-days="7">Last 7 days</button>
+          <button type="button" class="ghost" data-days="30">Last 30 days</button>
+          <button type="button" class="ghost" data-days="90">Last 3 months</button>
+          <button type="button" class="ghost" data-days="180">Last 6 months</button>
+          <button type="button" class="ghost" data-days="365">Last 12 months</button>
+        </div>
+        <label class="check"><input id="r-reprocess" type="checkbox"> Re-read articles already in the tracker for this range. Use this after adding the API key.</label>
+        <label class="token">GitHub token <input id="r-token" type="password" autocomplete="off" placeholder="github_pat_…"></label>
+        <label class="check"><input id="r-remember" type="checkbox"> Remember the token in this browser</label>
+        <div class="actions">
+          <button type="submit" class="primary">Run refresh</button>
+          <a id="r-open" class="ghost-link" target="_blank" rel="noopener">Or start it on GitHub instead</a>
+        </div>
+        <p id="r-msg" class="msg" role="status"></p>
+      </form>
+      <details class="help">
+        <summary>How to get a GitHub token (one-time setup)</summary>
+        <ol>
+          <li>Open <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">GitHub → Settings → Fine-grained tokens → Generate new token</a>.</li>
+          <li>Under Repository access, choose <em>Only select repositories</em> → <code>Funding-Tracker</code>.</li>
+          <li>Under Permissions → Repository permissions, set <em>Actions</em> to <strong>Read and write</strong>. Nothing else is needed.</li>
+          <li>Paste the token here. It is sent only to api.github.com, and is stored only in this browser if you tick “Remember”.</li>
+        </ol>
+        <p class="muted">No token? Click “Or start it on GitHub instead”, press <em>Run workflow</em>, and enter the From and To dates shown above.</p>
+      </details>
+    </div>
+    <div class="card"><div class="card-head"><h2>Recent updates</h2><button id="r-reload" class="ghost" type="button">Reload</button></div><div class="table-scroll"><table id="r-runs"></table></div></div>
   </section>
 </main>
 

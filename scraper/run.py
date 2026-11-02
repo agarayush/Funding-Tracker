@@ -110,9 +110,32 @@ def merge(deals, new):
     return True
 
 
+MAX_LOOKBACK_DAYS = 366
+
+
+def parse_range(from_date, to_date, now):
+    """Validate a custom YYYY-MM-DD range: within the last year, from <= to."""
+    today = now.astimezone(IST).date()
+    try:
+        lo = datetime.fromisoformat(from_date).date() if from_date else today - timedelta(days=7)
+        hi = datetime.fromisoformat(to_date).date() if to_date else today
+    except ValueError:
+        raise SystemExit("dates must be YYYY-MM-DD")
+    hi = min(hi, today)
+    if lo > hi:
+        raise SystemExit(f"from date {lo} is after to date {hi}")
+    if (today - lo).days > MAX_LOOKBACK_DAYS:
+        raise SystemExit(f"from date {lo} is more than a year ago; the limit is {today - timedelta(days=MAX_LOOKBACK_DAYS)}")
+    start = datetime.combine(lo, datetime.min.time(), IST).astimezone(timezone.utc)
+    end = datetime.combine(hi, datetime.max.time(), IST).astimezone(timezone.utc)
+    return start, min(end, now)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--days", type=int, help="look back N days (default: since last run, or 90 on first run)")
+    ap.add_argument("--from-date", help="custom range start, YYYY-MM-DD (within the last year)")
+    ap.add_argument("--to-date", help="custom range end, YYYY-MM-DD (default: today)")
     ap.add_argument("--max-pages", type=int, default=150, help="max listing pages per source")
     ap.add_argument("--sources", default="viestories,yourstory")
     ap.add_argument("--reprocess", action="store_true", help="ignore the processed-URL cache")
@@ -125,29 +148,36 @@ def main():
     deals = load("deals.json", [])
     sectors = load("sectors.json", {})
     coverage = load("coverage.json", {"weeks": {}, "runs": []})
-    processed = {} if args.reprocess else load("processed.json", {})
+    processed = load("processed.json", {})
 
-    end = datetime.now(timezone.utc)
-    if args.days:
+    now = datetime.now(timezone.utc)
+    end = now
+    if args.from_date or args.to_date:
+        start, end = parse_range(args.from_date, args.to_date, now)
+    elif args.days:
+        if not 1 <= args.days <= MAX_LOOKBACK_DAYS:
+            raise SystemExit(f"--days must be between 1 and {MAX_LOOKBACK_DAYS}")
         start = end - timedelta(days=args.days)
     elif state.get("last_run_end"):
         start = datetime.fromisoformat(state["last_run_end"]) - timedelta(days=7)
     else:
         start = end - timedelta(days=90)
     log.info("window %s -> %s", start.date(), end.date())
+    lo, hi = start.astimezone(IST).date().isoformat(), end.astimezone(IST).date().isoformat()
+    skip = processed
     if args.reprocess:
         # rebuild the window from scratch so re-extracted fields replace the old ones
-        cutoff = start.astimezone(IST).date().isoformat()
-        deals = [d for d in deals if d["date"] < cutoff]
-        coverage["weeks"] = {w: v for w, v in coverage["weeks"].items() if w < iso_week(cutoff)}
+        deals = [d for d in deals if not lo <= d["date"] <= hi]
+        coverage["weeks"] = {w: v for w, v in coverage["weeks"].items() if not iso_week(lo) <= w <= iso_week(hi)}
+        skip = {}
 
     classes = {"viestories": VieStories, "yourstory": YourStory}
     sources = [classes[s](PoliteClient()) for s in args.sources.split(",")]
     with ThreadPoolExecutor(len(sources)) as pool:  # one polite crawler per host, in parallel
-        results = list(pool.map(lambda s: crawl_source(s, start, end, processed, args.max_pages), sources))
+        results = list(pool.map(lambda s: crawl_source(s, start, end, skip, args.max_pages), sources))
 
     extract = make_extractor()
-    run_stats = {"started": end.isoformat(), "window": [start.date().isoformat(), end.date().isoformat()],
+    run_stats = {"started": now.isoformat(), "window": [start.date().isoformat(), end.date().isoformat()],
                  "extraction": "ai" if extract.llm else "rules", "sources": {}}
     weeks = coverage["weeks"]
     added = 0
@@ -160,7 +190,7 @@ def main():
                 st["fetch_failed"] += 1
                 continue
             pub = parse_dt(a["published"])
-            if not pub or not (start - timedelta(days=1) <= pub <= end + timedelta(days=1)):
+            if not pub or not (start <= pub <= end):
                 st["outside_window"] += 1
                 continue
             in_window.append(a)
@@ -195,7 +225,7 @@ def main():
     deals.sort(key=lambda d: (d["date"], d["company"]), reverse=True)
     sectors = insights.refresh(sectors, deals, extract.llm, force=args.refresh_insights)
     fields = ["company_brief", "sub_sector", "amount_usd_mn", "lead_investors", "investors", "city", "use_of_funds"]
-    window_deals = [d for d in deals if d["date"] >= start.astimezone(IST).date().isoformat()]
+    window_deals = [d for d in deals if lo <= d["date"] <= hi]
     run_stats["fill_rates"] = {f: round(sum(1 for d in window_deals if d.get(f)) / max(len(window_deals), 1), 3) for f in fields}
     run_stats["fill_rates"]["round_known"] = round(sum(1 for d in window_deals if d["round"] != "Undisclosed") / max(len(window_deals), 1), 3)
     run_stats["fill_rates"]["sector_known"] = round(sum(1 for d in window_deals if d["sector"] != "Other") / max(len(window_deals), 1), 3)
@@ -208,7 +238,9 @@ def main():
     save("sectors.json", sectors)
     save("coverage.json", coverage)
     save("processed.json", processed)
-    save("state.json", {"last_run_end": end.isoformat(), "updated": end.isoformat()})
+    # a past custom range must not move the weekly cursor backwards
+    last = max(state.get("last_run_end", ""), end.isoformat()) if end >= now - timedelta(days=1) else state.get("last_run_end", now.isoformat())
+    save("state.json", {"last_run_end": last, "updated": now.isoformat()})
     log.info("done: %d new deals, %d total", added, len(deals))
 
 

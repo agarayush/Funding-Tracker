@@ -9,6 +9,14 @@ on:
         description: "Look back N days (blank = since last run; use 90 for the first backfill)"
         required: false
         default: ""
+      from_date:
+        description: "Custom range start, YYYY-MM-DD (within the last year). Overrides days."
+        required: false
+        default: ""
+      to_date:
+        description: "Custom range end, YYYY-MM-DD (blank = today)"
+        required: false
+        default: ""
       refresh_insights:
         description: "Regenerate every sector note"
         type: boolean
@@ -42,9 +50,17 @@ jobs:
       - name: Crawl and extract
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DAYS: ${{ inputs.days }}
+          FROM_DATE: ${{ inputs.from_date }}
+          TO_DATE: ${{ inputs.to_date }}
         run: |
+          for v in "$DAYS" "$FROM_DATE" "$TO_DATE"; do
+            if [ -n "$v" ] && ! [[ "$v" =~ ^[0-9-]+$ ]]; then echo "::error::invalid input '$v'"; exit 1; fi
+          done
           ARGS=""
-          if [ -n "${{ inputs.days }}" ]; then ARGS="$ARGS --days ${{ inputs.days }}"; fi
+          if [ -n "$DAYS" ]; then ARGS="$ARGS --days $DAYS"; fi
+          if [ -n "$FROM_DATE" ]; then ARGS="$ARGS --from-date $FROM_DATE"; fi
+          if [ -n "$TO_DATE" ]; then ARGS="$ARGS --to-date $TO_DATE"; fi
           if [ "${{ inputs.refresh_insights }}" = "true" ]; then ARGS="$ARGS --refresh-insights"; fi
           if [ "${{ inputs.reprocess }}" = "true" ]; then ARGS="$ARGS --reprocess"; fi
           python -m scraper.run $ARGS
@@ -54,6 +70,7 @@ jobs:
           git config user.email "funding-tracker-bot@users.noreply.github.com"
           git add docs/data
           git diff --cached --quiet || git commit -m "Data update $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
           git push
 
   deploy:
