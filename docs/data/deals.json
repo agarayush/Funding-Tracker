@@ -1,29 +1,5 @@
 [
  {
-  "id": "ceccd2ee9629",
-  "date": "2026-11-02",
-  "company": "ValueQuest Tristar Fund",
-  "company_brief": "ValueQuest Tristar Fund is a private equity fund that backs India’s advanced manufacturing sector. It reached this within 15 months of its first close, beating both its original target and the full greenshoe (the extra amount a fund is allowed to raise above its target).",
-  "sector": "Manufacturing & Industrial",
-  "sub_sector": "private equity fund",
-  "round": "Undisclosed",
-  "amount_text": "Rs 2,100 Cr",
-  "amount_usd_mn": 238.636,
-  "amount_inr_cr": 2100.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "ValueQuest Tristar Fund raises over Rs 2,100 Cr for advanced manufacturing",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/11/funding-valuequest-tristar-fund-beats-target-greenshoe-15-months-first-close"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "17ab23099302",
   "date": "2026-11-02",
   "company": "Two Point O Capital",
@@ -190,30 +166,6 @@
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/11/prosus-investment-in-sachin-bansals-navi-gets-cci-nod"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "5e5191ca38b4",
-  "date": "2026-10-31",
-  "company": "The smart appliance disruptor has officially",
-  "company_brief": "Binance confirmed there is no evidence that wallet private keys were compromised.",
-  "sector": "SaaS & Enterprise Tech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "Rs 450 crore",
-  "amount_usd_mn": 51.136,
-  "amount_inr_cr": 450.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "Mumbai",
-  "use_of_funds": "the proceeds from the IPO towards debt payment, investments into brand awareness and marketing, R&D and general corporate purposes",
-  "headline": "Binance hit with $6.3B breach; Delhivery reports net profit of Rs 41 Cr in Q2",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/10/binance-hit-with-63b-breach-delhivery-reports-net-profit-of-rs-41-cr-in-q2"
    }
   ],
   "extraction": "rules"
@@ -454,30 +406,6 @@
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/dubdub-raises-13-million-in-seed-round-led-by-3one4-capital-antler-and-stellaris-12759698"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "154890caba89",
-  "date": "2026-10-28",
-  "company": "The startup",
-  "company_brief": "Last September, in 2025, the Bihar Idea Festival concluded at Bapu Sabhagar in Patna.",
-  "sector": "D2C & Consumer Brands",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "Rs 1 lakh",
-  "amount_usd_mn": 0.001,
-  "amount_inr_cr": 0.01,
-  "lead_investors": [],
-  "investors": [],
-  "city": "Patna",
-  "use_of_funds": "",
-  "headline": "From Homemade Badi to GomatiRoots: Shital Kumari Secures Funding",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/10/homemade-badi-gomatiroots"
    }
   ],
   "extraction": "rules"
@@ -1795,30 +1723,6 @@
   "extraction": "rules"
  },
  {
-  "id": "1712f2aeafaf",
-  "date": "2026-10-13",
-  "company": "Nandan Nilekani-backed F2A",
-  "company_brief": "It also plans to support portfolio companies with market expansion and policy engagement.",
-  "sector": "AI & Deeptech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "Rs 3,000 Cr",
-  "amount_usd_mn": 340.909,
-  "amount_inr_cr": 3000.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "Nandan Nilekani-backed F2A raises Rs 3,000 Cr for AI and Deeptech Fund",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/nandan-nilekani-backed-f2a-raises-rs-3000-cr-for-ai-and-deeptech-fund-12672012"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "9299e7e06080",
   "date": "2026-10-13",
   "company": "Mesa School of Business",
@@ -2042,33 +1946,6 @@
    {
     "site": "viestories",
     "url": "https://viestories.com/startupnews/nabventures-closes-second-fund-at-450-crore-12658905"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "5ed3e025a414",
-  "date": "2026-10-09",
-  "company": "NABARD-backed NABVENTURES",
-  "company_brief": "",
-  "sector": "Agritech & Foodtech",
-  "sub_sector": "",
-  "round": "Series A",
-  "amount_text": "Rs 450 Cr",
-  "amount_usd_mn": 51.136,
-  "amount_inr_cr": 450.0,
-  "lead_investors": [
-   "NABVENTURES",
-   "KisaanSay"
-  ],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "NABARD-backed NABVENTURES raises Rs 450 Cr for second fund",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/10/nabventures-hits-rs-450-crore-first-close-for-second-fund"
    }
   ],
   "extraction": "rules"
@@ -3178,30 +3055,6 @@
   "extraction": "rules"
  },
  {
-  "id": "3cea97ea416d",
-  "date": "2026-09-29",
-  "company": "has also",
-  "company_brief": "Since 2017, WEH Ventures has invested in more than 30 companies.",
-  "sector": "Healthtech & Biotech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "₹250 crore",
-  "amount_usd_mn": 28.409,
-  "amount_inr_cr": 250.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "WEH Ventures marks first close of ₹250 crore fund III",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/weh-ventures-marks-first-close-of-250-crore-fund-iii-12589988"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "40871022e81c",
   "date": "2026-09-29",
   "company": "SiMa.ai",
@@ -3279,30 +3132,6 @@
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/09/bharat-housing-network-secures-5-million-from-symbiotics"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "3ff3e7ff9537",
-  "date": "2026-09-28",
-  "company": "IIT Madras-backed deeptech fund",
-  "company_brief": "The fund was jointly anchored by IIT Madras, IIT Madras Research Park and Unicorn India Ventures.",
-  "sector": "AI & Deeptech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "Rs 450 crore",
-  "amount_usd_mn": 51.136,
-  "amount_inr_cr": 450.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "Chennai",
-  "use_of_funds": "",
-  "headline": "IIT Madras-backed deeptech fund raises Rs 450 crore in first close",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/iit-madras-backed-deeptech-fund-raises-rs-450-crore-in-first-close-12584394"
    }
   ],
   "extraction": "rules"
@@ -3488,35 +3317,6 @@
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/onya-raises-125-crore-in-pre-series-a-funding-12571799"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "2125a6d36d49",
-  "date": "2026-09-24",
-  "company": "India’s tech companies",
-  "company_brief": "India’s tech companies raised a combined $10.3 billion in the first nine months of 2026, an increase of 6.2% from $9.7 billion raised in the same period a year earlier, and 3% above the $10 billion raised in the nine months of 2024, according to a report by data intelligence platform Tracxn.",
-  "sector": "Fintech",
-  "sub_sector": "",
-  "round": "Series B",
-  "amount_text": "$10.3 billion",
-  "amount_usd_mn": 10300.0,
-  "amount_inr_cr": 90640.0,
-  "lead_investors": [
-   "Nxtra’s $1B private-equity round",
-   "Neysa’s $600 million Series B"
-  ],
-  "investors": [
-   "91 acquisitions"
-  ],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "India’s tech cos raise $10.3B in 2026, clocking a modest growth: Tracxn",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/09/indias-tech-cos-raise-usd-103b-in-2026-tracxn-report"
    }
   ],
   "extraction": "rules"
@@ -3842,30 +3642,6 @@
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/09/phonepe-secures-approval-for-uae-operations"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "b3f1e4117293",
-  "date": "2026-09-22",
-  "company": "Lavni Ventures",
-  "company_brief": "Founded in 2020, Lavni Ventures invests in deep-tech companies focused on health and climate.",
-  "sector": "Healthtech & Biotech",
-  "sub_sector": "",
-  "round": "Pre-Seed",
-  "amount_text": "₹200 Crore",
-  "amount_usd_mn": 22.727,
-  "amount_inr_cr": 200.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "Lavni Ventures Closes ₹200 Crore Fund II for Deep-Tech Startups",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/lavni-ventures-closes-200-crore-fund-ii-for-deep-tech-startups-12564410"
    }
   ],
   "extraction": "rules"
@@ -4493,30 +4269,6 @@
   "extraction": "rules"
  },
  {
-  "id": "68afea2417a9",
-  "date": "2026-09-13",
-  "company": "India's semiconductor sector",
-  "company_brief": "Nearly half of the funding amount into Indian semiconductor companies was raised since 2025\r\n\r\n India's semiconductor sector has attracted $1.4 billion in all-time equity funding across 281 funded companies, with nearly half of this amount - $701 million - raised since 2025 alone, according to data from Tracxn.",
-  "sector": "AI & Deeptech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "$1.4 billion",
-  "amount_usd_mn": 1400.0,
-  "amount_inr_cr": 12320.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "New Delhi",
-  "use_of_funds": "",
-  "headline": "India's semiconductor sector gets $1.4 billion: report",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/09/indias-semiconductor-sector-gets-14-billion-report"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "043d35628017",
   "date": "2026-09-12",
   "company": "Peep Beauty",
@@ -4853,7 +4605,7 @@
   "company": "W Health Ventures",
   "company_brief": "W Health follows a company-creation model instead of only investing in existing startups.",
   "sector": "Healthtech & Biotech",
-  "sub_sector": "healthcare-focused venture capital firm",
+  "sub_sector": "",
   "round": "Undisclosed",
   "amount_text": "₹700 cr",
   "amount_usd_mn": 79.545,
@@ -4867,10 +4619,6 @@
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/w-health-ventures-closes-second-fund-at-700-cr-12505783"
-   },
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/09/w-health-ventures-closes-fund-ii-at-rs-700-crore"
    }
   ],
   "extraction": "rules"
@@ -5290,35 +5038,6 @@
   "extraction": "rules"
  },
  {
-  "id": "4b605f8be787",
-  "date": "2026-09-07",
-  "company": "It",
-  "company_brief": "Founded in 2024 by Aniket Shah, Ujjwal Sukheja and Saran S, Swish promises food delivery in 10 minutes in a model that blends the elements of a cloud kitchen and quick commerce.",
-  "sector": "Logistics & Supply Chain",
-  "sub_sector": "",
-  "round": "Series B",
-  "amount_text": "$38 million",
-  "amount_usd_mn": 38.0,
-  "amount_inr_cr": 334.4,
-  "lead_investors": [
-   "Hara Global",
-   "Bain Capital Ventures"
-  ],
-  "investors": [
-   "Accel"
-  ],
-  "city": "Bengaluru",
-  "use_of_funds": "",
-  "headline": "Swish to raise Rs 225 Cr in funding round led by Bertelsmann India",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/09/swish-to-raise-rs-225-crore-led-by-bertelsmann-india"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "b8a7eddd3b02",
   "date": "2026-09-07",
   "company": "HerSpace Manufacturing",
@@ -5344,30 +5063,6 @@
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/09/herspace-manufacturing-40-million-gray-matters-capital"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "336fd5c11b27",
-  "date": "2026-09-06",
-  "company": "AI",
-  "company_brief": "A series of critical safety lapses has heightened concerns over the strength and opacity of advanced AI models.",
-  "sector": "AI & Deeptech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "Rs 70,000 crore",
-  "amount_usd_mn": 7954.545,
-  "amount_inr_cr": 70000.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "AI gets smarter, but can we control what’s next?",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/09/ai-gets-smarter-but-can-we-control-whats-next"
    }
   ],
   "extraction": "rules"
@@ -5989,41 +5684,6 @@
   "extraction": "rules"
  },
  {
-  "id": "d6964890c5a9",
-  "date": "2026-08-31",
-  "company": "NIIF",
-  "company_brief": "NIIF raises $2 billion for its second infrastructure fund from global investors, with a target of $3.2 billion to invest in India’s infrastructure sector.",
-  "sector": "Fintech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "$2 billion",
-  "amount_usd_mn": 2000.0,
-  "amount_inr_cr": 17600.0,
-  "lead_investors": [],
-  "investors": [
-   "ICICI Bank",
-   "HDFC Bank",
-   "Axis Bank",
-   "Kotak Life Insurance",
-   "HDFC Life Insurance",
-   "Ontario Teachers’ Pension Plan"
-  ],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "NIIF raises $2 billion from global investors for infrastructure fund II, sets target of $3.2 billion",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/niif-raises-2-billion-from-global-investors-for-infrastructure-fund-ii-sets-target-of-32-billion-12458818"
-   },
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/08/niif-raises-rs-19000-cr-as-first-close-in-second-fund"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "d93e119c6970",
   "date": "2026-08-31",
   "company": "Jagdish Farshan",
@@ -6216,30 +5876,6 @@
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/spacetech-startup-inspecity-raises-100-crore-in-pre-series-a-round-12441840"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "f61156291f00",
-  "date": "2026-08-27",
-  "company": "Industrial47",
-  "company_brief": "Industrial47 is a pre-seed venture fund founded by Rahul Seth. On the first close, Rahul Seth, Founder and General Partner, Industrial47, noted that given the current global environment, every nation needs to have technological sovereignty.",
-  "sector": "Manufacturing & Industrial",
-  "sub_sector": "pre-seed venture fund",
-  "round": "Pre-Seed",
-  "amount_text": "Rs 85 Cr",
-  "amount_usd_mn": 9.659,
-  "amount_inr_cr": 85.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "Pre-seed VC firm Industrial47 raises Rs 85 Cr in first close of Rs 200 Cr fund",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/08/pre-seed-vc-firm-industrial47-raises-rs-85-cr-first-close-rs-200-cr-fund"
    }
   ],
   "extraction": "rules"
@@ -7232,30 +6868,6 @@
   "extraction": "rules"
  },
  {
-  "id": "59281ba5f160",
-  "date": "2026-08-17",
-  "company": "The deeptech sector",
-  "company_brief": "Historically, India relied on sovereign science from institutions like ISRO and the IIT network to build its foundational engineering talent.",
-  "sector": "AI & Deeptech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "$11.4 billion",
-  "amount_usd_mn": 11400.0,
-  "amount_inr_cr": 100320.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "Indian deeptech investments reach $11.4B: Report",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/08/indian-deeptech-investments-reach-114-billion-report"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "5c2fbd446e4c",
   "date": "2026-08-17",
   "company": "ONGC",
@@ -7330,54 +6942,6 @@
   "extraction": "rules"
  },
  {
-  "id": "9b634e45aebb",
-  "date": "2026-08-13",
-  "company": "Mirae Asset’s MAVI",
-  "company_brief": "Mirae Asset’s MAVI is the venture capital investment platform of the Mirae Asset Financial Group in India. Mirae Asset Venture Opportunity Fund-II will invest in startups at the Series B-D stages across sectors.",
-  "sector": "Media, Gaming & Content",
-  "sub_sector": "venture capital investment platform of the Mirae Asset Finan",
-  "round": "Undisclosed",
-  "amount_text": "Rs 1,125 Cr",
-  "amount_usd_mn": 127.841,
-  "amount_inr_cr": 1125.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "Mirae Asset’s MAVI raises Rs 1,125 Cr in first close of Venture Opportunity Fund II",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/08/mirae-asset-mavi-rs-1125-cr-venture-opportunity-fund-ii"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "947ffaa41ea3",
-  "date": "2026-08-13",
-  "company": "Investments",
-  "company_brief": "It will invest in high-growth Indian startups that have achieved product-market fit and are entering their next phase of expansion.",
-  "sector": "AI & Deeptech",
-  "sub_sector": "",
-  "round": "Series B",
-  "amount_text": "₹1,125 Crore",
-  "amount_usd_mn": 127.841,
-  "amount_inr_cr": 1125.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "Mirae Asset Venture Investments Raises ₹1,125 Crore in First Close of Fund II",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/mirae-asset-venture-investments-raises-1125-crore-in-first-close-of-fund-ii-12256969"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "5d311e6b7403",
   "date": "2026-08-13",
   "company": "Centricity",
@@ -7422,20 +6986,14 @@
   "amount_usd_mn": 45.455,
   "amount_inr_cr": 400.0,
   "lead_investors": [],
-  "investors": [
-   "Uttar Pradesh"
-  ],
+  "investors": [],
   "city": "Chennai",
-  "use_of_funds": "Rs 80 Cr over the next six months Bluehill.VC, a frontier-tech-focused venture capital firm, has announced the final close of its maiden Rs 400 crore fund, including the full subscription of its Rs 50",
+  "use_of_funds": "",
   "headline": "Bluehill.VC Closes Maiden Frontier-Tech Fund at Rs 400 Crore",
   "sources": [
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/bluehillvc-closes-maiden-frontier-tech-fund-at-rs-400-crore-12256231"
-   },
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/08/bluehillvc-raises-rs-400-cr-for-maiden-frontier-tech-fund"
    }
   ],
   "extraction": "rules"
@@ -7501,30 +7059,6 @@
   "extraction": "rules"
  },
  {
-  "id": "39ae92e313b2",
-  "date": "2026-08-12",
-  "company": "Ola Electric",
-  "company_brief": "Ola Electric has secured a revised timeline under the Government’s Production Linked Incentive (PLI) scheme for advanced chemistry cells (ACC).",
-  "sector": "Climate & Cleantech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "Rs 7,240cr",
-  "amount_usd_mn": 822.727,
-  "amount_inr_cr": 7240.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "Ola Electric secures 5-year PLI window, to get upto Rs 7,240cr in incentives",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/08/ola-electric-secures-5-year-pli-window-get-upto-7240cr-incentives"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "90fb7fdb5460",
   "date": "2026-08-12",
   "company": "Lane",
@@ -7577,30 +7111,6 @@
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/spiritual-tech-startup-astrotalk-hits-1-billion-valuation-through-esop-buyback-12253539"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "f7636361b54c",
-  "date": "2026-08-12",
-  "company": "Accel",
-  "company_brief": "Accel plans to invest in startups working across artificial intelligence (AI), consumer, fintech, software and advanced manufacturing.",
-  "sector": "AI & Deeptech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "$550 Million",
-  "amount_usd_mn": 550.0,
-  "amount_inr_cr": 4840.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "Accel Raises $550 Million for Ninth India Early-Stage Fund",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/accel-raises-550-million-for-ninth-india-early-stage-fund-12252285"
    }
   ],
   "extraction": "rules"
@@ -7797,34 +7307,6 @@
   "extraction": "rules"
  },
  {
-  "id": "281e49e280a9",
-  "date": "2026-08-10",
-  "company": "Aum Ventures",
-  "company_brief": "Aum Ventures said it will also help its portfolio companies access global markets, strategic partnerships, talent and industry expertise across India, the US, Israel and the Middle East.",
-  "sector": "AI & Deeptech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "₹225 Cr",
-  "amount_usd_mn": 25.568,
-  "amount_inr_cr": 225.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "Mumbai",
-  "use_of_funds": "",
-  "headline": "Aum Ventures Raises ₹225 Cr First Close for India Innovation Fund II",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/aum-ventures-raises-225-cr-first-close-for-india-innovation-fund-ii-12246607"
-   },
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/08/aum-ventures-raises-225-crore-first-close-for-deeptech-fund"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "dd19046485da",
   "date": "2026-08-07",
   "company": "BlissClub",
@@ -7913,34 +7395,6 @@
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/08/iitm-incubated-deeptech-startup-solinas-integrity-raises-series-a1"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "81c09699ad6b",
-  "date": "2026-08-06",
-  "company": "Piper Serica",
-  "company_brief": "Piper Serica will invest in Series A and Series B deeptech startups across sectors such as semiconductors, artificial intelligence (AI), spacetech, defence technology, biosciences and fintech infrastructure.",
-  "sector": "AI & Deeptech",
-  "sub_sector": "Mumbai-based investment house",
-  "round": "Series A",
-  "amount_text": "₹300 Cr",
-  "amount_usd_mn": 34.091,
-  "amount_inr_cr": 300.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "Mumbai",
-  "use_of_funds": "",
-  "headline": "Piper Serica Raises ₹300 Cr in First Close of Bharat Tech Fund",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/piper-serica-raises-300-cr-in-first-close-of-bharat-tech-fund-12236002"
-   },
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/08/piper-serica-raises-rs-300-cr-as-first-close-of-bharat-tech-fund"
    }
   ],
   "extraction": "rules"
@@ -8553,40 +8007,6 @@
   "extraction": "rules"
  },
  {
-  "id": "0085d82914e6",
-  "date": "2026-07-30",
-  "company": "Sid’s Farm",
-  "company_brief": "Hyderabad-based dairy startup Sid’s Farm has raised ₹81 crore in a pre-Series B funding round to expand its supply chain, manufacturing capabilities, and product offerings across India.",
-  "sector": "Agritech & Foodtech",
-  "sub_sector": "",
-  "round": "Pre-Series B",
-  "amount_text": "Rs 81 Cr",
-  "amount_usd_mn": 9.205,
-  "amount_inr_cr": 81.0,
-  "lead_investors": [
-   "Omnivore",
-   "NSFO",
-   "Dodla Dairy",
-   "Next Bharat Ventures",
-   "and LIO"
-  ],
-  "investors": [],
-  "city": "Hyderabad",
-  "use_of_funds": "strengthen its supply chain and for the expansion of its manufacturing and distribution capabilities",
-  "headline": "Sid’s Farm raises over Rs 81 Cr in Series B to strengthen supply chain",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/sids-farm-raises-over-rs-81-cr-in-series-b-to-strengthen-supply-chain-12211865"
-   },
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/07/sids-farm-raises-over-rs-81-cr-pre-series-b-round"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "f95c17178c6f",
   "date": "2026-07-30",
   "company": "Sid’s Farm",
@@ -8601,8 +8021,7 @@
    "Omnivore",
    "NSFO",
    "Dodla Dairy",
-   "Next Bharat Ventures",
-   "and LIO"
+   "Next Bharat Ventures"
   ],
   "investors": [],
   "city": "Hyderabad",
@@ -8617,10 +8036,34 @@
   "extraction": "rules"
  },
  {
+  "id": "0085d82914e6",
+  "date": "2026-07-30",
+  "company": "Sid’s Farm",
+  "company_brief": "It will also be investing in product innovation, and strengthen its partnership with the farmers along with accelerating its expansion into new geographies.",
+  "sector": "Agritech & Foodtech",
+  "sub_sector": "",
+  "round": "Pre-Series B",
+  "amount_text": "Rs 81 Cr",
+  "amount_usd_mn": 9.205,
+  "amount_inr_cr": 81.0,
+  "lead_investors": [],
+  "investors": [],
+  "city": "Hyderabad",
+  "use_of_funds": "strengthen its supply chain and for the expansion of its manufacturing and distribution capabilities",
+  "headline": "Sid’s Farm raises over Rs 81 Cr in pre-Series B round",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/07/sids-farm-raises-over-rs-81-cr-pre-series-b-round"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
   "id": "093d4f6575a6",
   "date": "2026-07-30",
   "company": "Arboreal Bioinnovations",
-  "company_brief": "Arboreal Bioinnovations, a speciality food and nutraceutical ingredients technology company, has raised Rs 230 crore in a Series A round of funding co-led by EAAA, the alternative assets management arm of Edelweiss, and Omnivore.",
+  "company_brief": "The company serves over 1,100 B2B customers and has supported more than 300 product launches across India.",
   "sector": "Manufacturing & Industrial",
   "sub_sector": "",
   "round": "Series A",
@@ -8631,20 +8074,18 @@
    "EAAA",
    "Omnivore"
   ],
-  "investors": [
-   "existing investor Rainmatter by Zerodha"
-  ],
+  "investors": [],
   "city": "Lucknow",
-  "use_of_funds": "expand its manufacturing capacity, strengthen R&D, and accelerate commercialisation of its products\r\n\r\n Arboreal Bioinnovations, a speciality food and nutraceutical ingredients technology company, has",
-  "headline": "Arboreal Bioinnovations raises Rs 230 Cr in Series A round co-led by EAAA and Omnivore",
+  "use_of_funds": "expand manufacturing capacity and strengthen R&D capabilities",
+  "headline": "Arboreal Bioinnovations raises Rs 230 Cr in Series A to expand manufacturing capacity",
   "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/07/arboreal-bioinnovations-raises-rs-230-crore-series-a-eaaa-omnivore"
-   },
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/arboreal-bioinnovations-raises-rs-230-cr-in-series-a-to-expand-manufacturing-capacity-12212082"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/07/arboreal-bioinnovations-raises-rs-230-crore-series-a-eaaa-omnivore"
    }
   ],
   "extraction": "rules"
@@ -8682,7 +8123,7 @@
   "id": "d916906f8f83",
   "date": "2026-07-30",
   "company": "Aham Housing Finance",
-  "company_brief": "Aham Housing Finance has raised Rs 100 crore in a follow-on funding round led by The Sanmar Group to expand affordable housing lending, strengthen technology capabilities, and enter new markets across India.",
+  "company_brief": "Venkatesh Kannappan, Founder, Managing Director & CEO of Aham Housing Finance.",
   "sector": "Real Estate & Proptech",
   "sub_sector": "",
   "round": "Undisclosed",
@@ -8693,9 +8134,7 @@
    "The Sanmar Group"
   ],
   "investors": [
-   "including Negen Capital",
-   "also participated in the round",
-   "continue"
+   "Negen Capital"
   ],
   "city": "Chennai",
   "use_of_funds": "expand its business across markets and on technology",
@@ -8857,34 +8296,6 @@
   "extraction": "rules"
  },
  {
-  "id": "82a4d8e27ad7",
-  "date": "2026-07-28",
-  "company": "Inflexor Ventures",
-  "company_brief": "Inflexor Ventures announces the first close of its Rs 1,250 crore Fund III at Rs 400 crore to back science, engineering and technology startups in India.",
-  "sector": "AI & Deeptech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "Rs 400 Crore",
-  "amount_usd_mn": 45.455,
-  "amount_inr_cr": 400.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "Inflexor Ventures Raises Rs 400 Crore in First Close of Its Third Venture Capital Fund",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/inflexor-ventures-raises-rs-400-crore-in-first-close-of-its-third-venture-capital-fund-12207286"
-   },
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/07/inflexor-ventures-raises-rs-400-cr-as-first-close-of-fund-iii"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "c683a4cf101e",
   "date": "2026-07-27",
   "company": "Urban Harvest",
@@ -8916,21 +8327,18 @@
   "extraction": "rules"
  },
  {
-  "id": "cef924823e26",
+  "id": "18e01eb96b89",
   "date": "2026-07-27",
   "company": "Omega Seiki Mobility",
-  "company_brief": "Founded in 2018, Omega Seiki Mobility is backed by the 55-year manufacturing legacy of the Anglian Omega Group.",
+  "company_brief": "The company operates under the Anglian Omega Group and has manufacturing facilities in Faridabad and Pune.",
   "sector": "Mobility & Automotive",
   "sub_sector": "",
   "round": "Undisclosed",
-  "amount_text": "Rs 50 Cr",
+  "amount_text": "Rs 50 Crore",
   "amount_usd_mn": 5.682,
   "amount_inr_cr": 50.0,
   "lead_investors": [
-   "Abhishek Misra (SKG Asset Management",
-   "SKG Fund)",
-   "Unistone Capital",
-   "Sanjeev Agarwal Family Office"
+   "Securocorp Securities"
   ],
   "investors": [
    "Sangeeta Pareekh",
@@ -8938,13 +8346,9 @@
    "Vanshika Sharma"
   ],
   "city": "Delhi",
-  "use_of_funds": "increase the company's installed manufacturing capacity, strengthen R&D, expand its dealer and service network, and accelerate the rollout of next-generation electric mobility products",
-  "headline": "Commercial EV maker Omega Seiki Mobility raises additional Rs 50 Cr funding",
+  "use_of_funds": "increase manufacturing capacity, strengthen research and development (R&D), expand its dealer and service network across India, and accelerate the launch of next-generation electric mobility solutions",
+  "headline": "Omega Seiki Mobility Secures Rs 50 Crore to Accelerate EV Growth in India",
   "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/08/commerical-ev-maker-omega-seiki-mobility-raises-another-rs-50-crore"
-   },
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/omega-seiki-mobility-secures-rs-50-crore-to-accelerate-ev-growth-in-india-12201788"
@@ -8952,6 +8356,10 @@
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/07/omega-seiki-mobility-raises-rs-50-crore"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/08/commerical-ev-maker-omega-seiki-mobility-raises-another-rs-50-crore"
    }
   ],
   "extraction": "rules"
@@ -9150,30 +8558,6 @@
   "extraction": "rules"
  },
  {
-  "id": "12cdfc5dd758",
-  "date": "2026-07-21",
-  "company": "had previously",
-  "company_brief": "The firm had previously raised Rs 723 crore through its first fund.",
-  "sector": "Climate & Cleantech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "Rs 723 crore",
-  "amount_usd_mn": 82.159,
-  "amount_inr_cr": 723.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "Bengaluru",
-  "use_of_funds": "",
-  "headline": "Transition VC launches Rs 1,500 Cr Fund II",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/07/transition-vc-launches-rs-1500-crore-fund-ii"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "10401970444b",
   "date": "2026-07-21",
   "company": "Veriqus",
@@ -9197,30 +8581,6 @@
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/veriqus-raises-40-million-to-scale-ai-powered-wealth-management-platform-across-india-12183400"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "e5ac484cdd4c",
-  "date": "2026-07-21",
-  "company": "India’s fertility chain",
-  "company_brief": "Founded in Chennai in 1986 by Dr.",
-  "sector": "Healthtech & Biotech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "₹350 crore",
-  "amount_usd_mn": 39.773,
-  "amount_inr_cr": 350.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "Chennai",
-  "use_of_funds": "toward opening new centres in underserved regions, strengthening clinical infrastructure, building out digital capabilities, and expanding Iswarya's embryology talent pipeline, the specialised skill b",
-  "headline": "India’s fertility chain raised ₹350 crore after 40 years without outside money",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/07/iswarya-fertility-center-350-crore-orbimed-funding"
    }
   ],
   "extraction": "rules"
@@ -9279,34 +8639,6 @@
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/07/traveltech-startup-30-sundays-rs-61-crore-bessemer-venture-partners"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "78034fe42f73",
-  "date": "2026-07-20",
-  "company": "Steptrade Capital",
-  "company_brief": "Steptrade Capital is a SEBI-registered investment fund manager based in Ahmedabad.",
-  "sector": "AI & Deeptech",
-  "sub_sector": "SEBI-registered investment fund manager based in Ahmedabad",
-  "round": "Undisclosed",
-  "amount_text": "Rs 100 Crore",
-  "amount_usd_mn": 11.364,
-  "amount_inr_cr": 100.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "Ahmedabad",
-  "use_of_funds": "",
-  "headline": "Steptrade Capital Closes First Round of Chanakya Opportunities Fund II with Over Rs 100 Crore",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/steptrade-capital-closes-first-round-of-chanakya-opportunities-fund-ii-with-over-rs-100-crore-12181079"
-   },
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/07/steptrade-capital-raises-rs-100-crore-as-first-close-fund-ii"
    }
   ],
   "extraction": "rules"
@@ -9571,6 +8903,32 @@
   "extraction": "rules"
  },
  {
+  "id": "7ebe1fa86b28",
+  "date": "2026-07-17",
+  "company": "Groyyo",
+  "company_brief": "Founded in 2021 by Subin Mitra, Pratik Tiwari, and Ridam Upadhyay, Groyyo helps global fashion brands source apparel from manufacturers through its technology platform.",
+  "sector": "D2C & Consumer Brands",
+  "sub_sector": "",
+  "round": "Series B",
+  "amount_text": "Rs 90 Crore",
+  "amount_usd_mn": 10.227,
+  "amount_inr_cr": 90.0,
+  "lead_investors": [
+   "Cornerstone Ventures"
+  ],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "expand its AI capabilities and manufacturing network",
+  "headline": "Groyyo Secures Rs 90 Crore in Series B Round to Expand AI-Powered Fashion Manufacturing Platform",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/groyyo-secures-rs-90-crore-in-series-b-round-to-expand-ai-powered-fashion-manufacturing-platform-12172122"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
   "id": "59b769beed4a",
   "date": "2026-07-17",
   "company": "Becoming Quotient",
@@ -9782,62 +9140,6 @@
   "extraction": "rules"
  },
  {
-  "id": "4cbf11fd9e15",
-  "date": "2026-07-16",
-  "company": "India",
-  "company_brief": "Founded by Mukund and Madhav Jha, the startup has enabled users across 190 countries to create over 12 million AI-powered applications.",
-  "sector": "AI & Deeptech",
-  "sub_sector": "",
-  "round": "Series C",
-  "amount_text": "$130 Mn",
-  "amount_usd_mn": 130.0,
-  "amount_inr_cr": 1144.0,
-  "lead_investors": [
-   "Sentinel Global joining as co-lead investors"
-  ],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "global expansion, hiring, and open-source AI research as Emergent expands into business automation for SMEs",
-  "headline": "India Gets Its Sixth Unicorn of 2026 as AI Startup Emergent Raises $130 Mn Series C Funding",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/india-gets-its-sixth-unicorn-of-2026-as-ai-startup-emergent-raises-130-mn-series-c-funding-12168524"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "7ebe1fa86b28",
-  "date": "2026-07-16",
-  "company": "Groyyo",
-  "company_brief": "Founded in 2021 by Subin Mitra, Pratik Tiwari, and Ridam Upadhyay, Groyyo helps global fashion brands source apparel from manufacturers through its technology platform.",
-  "sector": "D2C & Consumer Brands",
-  "sub_sector": "",
-  "round": "Series B",
-  "amount_text": "Rs 90 Crore",
-  "amount_usd_mn": 10.227,
-  "amount_inr_cr": 90.0,
-  "lead_investors": [
-   "Cornerstone Ventures"
-  ],
-  "investors": [],
-  "city": "Gurugram",
-  "use_of_funds": "expand its AI capabilities and manufacturing network",
-  "headline": "Groyyo Secures Rs 90 Crore in Series B Round to Expand AI-Powered Fashion Manufacturing Platform",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/groyyo-secures-rs-90-crore-in-series-b-round-to-expand-ai-powered-fashion-manufacturing-platform-12172122"
-   },
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/07/groyyo-rs-90-crore-first-close-series-b-cornerstone-ventures"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "aa585e85c69d",
   "date": "2026-07-16",
   "company": "BUILT",
@@ -10037,26 +9339,22 @@
   "extraction": "rules"
  },
  {
-  "id": "8230f933231d",
+  "id": "e69dbf106f6d",
   "date": "2026-07-14",
   "company": "ideaForge",
-  "company_brief": "The platform has been engineered for operations in the Himalayas, deserts, offshore locations, and other difficult-to-access regions where conventional logistics are often constrained by terrain and weather.",
+  "company_brief": "Building on our proven ISR capabilities, we are expanding into combat drones, logistics platforms, autonomous mission systems and technologies that can operate effectively in contested electronic warfare environments,\" said Ankit Mehta, Co-founder and CEO of ideaForge Technology.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Debt",
-  "amount_text": "Rs 151 Cr",
-  "amount_usd_mn": 17.159,
-  "amount_inr_cr": 151.0,
+  "amount_text": "Rs 500 Crore",
+  "amount_usd_mn": 56.818,
+  "amount_inr_cr": 500.0,
   "lead_investors": [],
   "investors": [],
   "city": "",
-  "use_of_funds": "support its heavy-lift autonomous aerial platform YETI",
-  "headline": "ideaForge secures Rs 151 Cr from govt's RDI scheme to develop its autonomous drone YETI",
+  "use_of_funds": "support its growth plans and improve its working capital",
+  "headline": "ideaForge Raises Rs 500 Crore Through QIP to Expand Drone Technology Portfolio",
   "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/08/ideaforge-secures-rs-151-cr-govt-rdi-scheme-to-develop-autonomous-drone-yeti"
-   },
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/ideaforge-raises-rs-500-crore-through-qip-to-expand-drone-technology-portfolio-12164886"
@@ -10064,6 +9362,10 @@
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/07/ideaforge-raises-rs-500-cr-via-qip"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/08/ideaforge-secures-rs-151-cr-govt-rdi-scheme-to-develop-autonomous-drone-yeti"
    }
   ],
   "extraction": "rules"
@@ -11022,33 +10324,6 @@
   "extraction": "rules"
  },
  {
-  "id": "2591d7203070",
-  "date": "2026-07-01",
-  "company": "More than 50% of funding",
-  "company_brief": "",
-  "sector": "Climate & Cleantech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "Undisclosed",
-  "amount_usd_mn": null,
-  "amount_inr_cr": null,
-  "lead_investors": [],
-  "investors": [
-   "Zepto Co-Founders Aadit Palicha",
-   "Kaivalya Vohra (23)"
-  ],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "More than 50% of funding raised by U30 startups goes to product, expansion: Hurun report",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/07/under-30-entrepreneurs-channel-most-funding-product-expansion-hurun-report"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "f2565db6914a",
   "date": "2026-07-01",
   "company": "Dovetail Capital",
@@ -11273,6 +10548,30 @@
   "extraction": "rules"
  },
  {
+  "id": "e2f30612cb2a",
+  "date": "2026-06-27",
+  "company": "Finnovate",
+  "company_brief": "Founded by Nehal Mota and Naveen Singh, Finnovate aims to help professionals reach their financial goals through planned and focused investing.",
+  "sector": "Fintech",
+  "sub_sector": "",
+  "round": "Pre-Series A",
+  "amount_text": "$2 million",
+  "amount_usd_mn": 2.0,
+  "amount_inr_cr": 17.6,
+  "lead_investors": [],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "grow operations, improve the mobile app and technology systems, increase marketing, and strengthen business development, Finnovate said in a press release",
+  "headline": "Finnovate raises $2 million in pre-Series A round",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/finnovate-raises-2-million-in-pre-series-a-round-12110654"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
   "id": "c4e3680f9dfb",
   "date": "2026-06-25",
   "company": "SuperLiving",
@@ -11383,36 +10682,6 @@
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/recykal-raises-23-mn-to-expand-waste-management-solutions-globally-12060826"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "890fcf80dec7",
-  "date": "2026-06-19",
-  "company": "HealthQuad",
-  "company_brief": "Fund III will continue HealthQuad’s strategy of investing in early-growth companies across HealthTech, MedTech, Bio/Pharma Tech, and new healthcare delivery models.",
-  "sector": "Healthtech & Biotech",
-  "sub_sector": "healthcare-focused investment platform backed by Quadria Gro",
-  "round": "Pre-Series C",
-  "amount_text": "₹550 Cr",
-  "amount_usd_mn": 62.5,
-  "amount_inr_cr": 550.0,
-  "lead_investors": [
-   "Dr"
-  ],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "HealthQuad Secures ₹550 Cr Ist Close for Fund III",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/healthquad-secures-550-cr-ist-close-for-fund-iii-12052709"
-   },
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/06/healthquad-secures-550-crore-first-close-for-third-healthcare-fund"
    }
   ],
   "extraction": "rules"
@@ -11568,30 +10837,6 @@
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/06/funding-karo-sambhav-56-crore-from-rainmatter-zerodha"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "8d599fe826e4",
-  "date": "2026-06-18",
-  "company": "India’s first deep-tech showcase abroad",
-  "company_brief": "India’s first deep-tech showcase abroad closed in Nice with $254.5 million in funding commitments, over 50 collaboration agreements and new India-France innovation bridges.",
-  "sector": "Edtech",
-  "sub_sector": "",
-  "round": "Bridge",
-  "amount_text": "$254.5 million",
-  "amount_usd_mn": 254.5,
-  "amount_inr_cr": 2239.6,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "Bharat Innovates 2026 wraps in Nice, turning India's deep-tech showcase into deals and global capital",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/06/bharat-innovates-2026-india-deep-tech-startups-france-funding-deals"
    }
   ],
   "extraction": "rules"
@@ -11855,34 +11100,6 @@
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/contravault-raises-31-mn-in-pre-series-a-to-expand-in-the-us-market-12044120"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "53764b153949",
-  "date": "2026-06-16",
-  "company": "Capital",
-  "company_brief": "Deeptech venture capital firm YourNest Venture Capital has raised a ₹400 crore continuation fund and will keep supporting some of its best-performing startups.",
-  "sector": "AI & Deeptech",
-  "sub_sector": "",
-  "round": "Series C",
-  "amount_text": "₹400 crore",
-  "amount_usd_mn": 45.455,
-  "amount_inr_cr": 400.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "YourNest marks final close of ₹400 crore fund to back portfolio startups",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/yournest-marks-final-close-of-400-crore-fund-to-back-portfolio-startups-12042736"
-   },
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/06/yournest-venture-capital-raises-rs-400-crore-for-continuum-fund"
    }
   ],
   "extraction": "rules"
@@ -13502,30 +12719,6 @@
   "extraction": "rules"
  },
  {
-  "id": "93d783cfee86",
-  "date": "2026-05-26",
-  "company": "The platform",
-  "company_brief": "The fund, named Fundamentum III – AI and DeepTech, will invest in companies working across consumer, enterprise, and physical AI sectors.",
-  "sector": "AI & Deeptech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "Rs 2000 crore",
-  "amount_usd_mn": 227.273,
-  "amount_inr_cr": 2000.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "Nandan Nilekani&#x27;s Fundamentum launches F2A with Rs 3,000 Cr corpus",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/nandan-nilekanis-fundamentum-launches-f2a-with-rs-3000-cr-corpus-11876066"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "6adf02f50e63",
   "date": "2026-05-26",
   "company": "MobiKwik",
@@ -13574,39 +12767,6 @@
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/flexprice-raises-15mn-in-seed-round-led-by-shastra-vc-11875016"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "3ebf78e1c97f",
-  "date": "2026-05-26",
-  "company": "Fairdeal.Market",
-  "company_brief": "Fairdeal.Market is a B2B quick commerce platform.",
-  "sector": "E-commerce & Quick Commerce",
-  "sub_sector": "B2B quick commerce platform",
-  "round": "Series A",
-  "amount_text": "$15 Mn",
-  "amount_usd_mn": 15.0,
-  "amount_inr_cr": 132.0,
-  "lead_investors": [
-   "BII"
-  ],
-  "investors": [
-   "WaterBridge Ventures",
-   "Incubate Asia Fund"
-  ],
-  "city": "Delhi",
-  "use_of_funds": "expand its dark-store network in crowded city areas, improve its technology and data systems, build stronger relationships with retailers, and enhance last-mile delivery services",
-  "headline": "Fairdeal.Market Raises $15 Mn in Series A Round Led by BII",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/fairdealmarket-raises-15-mn-in-series-a-round-led-by-bii-11874969"
-   },
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/05/fairdealmarket-raises-series-a-funding-led-by-bertelsmann-india"
    }
   ],
   "extraction": "rules"
@@ -14511,34 +13671,6 @@
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/consumer-appliance-manufacturer-mekr-raises-rs-67-cr-led-by-avaana-capital-11825496"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "59f3cb83e5bf",
-  "date": "2026-05-11",
-  "company": "Wingreens Farms",
-  "company_brief": "With this acquisition, Wingreens Farms now has three main brands — Wingreens Farms, Raw Pressery, and Safe Harvest.",
-  "sector": "Agritech & Foodtech",
-  "sub_sector": "",
-  "round": "Series D",
-  "amount_text": "₹120 Cr",
-  "amount_usd_mn": 13.636,
-  "amount_inr_cr": 120.0,
-  "lead_investors": [
-   "Ashish Kacholia"
-  ],
-  "investors": [
-   "Alchemy Fund"
-  ],
-  "city": "",
-  "use_of_funds": "expand its products, grow distribution, improve supply chain operations, and invest further in innovation and farmer partnerships",
-  "headline": "Wingreens Farms Raises ₹120 Cr, Acquires Safe Harvest",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/wingreens-farms-raises-120-cr-acquires-safe-harvest-11822730"
    }
   ],
   "extraction": "rules"

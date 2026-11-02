@@ -18,12 +18,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 48,
-  "total_usd_mn": 13507.96,
+  "deal_count": 47,
+  "total_usd_mn": 1209.96,
   "top_rounds": [
    [
     "Undisclosed",
-    23
+    22
    ],
    [
     "Seed",
@@ -92,20 +92,20 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 150,
-  "total_usd_mn": 24643.69,
+  "deal_count": 136,
+  "total_usd_mn": 2339.71,
   "top_rounds": [
    [
     "Seed",
     34
    ],
    [
-    "Undisclosed",
-    30
+    "Series A",
+    29
    ],
    [
-    "Series A",
-    30
+    "Undisclosed",
+    20
    ],
    [
     "Pre-Seed",
@@ -166,12 +166,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 12,
-  "total_usd_mn": 793.07,
+  "deal_count": 11,
+  "total_usd_mn": 741.93,
   "top_rounds": [
    [
     "Undisclosed",
-    7
+    6
    ],
    [
     "Pre-Seed",
@@ -224,12 +224,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 89,
+  "deal_count": 88,
   "total_usd_mn": 1022.74,
   "top_rounds": [
    [
     "Undisclosed",
-    20
+    19
    ],
    [
     "Seed",
@@ -298,8 +298,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 13,
-  "total_usd_mn": 144.81,
+  "deal_count": 12,
+  "total_usd_mn": 129.81,
   "top_rounds": [
    [
     "Pre-Seed",
@@ -311,7 +311,7 @@
    ],
    [
     "Series A",
-    3
+    2
    ],
    [
     "Pre-Series A",
@@ -372,15 +372,15 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 49,
-  "total_usd_mn": 587.52,
+  "deal_count": 45,
+  "total_usd_mn": 434.11,
   "top_rounds": [
    [
-    "Undisclosed",
-    12
+    "Seed",
+    10
    ],
    [
-    "Seed",
+    "Undisclosed",
     10
    ],
    [
@@ -418,11 +418,11 @@
     2
    ],
    [
-    "Dr",
+    "Prime Venture Partners",
     2
    ],
    [
-    "Prime Venture Partners",
+    "Leo Capital",
     2
    ]
   ]
@@ -446,16 +446,16 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 13,
-  "total_usd_mn": 327.56,
+  "deal_count": 12,
+  "total_usd_mn": 73.06,
   "top_rounds": [
-   [
-    "Bridge",
-    3
-   ],
    [
     "Pre-Seed",
     3
+   ],
+   [
+    "Bridge",
+    2
    ],
    [
     "Seed",
@@ -520,12 +520,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 39,
-  "total_usd_mn": 2393.73,
+  "deal_count": 36,
+  "total_usd_mn": 1488.85,
   "top_rounds": [
    [
     "Undisclosed",
-    15
+    12
    ],
    [
     "Pre-Series A",
@@ -668,8 +668,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 13,
-  "total_usd_mn": 303.0,
+  "deal_count": 12,
+  "total_usd_mn": 265.0,
   "top_rounds": [
    [
     "Seed",
@@ -680,19 +680,15 @@
     3
    ],
    [
-    "Series B",
+    "Series A",
     2
    ],
    [
-    "Series A",
-    2
+    "Pre-Seed",
+    1
    ]
   ],
   "top_investors": [
-   [
-    "Bain Capital Ventures",
-    2
-   ],
    [
     "Nexus Venture Partners",
     1
@@ -714,11 +710,15 @@
     1
    ],
    [
+    "Bain Capital Ventures",
+    1
+   ],
+   [
     "Bertelsmann India Investments",
     1
    ],
    [
-    "Hara Global",
+    "Equentis Angel Fund",
     1
    ]
   ]
@@ -742,8 +742,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 16,
-  "total_usd_mn": 216.71,
+  "deal_count": 14,
+  "total_usd_mn": 151.94,
   "top_rounds": [
    [
     "Series B",
@@ -754,45 +754,45 @@
     4
    ],
    [
-    "Series A",
+    "Pre-Series A",
     2
    ],
    [
-    "Pre-Series A",
-    2
+    "Series A",
+    1
    ]
   ],
   "top_investors": [
    [
-    "Omnivore",
-    2
-   ],
-   [
-    "NSFO",
-    2
-   ],
-   [
-    "Dodla Dairy",
-    2
-   ],
-   [
-    "Next Bharat Ventures",
-    2
-   ],
-   [
-    "and LIO",
-    2
-   ],
-   [
-    "NABVENTURES",
-    1
-   ],
-   [
-    "KisaanSay",
-    1
-   ],
-   [
     "First Bridge",
+    1
+   ],
+   [
+    "OTP Ventures",
+    1
+   ],
+   [
+    "Sadev Capital",
+    1
+   ],
+   [
+    "Maiuni Ventures",
+    1
+   ],
+   [
+    "Aramco Ventures",
+    1
+   ],
+   [
+    "Lightspeed India",
+    1
+   ],
+   [
+    "Godrej Industries Group",
+    1
+   ],
+   [
+    "Cisco Foundation",
     1
    ]
   ]
@@ -816,20 +816,20 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 15,
-  "total_usd_mn": 283.11,
+  "deal_count": 14,
+  "total_usd_mn": 155.27,
   "top_rounds": [
    [
     "Seed",
     5
    ],
    [
-    "Undisclosed",
+    "Pre-Seed",
     3
    ],
    [
-    "Pre-Seed",
-    3
+    "Undisclosed",
+    2
    ],
    [
     "Pre-Series A",
@@ -964,12 +964,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 41,
-  "total_usd_mn": 3481.57,
+  "deal_count": 39,
+  "total_usd_mn": 3233.28,
   "top_rounds": [
    [
     "Undisclosed",
-    13
+    12
    ],
    [
     "Seed",
