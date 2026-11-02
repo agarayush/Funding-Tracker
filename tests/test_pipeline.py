@@ -183,6 +183,20 @@ def test_non_deal_stories_rejected():
         ("https://yourstory.com/2026/08/indian-deeptech-investments-reach-114-billion-report", "The deeptech sector raised $11.4 billion: report"),
         ("https://yourstory.com/2026/09/indias-tech-cos-raise-usd-103b-in-2026-tracxn-report", "India's tech companies raise $10.3B in 2026"),
         ("https://viestories.com/funding-alert/accel-raises-550-million-for-ninth-india-early-stage-fund-12252285", "Accel raises $550 Million for ninth India early-stage fund"),
+        ("u1", "Odisha announces 870-acre Silicon Valley, receives Rs 23,600 Cr investment"),
+        ("u2", "Elevation Capital closes $500 million Fund IX to back AI startups"),
+        ("u3", "Ola Electric gets board nod to invest ₹2,000 cr in EV, Cell Manufacturing"),
         ("https://yourstory.com/2026/08/ola-electric-secures-5-year-pli-window-get-upto-7240cr-incentives", "Ola Electric secures 5-year PLI window, gets up to Rs 7,240cr incentives"),
     ]:
         assert heuristic_extract({"url": url, "title": title, "description": "", "body": ""}) is None, title
+
+
+def test_weekday_trimmed_from_company():
+    x = heuristic_extract({"url": "u", "title": "Simple Energy on Wednesday raised Rs 1,750 Cr in Series C", "description": "", "body": ""})
+    assert x["company"] == "Simple Energy"
+
+
+def test_deals_led_by_funds_kept():
+    x = heuristic_extract({"url": "https://viestories.com/funding-alert/onto-raises-1-mn-led-by-stargazer-fund-12759698",
+                           "title": "Travel Platform Onto Raises $1 Mn in Pre-Seed Round Led By Stargazer Fund", "description": "", "body": ""})
+    assert x["company"] == "Onto" and x["lead_investors"] == ["Stargazer Fund"]

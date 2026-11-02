@@ -87,6 +87,7 @@ def clean_company(name):
     for _ in range(2):
         name = PREFIX_RX.sub("", name)
     name = re.sub(r"^(?:startup|platform|brand|company|firm)\s+", "", name, flags=re.I)
+    name = re.sub(r"\s+(?:on|this|last) (?:monday|tuesday|wednesday|thursday|friday|saturday|sunday|week)$", "", name, flags=re.I)
     return name.strip(" ,")
 
 
@@ -110,7 +111,8 @@ def find_deal(title, sentences):
 NON_DEAL_RX = re.compile(
     r"\b(report|tracxn|data shows|funding (?:fell|rose|dips|drops|jumps)|in h[12]\b|quarter|q[1-4]\b|"
     r"for (?:its |a |the )?(?:[\w-]+ ){0,4}fund\b|fund[- ](?:i|ii|iii|iv|v|vi)\b|corpus|first close|final close|"
-    r"pli|incentives?|subsidy|government|ministry|announces? .*\b(?:hub|park|policy)|ipo|acquires|acquisition|merger)\b", re.I)
+    r"fund[- ](?:[ivx]{1,4}|\d)\b|closes? .*\bfund|board nod|to invest|licen[cs]e|"
+    r"pli|incentives?|subsidy|government|ministry|announces?(?! (?:\S+ ){0,3}(?:funding|round|fundraise|seed|series))|ipo|acquires|acquisition|merger)\b", re.I)
 GENERIC_COMPANY_RX = re.compile(
     r"\b(sector|companies|startups|industry|ecosystem|government|ministry|investors|founders|"
     r"report|market|state|india’s|india's|indian)\b|^(?:ai|india|it|this|the)$", re.I)
