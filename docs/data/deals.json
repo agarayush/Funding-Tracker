@@ -1924,33 +1924,6 @@
   "extraction": "rules"
  },
  {
-  "id": "452807e66eb0",
-  "date": "2026-10-09",
-  "company": "NABVENTURES",
-  "company_brief": "Founded on April 23, 2018, NABVENTURES is a wholly owned subsidiary of NABARD.",
-  "sector": "Fintech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "₹450 Crore",
-  "amount_usd_mn": 51.136,
-  "amount_inr_cr": 450.0,
-  "lead_investors": [
-   "NABVENTURES",
-   "KisaanSay through the AgriSURE Fund"
-  ],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "NABVENTURES Closes Second Fund at ₹450 Crore",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/startupnews/nabventures-closes-second-fund-at-450-crore-12658905"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "91d0ad229ace",
   "date": "2026-10-08",
   "company": "had earlier",
@@ -2704,35 +2677,6 @@
   "extraction": "rules"
  },
  {
-  "id": "f13f23104fe6",
-  "date": "2026-10-01",
-  "company": "Simple Energy on Wednesday",
-  "company_brief": "For Shreshth Mishra, Co-founder of Simple Energy, however, the immediate priority is less about the size of the fundraise and more about what it allows the company to execute.",
-  "sector": "Climate & Cleantech",
-  "sub_sector": "",
-  "round": "Series C",
-  "amount_text": "Rs 1,750 crore",
-  "amount_usd_mn": 198.864,
-  "amount_inr_cr": 1750.0,
-  "lead_investors": [
-   "Dr"
-  ],
-  "investors": [
-   "Ankit Gupta",
-   "Bengaluru-based HNI Amit Mishra"
-  ],
-  "city": "Bengaluru",
-  "use_of_funds": "",
-  "headline": "Simple Energy bets Rs 1,750 Cr fundraise on clearing delivery backlog, scaling across India",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/09/shreshth-mishra-simple-energy-rs-1750-cr-pivot-scale-across-india"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "bbe41cbc5c4d",
   "date": "2026-10-01",
   "company": "Seeds Fincap",
@@ -2924,6 +2868,10 @@
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/09/ev-two-wheeler-maker-simple-energy-bags-rs-1750-cr-funding"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/09/shreshth-mishra-simple-energy-rs-1750-cr-pivot-scale-across-india"
    }
   ],
   "extraction": "rules"
@@ -3778,30 +3726,6 @@
   "extraction": "rules"
  },
  {
-  "id": "ca020f15c426",
-  "date": "2026-09-18",
-  "company": "Odisha announces 870-acre Silicon Valley",
-  "company_brief": "The proposals have the potential to generate around 6,100 jobs, according to a statement from the Odisha government.",
-  "sector": "Manufacturing & Industrial",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "Rs 23,600 Cr",
-  "amount_usd_mn": 2681.818,
-  "amount_inr_cr": 23600.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "Bhubaneswar",
-  "use_of_funds": "",
-  "headline": "Odisha announces 870-acre Silicon Valley, receives Rs 23,600 Cr investment proposals",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/09/odisha-rs-452-cr-integrated-power-electronics-hub-iit-bhubaneswar"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "96f344183f70",
   "date": "2026-09-18",
   "company": "MoroMaa",
@@ -4595,30 +4519,6 @@
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/09/carrum-mobility-raises-10-million-in-series-b-led-by-uber"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "f37469d138e3",
-  "date": "2026-09-08",
-  "company": "W Health Ventures",
-  "company_brief": "W Health follows a company-creation model instead of only investing in existing startups.",
-  "sector": "Healthtech & Biotech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "₹700 cr",
-  "amount_usd_mn": 79.545,
-  "amount_inr_cr": 700.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "Mumbai",
-  "use_of_funds": "build 8–10 healthcare companies over the next four years, starting from the pre-idea stage and taking them towards category leadership",
-  "headline": "W Health Ventures closes second fund at ₹700 cr",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/w-health-ventures-closes-second-fund-at-700-cr-12505783"
    }
   ],
   "extraction": "rules"
@@ -6868,30 +6768,6 @@
   "extraction": "rules"
  },
  {
-  "id": "5c2fbd446e4c",
-  "date": "2026-08-17",
-  "company": "ONGC",
-  "company_brief": "ONGC has received a U.S.",
-  "sector": "SaaS & Enterprise Tech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "$500 million",
-  "amount_usd_mn": 500.0,
-  "amount_inr_cr": 4400.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "ONGC gets US licence to resume full Venezuela operations, eyes operatorship",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/startupnews/ongc-gets-us-licence-to-resume-full-venezuela-operations-eyes-operatorship-12266542"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "a235bdcd9af5",
   "date": "2026-08-13",
   "company": "Scrubsy",
@@ -6970,30 +6846,6 @@
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/08/centricity-raises-rs-280-crore-series-a-smbc-asia-rising-fund"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "88fa2f5981e2",
-  "date": "2026-08-13",
-  "company": "Bluehill.VC",
-  "company_brief": "Founded in 2024 by Manu Iyer and Sridhar Parthasarathy, Bluehill.VC follows an “invest-and-build” approach, working closely with founders from the early stages.",
-  "sector": "AI & Deeptech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "Rs 400 Crore",
-  "amount_usd_mn": 45.455,
-  "amount_inr_cr": 400.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "Chennai",
-  "use_of_funds": "",
-  "headline": "Bluehill.VC Closes Maiden Frontier-Tech Fund at Rs 400 Crore",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/bluehillvc-closes-maiden-frontier-tech-fund-at-rs-400-crore-12256231"
    }
   ],
   "extraction": "rules"
@@ -7978,30 +7830,6 @@
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/truth-hair-raises-54-crore-seed-funding-to-scale-hair-beauty-and-styling-business-12214136"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "25c122286111",
-  "date": "2026-07-31",
-  "company": "EbixCash World Money",
-  "company_brief": "EbixCash World Money has become the first Authorised Dealer Category-II (AD-II) entity in India to receive a perpetual Reserve Bank of India (RBI) licence with an expanded scope of permitted activities, following changes to the Foreign Exchange Management Act (FEMA) framework announced in May 2026.",
-  "sector": "Fintech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "Rs 25 lakh",
-  "amount_usd_mn": 0.028,
-  "amount_inr_cr": 0.25,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "EbixCash World Money gets perpetual RBI licence for trade and family remittances",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/07/ebixcash-world-money-gets-perpetual-rbi-licence-for-trade-and-family-remittances"
    }
   ],
   "extraction": "rules"
@@ -9374,13 +9202,13 @@
   "id": "2870945be432",
   "date": "2026-07-14",
   "company": "Elevation Capital",
-  "company_brief": "Read Also - NABARD and NSDC launch Gramodyam Programme to support rural entrepreneurship\nElevation plans to invest more aggressively.",
+  "company_brief": "It highlighted that India is already the largest AI adoption market globally where every business is looking to make that shift, which in itself is an opportunity to Indian tech founders.",
   "sector": "AI & Deeptech",
   "sub_sector": "",
   "round": "Undisclosed",
-  "amount_text": "$500 million",
-  "amount_usd_mn": 500.0,
-  "amount_inr_cr": 4400.0,
+  "amount_text": "$670 million",
+  "amount_usd_mn": 670.0,
+  "amount_inr_cr": 5896.0,
   "lead_investors": [
    "AI",
    "” the post said"
@@ -9388,12 +9216,8 @@
   "investors": [],
   "city": "",
   "use_of_funds": "",
-  "headline": "Elevation Capital closes $500 million Fund IX to back AI startups",
+  "headline": "Elevation Capital launches $500M fund with focus on Indian AI startups",
   "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/elevation-capital-closes-500-million-fund-ix-to-back-ai-startups-12161573"
-   },
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/07/elevation-capital-launches-500-million-fund-focus-indian-ai-startups"
@@ -10076,30 +9900,6 @@
   "extraction": "rules"
  },
  {
-  "id": "14db3a1d513e",
-  "date": "2026-07-02",
-  "company": "Sparrow Capital",
-  "company_brief": "Venture capital firm Sparrow Capital has closed its third fund at ₹475 crore (around $50 million), exceeding its initial target of ₹400 crore.",
-  "sector": "Fintech",
-  "sub_sector": "",
-  "round": "Seed",
-  "amount_text": "Rs 475 crore",
-  "amount_usd_mn": 53.977,
-  "amount_inr_cr": 475.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "Sparrow Capital closes third fund at Rs 475 crore to back seed stage startups",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/startupnews/sparrow-capital-closes-third-fund-at-rs-475-crore-to-back-seed-stage-startups-12127154"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "08904e72bec6",
   "date": "2026-07-02",
   "company": "Limelight Diamonds",
@@ -10543,30 +10343,6 @@
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/06/incuspaze-raises-rs-150-crore-led-by-bharat-value-fund"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "e2f30612cb2a",
-  "date": "2026-06-27",
-  "company": "Finnovate",
-  "company_brief": "Founded by Nehal Mota and Naveen Singh, Finnovate aims to help professionals reach their financial goals through planned and focused investing.",
-  "sector": "Fintech",
-  "sub_sector": "",
-  "round": "Pre-Series A",
-  "amount_text": "$2 million",
-  "amount_usd_mn": 2.0,
-  "amount_inr_cr": 17.6,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "grow operations, improve the mobile app and technology systems, increase marketing, and strengthen business development, Finnovate said in a press release",
-  "headline": "Finnovate raises $2 million in pre-Series A round",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/funding-alert/finnovate-raises-2-million-in-pre-series-a-round-12110654"
    }
   ],
   "extraction": "rules"
@@ -12668,6 +12444,45 @@
   "extraction": "rules"
  },
  {
+  "id": "510c9c8cccdc",
+  "date": "2026-05-27",
+  "company": "Ola Electric",
+  "company_brief": "The vehicle appears to be based on Ola Electric's existing S1 platform, configured for commercial use cases such as food delivery, quick-commerce logistics and urban fleet operations.",
+  "sector": "Mobility & Automotive",
+  "sub_sector": "",
+  "round": "Debt",
+  "amount_text": "Rs 780 Cr",
+  "amount_usd_mn": 88.636,
+  "amount_inr_cr": 780.0,
+  "lead_investors": [],
+  "investors": [
+   "Goldman Sachs",
+   "BNP Climate Fund",
+   "Motilal Oswal Mutual Fund",
+   "Mirae Asset Mutual Fund",
+   "Kotak Mahindra Mutual Fund",
+   "JM Financial Mutual Fund"
+  ],
+  "city": "Delhi",
+  "use_of_funds": "",
+  "headline": "Ola Electric gets regulatory approval for commercial e-scooter launch",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/05/ola-electric-gets-regulatory-approval-for-commercial-e-scooter-launch"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/06/ola-electric-raises-780-crore-via-qip"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/06/ola-electric-raises-rs-780-crore-qip-oversubscribed-ev-funding"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
   "id": "923f5276c59b",
   "date": "2026-05-27",
   "company": "Byju’s founder",
@@ -13286,52 +13101,6 @@
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/biotech-startup-cellogen-therapeutics-raises-20-cr-from-kotak-alts-11847561"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "510c9c8cccdc",
-  "date": "2026-05-16",
-  "company": "Ola Electric",
-  "company_brief": "Ola Electric Mobility Ltd has announced that it will invest in its two wholly owned subsidiaries, Ola Electric Technologies Private Limited (OET) and Ola Cell Technologies Private Limited (OCT).",
-  "sector": "Mobility & Automotive",
-  "sub_sector": "",
-  "round": "Debt",
-  "amount_text": "₹2,000 cr",
-  "amount_usd_mn": 227.273,
-  "amount_inr_cr": 2000.0,
-  "lead_investors": [
-   "Temasek",
-   "SBI"
-  ],
-  "investors": [
-   "Goldman Sachs",
-   "BNP Climate Fund",
-   "Motilal Oswal Mutual Fund",
-   "Mirae Asset Mutual Fund",
-   "Kotak Mahindra Mutual Fund",
-   "JM Financial Mutual Fund"
-  ],
-  "city": "Bengaluru",
-  "use_of_funds": "",
-  "headline": "Ola Electric gets board nod to invest ₹2,000 cr in EV, Cell Manufacturing Units",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/startupnews/ola-electric-gets-board-nod-to-invest-2000-cr-in-ev-cell-manufacturing-units-11840200"
-   },
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/05/ola-electric-gets-regulatory-approval-for-commercial-e-scooter-launch"
-   },
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/06/ola-electric-raises-780-crore-via-qip"
-   },
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/06/ola-electric-raises-rs-780-crore-qip-oversubscribed-ev-funding"
    }
   ],
   "extraction": "rules"

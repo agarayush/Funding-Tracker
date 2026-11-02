@@ -18,16 +18,16 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 47,
-  "total_usd_mn": 1209.96,
+  "deal_count": 43,
+  "total_usd_mn": 1102.82,
   "top_rounds": [
    [
     "Undisclosed",
-    22
+    20
    ],
    [
     "Seed",
-    8
+    7
    ],
    [
     "Series A",
@@ -92,8 +92,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 136,
-  "total_usd_mn": 2339.71,
+  "deal_count": 135,
+  "total_usd_mn": 2464.25,
   "top_rounds": [
    [
     "Seed",
@@ -105,7 +105,7 @@
    ],
    [
     "Undisclosed",
-    20
+    19
    ],
    [
     "Pre-Seed",
@@ -166,12 +166,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 11,
-  "total_usd_mn": 741.93,
+  "deal_count": 10,
+  "total_usd_mn": 241.93,
   "top_rounds": [
    [
     "Undisclosed",
-    6
+    5
    ],
    [
     "Pre-Seed",
@@ -372,19 +372,19 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 45,
-  "total_usd_mn": 434.11,
+  "deal_count": 44,
+  "total_usd_mn": 354.57,
   "top_rounds": [
    [
     "Seed",
     10
    ],
    [
-    "Undisclosed",
-    10
+    "Series A",
+    9
    ],
    [
-    "Series A",
+    "Undisclosed",
     9
    ],
    [
@@ -520,8 +520,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 36,
-  "total_usd_mn": 1488.85,
+  "deal_count": 35,
+  "total_usd_mn": 1289.98,
   "top_rounds": [
    [
     "Undisclosed",
@@ -533,7 +533,7 @@
    ],
    [
     "Series C",
-    5
+    4
    ],
    [
     "Seed",
@@ -543,10 +543,6 @@
   "top_investors": [
    [
     "Transition Venture Capital",
-    2
-   ],
-   [
-    "Bengaluru-based HNI Amit Mishra",
     2
    ],
    [
@@ -572,6 +568,10 @@
    [
     "Lightspeed",
     2
+   ],
+   [
+    "Dr Arokiaswamy Velumani’s family office",
+    1
    ]
   ]
  },
@@ -595,7 +595,7 @@
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
   "deal_count": 12,
-  "total_usd_mn": 615.31,
+  "total_usd_mn": 476.67,
   "top_rounds": [
    [
     "Pre-Seed",
@@ -964,12 +964,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 39,
-  "total_usd_mn": 3233.28,
+  "deal_count": 38,
+  "total_usd_mn": 551.46,
   "top_rounds": [
    [
     "Undisclosed",
-    12
+    11
    ],
    [
     "Seed",
