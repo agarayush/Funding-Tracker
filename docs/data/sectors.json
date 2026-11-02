@@ -18,27 +18,47 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 26,
-  "total_usd_mn": 12818.18,
+  "deal_count": 48,
+  "total_usd_mn": 13507.96,
   "top_rounds": [
    [
     "Undisclosed",
-    15
-   ],
-   [
-    "Series A",
-    3
+    23
    ],
    [
     "Seed",
-    2
+    8
+   ],
+   [
+    "Series A",
+    4
    ],
    [
     "Debt",
-    2
+    3
    ]
   ],
   "top_investors": [
+   [
+    "Z47",
+    2
+   ],
+   [
+    "Elev8 Venture Partners",
+    2
+   ],
+   [
+    "India",
+    2
+   ],
+   [
+    "Peak XV Partners",
+    2
+   ],
+   [
+    "Atrium Ventures",
+    2
+   ],
    [
     "CoinFund",
     1
@@ -49,26 +69,6 @@
    ],
    [
     "Nicky Montana",
-    1
-   ],
-   [
-    "FMO",
-    1
-   ],
-   [
-    "LeapFrog Investments",
-    1
-   ],
-   [
-    "NABVENTURES",
-    1
-   ],
-   [
-    "KisaanSay through the AgriSURE Fund",
-    1
-   ],
-   [
-    "Michael",
     1
    ]
   ]
@@ -92,38 +92,46 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 89,
-  "total_usd_mn": 23151.8,
+  "deal_count": 150,
+  "total_usd_mn": 24643.69,
   "top_rounds": [
    [
-    "Undisclosed",
-    24
+    "Seed",
+    34
    ],
    [
-    "Seed",
-    21
+    "Undisclosed",
+    30
    ],
    [
     "Series A",
-    18
+    30
    ],
    [
     "Pre-Seed",
-    7
+    17
    ]
   ],
   "top_investors": [
    [
     "Accel",
-    7
+    10
    ],
    [
     "Peak XV Partners",
-    4
+    5
    ],
    [
     "Shastra VC",
-    3
+    4
+   ],
+   [
+    "3one4 Capital",
+    4
+   ],
+   [
+    "Arkam Ventures",
+    4
    ],
    [
     "Blume Ventures",
@@ -135,14 +143,6 @@
    ],
    [
     "Endiya Partners",
-    3
-   ],
-   [
-    "3one4 Capital",
-    3
-   ],
-   [
-    "Y Combinator",
     3
    ]
   ]
@@ -166,8 +166,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 8,
-  "total_usd_mn": 790.11,
+  "deal_count": 12,
+  "total_usd_mn": 793.07,
   "top_rounds": [
    [
     "Undisclosed",
@@ -175,12 +175,32 @@
    ],
    [
     "Pre-Seed",
+    2
+   ],
+   [
+    "Seed",
+    2
+   ],
+   [
+    "Pre-Series B",
     1
    ]
   ],
   "top_investors": [
    [
     "Fireside Ventures",
+    1
+   ],
+   [
+    "Auxano Capital",
+    1
+   ],
+   [
+    "Inflection Point Ventures",
+    1
+   ],
+   [
+    "Piper Serica",
     1
    ]
   ]
@@ -204,29 +224,45 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 54,
-  "total_usd_mn": 782.05,
+  "deal_count": 89,
+  "total_usd_mn": 1022.74,
   "top_rounds": [
    [
-    "Seed",
-    12
+    "Undisclosed",
+    20
    ],
    [
-    "Undisclosed",
-    11
+    "Seed",
+    17
    ],
    [
     "Pre-Seed",
-    8
+    16
    ],
    [
     "Series A",
-    6
+    10
    ]
   ],
   "top_investors": [
    [
     "Sauce",
+    4
+   ],
+   [
+    "Sharrp Ventures",
+    3
+   ],
+   [
+    "Stride Ventures",
+    3
+   ],
+   [
+    "Nexus Venture Partners",
+    3
+   ],
+   [
+    "V3 Ventures",
     3
    ],
    [
@@ -234,27 +270,11 @@
     2
    ],
    [
+    "3one4 Capital",
+    2
+   ],
+   [
     "Fireside Ventures",
-    2
-   ],
-   [
-    "Sharrp Ventures",
-    2
-   ],
-   [
-    "Sadev Ventures",
-    2
-   ],
-   [
-    "Bessemer Venture Partners",
-    2
-   ],
-   [
-    "Stride Ventures",
-    2
-   ],
-   [
-    "Bharat Value Fund",
     2
    ]
   ]
@@ -278,20 +298,20 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 8,
-  "total_usd_mn": 52.87,
+  "deal_count": 13,
+  "total_usd_mn": 144.81,
   "top_rounds": [
    [
     "Pre-Seed",
-    2
+    3
    ],
    [
     "Undisclosed",
-    2
+    3
    ],
    [
     "Series A",
-    2
+    3
    ],
    [
     "Pre-Series A",
@@ -299,6 +319,10 @@
    ]
   ],
   "top_investors": [
+   [
+    "Peak XV Partners",
+    2
+   ],
    [
     "Sauce",
     1
@@ -326,10 +350,6 @@
    [
     "Chiratae Ventures",
     1
-   ],
-   [
-    "Left Lane Capital",
-    1
    ]
   ]
  },
@@ -352,29 +372,41 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 27,
-  "total_usd_mn": 303.03,
+  "deal_count": 49,
+  "total_usd_mn": 587.52,
   "top_rounds": [
    [
-    "Series A",
-    8
+    "Undisclosed",
+    12
    ],
    [
     "Seed",
+    10
+   ],
+   [
+    "Series A",
+    9
+   ],
+   [
+    "Series B",
     6
-   ],
-   [
-    "Pre-Series A",
-    4
-   ],
-   [
-    "Undisclosed",
-    3
    ]
   ],
   "top_investors": [
    [
     "Alkemi Growth Capital",
+    3
+   ],
+   [
+    "Singularity AMC",
+    3
+   ],
+   [
+    "Rainmatter",
+    3
+   ],
+   [
+    "Blume Ventures",
     2
    ],
    [
@@ -382,28 +414,16 @@
     2
    ],
    [
-    "Vineeta Singh",
-    1
+    "Pegasus Finvest",
+    2
    ],
    [
-    "Avnish Anand",
-    1
+    "Dr",
+    2
    ],
    [
-    "Blume Ventures",
-    1
-   ],
-   [
-    "Srinivas Narayanan",
-    1
-   ],
-   [
-    "Sharath Narayana",
-    1
-   ],
-   [
-    "Aprameya Radhakrishna",
-    1
+    "Prime Venture Partners",
+    2
    ]
   ]
  },
@@ -426,23 +446,23 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 7,
-  "total_usd_mn": 48.15,
+  "deal_count": 13,
+  "total_usd_mn": 327.56,
   "top_rounds": [
    [
-    "Series A",
-    1
-   ],
-   [
-    "Debt",
-    1
-   ],
-   [
     "Bridge",
-    1
+    3
+   ],
+   [
+    "Pre-Seed",
+    3
    ],
    [
     "Seed",
+    2
+   ],
+   [
+    "Series A",
     1
    ]
   ],
@@ -500,24 +520,24 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 20,
-  "total_usd_mn": 1738.66,
+  "deal_count": 39,
+  "total_usd_mn": 2393.73,
   "top_rounds": [
    [
     "Undisclosed",
-    7
+    15
    ],
    [
     "Pre-Series A",
-    4
+    5
    ],
    [
     "Series C",
-    3
+    5
    ],
    [
-    "Pre-Seed",
-    2
+    "Seed",
+    4
    ]
   ],
   "top_investors": [
@@ -534,24 +554,24 @@
     2
    ],
    [
-    "Dr",
-    1
+    "Lowercarbon Capital",
+    2
    ],
    [
-    "Ankit Gupta",
-    1
+    "IvyCap Ventures",
+    2
    ],
    [
-    "Dr Arokiaswamy Velumani’s family office",
-    1
+    "Mankind Pharma Family Office",
+    2
    ],
    [
-    "CEO Suhas Rajkumar",
-    1
+    "Excel Industries Family Office",
+    2
    ],
    [
-    "CFO Ankit Gupta",
-    1
+    "Lightspeed",
+    2
    ]
   ]
  },
@@ -574,8 +594,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 7,
-  "total_usd_mn": 118.14,
+  "deal_count": 12,
+  "total_usd_mn": 615.31,
   "top_rounds": [
    [
     "Pre-Seed",
@@ -583,18 +603,22 @@
    ],
    [
     "Seed",
-    1
+    2
+   ],
+   [
+    "Undisclosed",
+    2
    ],
    [
     "Series B",
     1
-   ],
-   [
-    "Series A",
-    1
    ]
   ],
   "top_investors": [
+   [
+    "Accel",
+    2
+   ],
    [
     "Antler India",
     1
@@ -605,10 +629,6 @@
    ],
    [
     "Parth Modwadhia",
-    1
-   ],
-   [
-    "Accel",
     1
    ],
    [
@@ -648,16 +668,16 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 11,
-  "total_usd_mn": 294.56,
+  "deal_count": 13,
+  "total_usd_mn": 303.0,
   "top_rounds": [
    [
     "Seed",
-    2
+    3
    ],
    [
     "Undisclosed",
-    2
+    3
    ],
    [
     "Series B",
@@ -722,24 +742,24 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 6,
-  "total_usd_mn": 94.39,
+  "deal_count": 16,
+  "total_usd_mn": 216.71,
   "top_rounds": [
+   [
+    "Series B",
+    5
+   ],
+   [
+    "Undisclosed",
+    4
+   ],
    [
     "Series A",
     2
    ],
    [
-    "Series B",
-    2
-   ],
-   [
     "Pre-Series A",
-    1
-   ],
-   [
-    "Pre-Series B",
-    1
+    2
    ]
   ],
   "top_investors": [
@@ -796,23 +816,23 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 8,
-  "total_usd_mn": 156.02,
+  "deal_count": 15,
+  "total_usd_mn": 283.11,
   "top_rounds": [
    [
     "Seed",
-    3
+    5
    ],
    [
     "Undisclosed",
-    2
+    3
+   ],
+   [
+    "Pre-Seed",
+    3
    ],
    [
     "Pre-Series A",
-    1
-   ],
-   [
-    "Series A",
     1
    ]
   ],
@@ -870,8 +890,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 6,
-  "total_usd_mn": 67.52,
+  "deal_count": 9,
+  "total_usd_mn": 188.84,
   "top_rounds": [
    [
     "Undisclosed",
@@ -879,14 +899,22 @@
    ],
    [
     "Debt",
-    1
+    2
    ],
    [
     "Series A",
     1
+   ],
+   [
+    "Strategic",
+    1
    ]
   ],
   "top_investors": [
+   [
+    "Sparrow Capital",
+    2
+   ],
    [
     "Accel",
     1
@@ -914,10 +942,6 @@
    [
     "Nexus Venture Partners",
     1
-   ],
-   [
-    "Titan Capital",
-    1
    ]
   ]
  },
@@ -940,57 +964,57 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 26,
-  "total_usd_mn": 3254.17,
+  "deal_count": 41,
+  "total_usd_mn": 3481.57,
   "top_rounds": [
    [
     "Undisclosed",
-    11
+    13
    ],
    [
     "Seed",
+    9
+   ],
+   [
+    "Series B",
     6
    ],
    [
-    "Pre-Seed",
-    2
-   ],
-   [
     "Series A",
-    2
+    4
    ]
   ],
   "top_investors": [
+   [
+    "Avaana Capital",
+    2
+   ],
+   [
+    "Blume Ventures",
+    2
+   ],
+   [
+    "Fireside Ventures",
+    2
+   ],
+   [
+    "Skegen Asset Management",
+    2
+   ],
+   [
+    "GJNX Ventures",
+    2
+   ],
+   [
+    "IvyCap Ventures",
+    2
+   ],
    [
     "IAN Alpha Fund",
     1
    ],
    [
     "3i Partners",
-    1
-   ],
-   [
-    "Avaana Capital",
-    1
-   ],
-   [
-    "Shastra VC",
-    1
-   ],
-   [
-    "Trident Growth Partners",
-    1
-   ],
-   [
-    "Bertelsmann India Investments",
-    1
-   ],
-   [
-    "Mirabilis Investment Trust",
-    1
-   ],
-   [
-    "Sharrp Ventures also participated",
     1
    ]
   ]
@@ -1014,8 +1038,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 4,
-  "total_usd_mn": 11.86,
+  "deal_count": 5,
+  "total_usd_mn": 31.86,
   "top_rounds": [
    [
     "Seed",
@@ -1088,8 +1112,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 3,
-  "total_usd_mn": 1.99,
+  "deal_count": 4,
+  "total_usd_mn": 16.99,
   "top_rounds": [
    [
     "Pre-Seed",
@@ -1097,6 +1121,10 @@
    ],
    [
     "Seed",
+    1
+   ],
+   [
+    "Series B",
     1
    ]
   ],
