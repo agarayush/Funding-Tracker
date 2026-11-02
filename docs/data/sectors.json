@@ -18,12 +18,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 24,
-  "total_usd_mn": 12713.63,
+  "deal_count": 26,
+  "total_usd_mn": 12818.18,
   "top_rounds": [
    [
     "Undisclosed",
-    13
+    15
    ],
    [
     "Series A",
@@ -92,8 +92,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 88,
-  "total_usd_mn": 23149.76,
+  "deal_count": 89,
+  "total_usd_mn": 23151.8,
   "top_rounds": [
    [
     "Undisclosed",
@@ -166,12 +166,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 7,
-  "total_usd_mn": 738.98,
+  "deal_count": 8,
+  "total_usd_mn": 790.11,
   "top_rounds": [
    [
     "Undisclosed",
-    6
+    7
    ],
    [
     "Pre-Seed",
@@ -204,20 +204,20 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 50,
-  "total_usd_mn": 770.89,
+  "deal_count": 54,
+  "total_usd_mn": 782.05,
   "top_rounds": [
    [
     "Seed",
-    11
+    12
    ],
    [
     "Undisclosed",
-    10
+    11
    ],
    [
     "Pre-Seed",
-    7
+    8
    ],
    [
     "Series A",
@@ -225,6 +225,14 @@
    ]
   ],
   "top_investors": [
+   [
+    "Sauce",
+    3
+   ],
+   [
+    "AJVC",
+    2
+   ],
    [
     "Fireside Ventures",
     2
@@ -246,15 +254,7 @@
     2
    ],
    [
-    "Sauce",
-    2
-   ],
-   [
     "Bharat Value Fund",
-    2
-   ],
-   [
-    "Prath Ventures",
     2
    ]
   ]
@@ -352,12 +352,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 24,
-  "total_usd_mn": 286.78,
+  "deal_count": 27,
+  "total_usd_mn": 303.03,
   "top_rounds": [
    [
     "Series A",
-    6
+    8
    ],
    [
     "Seed",
@@ -374,8 +374,20 @@
   ],
   "top_investors": [
    [
+    "Alkemi Growth Capital",
+    2
+   ],
+   [
     "Sauce",
     2
+   ],
+   [
+    "Vineeta Singh",
+    1
+   ],
+   [
+    "Avnish Anand",
+    1
    ],
    [
     "Blume Ventures",
@@ -391,18 +403,6 @@
    ],
    [
     "Aprameya Radhakrishna",
-    1
-   ],
-   [
-    "Krishan Sridhar",
-    1
-   ],
-   [
-    "Peak XV",
-    1
-   ],
-   [
-    "IvyCap",
     1
    ]
   ]
@@ -500,12 +500,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 18,
-  "total_usd_mn": 1718.66,
+  "deal_count": 20,
+  "total_usd_mn": 1738.66,
   "top_rounds": [
    [
     "Undisclosed",
-    5
+    7
    ],
    [
     "Pre-Series A",
@@ -521,6 +521,10 @@
    ]
   ],
   "top_investors": [
+   [
+    "Transition Venture Capital",
+    2
+   ],
    [
     "Bengaluru-based HNI Amit Mishra",
     2
@@ -548,10 +552,6 @@
    [
     "CFO Ankit Gupta",
     1
-   ],
-   [
-    "Yali Capital",
-    1
    ]
   ]
  },
@@ -574,12 +574,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 6,
-  "total_usd_mn": 117.57,
+  "deal_count": 7,
+  "total_usd_mn": 118.14,
   "top_rounds": [
    [
     "Pre-Seed",
-    1
+    2
    ],
    [
     "Seed",
@@ -595,6 +595,18 @@
    ]
   ],
   "top_investors": [
+   [
+    "Antler India",
+    1
+   ],
+   [
+    "Yashin Mahadevia",
+    1
+   ],
+   [
+    "Parth Modwadhia",
+    1
+   ],
    [
     "Accel",
     1
@@ -613,18 +625,6 @@
    ],
    [
     "Info Edge Ventures",
-    1
-   ],
-   [
-    "Deepinder Goyal",
-    1
-   ],
-   [
-    "Three Words Capital",
-    1
-   ],
-   [
-    "Abhishek Misra (SKG Asset Management",
     1
    ]
   ]
@@ -940,12 +940,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 25,
-  "total_usd_mn": 3015.53,
+  "deal_count": 26,
+  "total_usd_mn": 3254.17,
   "top_rounds": [
    [
     "Undisclosed",
-    10
+    11
    ],
    [
     "Seed",

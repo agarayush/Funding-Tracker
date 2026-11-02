@@ -1,5 +1,291 @@
 [
  {
+  "id": "ceccd2ee9629",
+  "date": "2026-11-02",
+  "company": "ValueQuest Tristar Fund",
+  "company_brief": "ValueQuest Tristar Fund is a private equity fund that backs India’s advanced manufacturing sector. It reached this within 15 months of its first close, beating both its original target and the full greenshoe (the extra amount a fund is allowed to raise above its target).",
+  "sector": "Manufacturing & Industrial",
+  "sub_sector": "private equity fund",
+  "round": "Undisclosed",
+  "amount_text": "Rs 2,100 Cr",
+  "amount_usd_mn": 238.636,
+  "amount_inr_cr": 2100.0,
+  "lead_investors": [],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "",
+  "headline": "ValueQuest Tristar Fund raises over Rs 2,100 Cr for advanced manufacturing",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/funding-valuequest-tristar-fund-beats-target-greenshoe-15-months-first-close"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "17ab23099302",
+  "date": "2026-11-02",
+  "company": "Two Point O Capital",
+  "company_brief": "Two Point O Capital is an AI-powered clean energy deployment platform for commercial and industrial (C&I) businesses. The company offers flexible financing through loans, leasing and service-based models, helping businesses adopt sustainable infrastructure without managing the entire project themselves.",
+  "sector": "Climate & Cleantech",
+  "sub_sector": "AI-powered clean energy deployment platform for commercial a",
+  "round": "Undisclosed",
+  "amount_text": "$10 Million",
+  "amount_usd_mn": 10.0,
+  "amount_inr_cr": 88.0,
+  "lead_investors": [
+   "Transition Venture Capital"
+  ],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "expand into battery energy storage systems (BESS), strengthen its solar, energy efficiency and wastewater treatment businesses, and support clean energy asset deployment",
+  "headline": "Two Point O Capital Raises $10 Million in Funding Led by Transition Venture Capital",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/two-point-o-capital-raises-10-million-in-funding-led-by-transition-venture-capital-12774709"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "6309c00eb559",
+  "date": "2026-11-02",
+  "company": "Two Point O",
+  "company_brief": "Two Point O is an AI-powered, full-stack clean energy deployment platform for commercial and industrial (C&I) businesses. Founded in 2024 by Archit Mehrotra, Karan Bhutani, Manya Ranjan, and Shashidhar Reddy, TW.O helps businesses adopt clean energy infrastructure by bringing together financing, technology and end-to-end project execution.",
+  "sector": "Climate & Cleantech",
+  "sub_sector": "AI-powered, full-stack clean energy deployment platform for ",
+  "round": "Undisclosed",
+  "amount_text": "$10M",
+  "amount_usd_mn": 10.0,
+  "amount_inr_cr": 88.0,
+  "lead_investors": [
+   "Transition Venture Capital"
+  ],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "expand into newer asset classes as well deepening its reach in the current energy management segment",
+  "headline": "Two Point O raises $10M led by Transition Venture Capital",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/two-point-o-raises-10-million-led-by-transition-venture-capital"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "0f7fd0675e47",
+  "date": "2026-11-02",
+  "company": "Hyeglo Beauty",
+  "company_brief": "It plans to expand its portfolio across colour cosmetics and skincare as it prepares for its next phase of growth.",
+  "sector": "D2C & Consumer Brands",
+  "sub_sector": "",
+  "round": "Seed",
+  "amount_text": "Rs 7 Crore",
+  "amount_usd_mn": 0.795,
+  "amount_inr_cr": 7.0,
+  "lead_investors": [
+   "Sauce"
+  ],
+  "investors": [
+   "Giga Capital",
+   "Consumer Collective",
+   "Arjun Purkayastha",
+   "SVP",
+   "MD of Greater China",
+   "North Asia at Reckitt"
+  ],
+  "city": "",
+  "use_of_funds": "research and development, product innovation, brand building and strategic hiring as it prepares to expand its product portfolio and market presence",
+  "headline": "Hyeglo Beauty Raises Rs 7 Crore in Seed Round Led by Sauce",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/hyeglo-beauty-raises-rs-7-crore-in-seed-round-led-by-sauce-12775715"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "6b1e84141f5d",
+  "date": "2026-11-02",
+  "company": "Dispatch Network",
+  "company_brief": "The company aims to reduce the time riders spend waiting for orders or travelling without one.",
+  "sector": "Mobility & Automotive",
+  "sub_sector": "",
+  "round": "Pre-Seed",
+  "amount_text": "Rs 5 Crore",
+  "amount_usd_mn": 0.568,
+  "amount_inr_cr": 5.0,
+  "lead_investors": [
+   "Antler India"
+  ],
+  "investors": [
+   "Yashin Mahadevia",
+   "Parth Modwadhia"
+  ],
+  "city": "Pune",
+  "use_of_funds": "expand its artificial intelligence (AI) team and develop its proprietary Large Logistics Spatio-Temporal Model (LLSTM)",
+  "headline": "Dispatch Network Raises Rs 5 Crore in Pre-Seed Round Led by Antler India",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/dispatch-network-raises-rs-5-crore-in-pre-seed-round-led-by-antler-india-12776142"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "e316b70270e0",
+  "date": "2026-11-02",
+  "company": "Clinics On Cloud",
+  "company_brief": "It also plans to use the UAE as a hub for expansion into Africa, the United States and Southeast Asia.",
+  "sector": "Healthtech & Biotech",
+  "sub_sector": "",
+  "round": "Series A",
+  "amount_text": "$12.5 Million",
+  "amount_usd_mn": 12.5,
+  "amount_inr_cr": 110.0,
+  "lead_investors": [],
+  "investors": [],
+  "city": "Pune",
+  "use_of_funds": "strengthen its AI-led healthcare capabilities, expand research and development, and grow its connected microclinic network",
+  "headline": "Healthtech Startup Clinics On Cloud Secures $12.5 Million in Series A Round",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/clinics-on-cloud-secures-125-million-in-series-a-round-12776285"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "7b17e1360f56",
+  "date": "2026-11-01",
+  "company": "Prosus investment in Sachin Bansal's Navi",
+  "company_brief": "The deal will deepen Prosus’ presence in India’s digital financial services sector.",
+  "sector": "Fintech",
+  "sub_sector": "",
+  "round": "Undisclosed",
+  "amount_text": "$100 million",
+  "amount_usd_mn": 100.0,
+  "amount_inr_cr": 880.0,
+  "lead_investors": [],
+  "investors": [],
+  "city": "Bengaluru",
+  "use_of_funds": "",
+  "headline": "Prosus investment in Sachin Bansal's Navi gets CCI nod",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/prosus-investment-in-sachin-bansals-navi-gets-cci-nod"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "5e5191ca38b4",
+  "date": "2026-10-31",
+  "company": "The smart appliance disruptor has officially",
+  "company_brief": "Binance confirmed there is no evidence that wallet private keys were compromised.",
+  "sector": "SaaS & Enterprise Tech",
+  "sub_sector": "",
+  "round": "Undisclosed",
+  "amount_text": "Rs 450 crore",
+  "amount_usd_mn": 51.136,
+  "amount_inr_cr": 450.0,
+  "lead_investors": [],
+  "investors": [],
+  "city": "Mumbai",
+  "use_of_funds": "the proceeds from the IPO towards debt payment, investments into brand awareness and marketing, R&D and general corporate purposes",
+  "headline": "Binance hit with $6.3B breach; Delhivery reports net profit of Rs 41 Cr in Q2",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/10/binance-hit-with-63b-breach-delhivery-reports-net-profit-of-rs-41-cr-in-q2"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "1c884ce5fcd1",
+  "date": "2026-10-31",
+  "company": "TVS Alts plans",
+  "company_brief": "It expects a first close within six months of regulatory approval and a final close within 12 to 14 months.",
+  "sector": "Fintech",
+  "sub_sector": "",
+  "round": "Undisclosed",
+  "amount_text": "Rs 40 crore",
+  "amount_usd_mn": 4.545,
+  "amount_inr_cr": 40.0,
+  "lead_investors": [],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "",
+  "headline": "TVS Capital bets on private credit with Rs 750-Cr fund",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/10/tvs-capital-enters-private-credit-with-rs-750-cr-fund-target"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "219eccae98c2",
+  "date": "2026-10-31",
+  "company": "Qiroko",
+  "company_brief": "Qiroko is a Bengaluru-based fashion accessories brand. The startup was previously bootstrapped by its founders.",
+  "sector": "D2C & Consumer Brands",
+  "sub_sector": "Bengaluru-based fashion accessories brand",
+  "round": "Pre-Seed",
+  "amount_text": "Rs 1.5 Crore",
+  "amount_usd_mn": 0.17,
+  "amount_inr_cr": 1.5,
+  "lead_investors": [
+   "ISV Capital"
+  ],
+  "investors": [],
+  "city": "Bengaluru",
+  "use_of_funds": "product development, expansion into new categories, wider distribution and team building",
+  "headline": "Qiroko Raises Rs 1.5 Crore in Pre-Seed Round Led by ISV Capital",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/qiroko-raises-rs-15-crore-in-pre-seed-round-led-by-isv-capital-12770150"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "efe98aaa0fbe",
+  "date": "2026-10-30",
+  "company": "Jagruti Rehabilitation Centre",
+  "company_brief": "Jagruti Rehabilitation Centre is a provider of mental health, addiction and dementia care services. It had previously expanded its operations using internal accruals.",
+  "sector": "Healthtech & Biotech",
+  "sub_sector": "provider of mental health, addiction and dementia care servi",
+  "round": "Series A",
+  "amount_text": "Rs 28 Cr",
+  "amount_usd_mn": 3.182,
+  "amount_inr_cr": 28.0,
+  "lead_investors": [
+   "Alkemi Growth Capital"
+  ],
+  "investors": [],
+  "city": "Pune",
+  "use_of_funds": "expand into new locations, increase clinical capacity, develop specialised care programmes and strengthen its insurance and corporate partnerships",
+  "headline": "Jagruti Rehabilitation Centre raises Rs 28 Cr in Series A round led by Alkemi Growth Capital",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/jagruti-rehabilitation-centre-raises-rs-28-cr-in-series-a-round-led-by-alkemi-growth-capital-12766792"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
   "id": "512cb6c23963",
   "date": "2026-10-29",
   "company": "Let’s Game Now",
@@ -22,6 +308,115 @@
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/lets-game-now-raises-rs-30-crore-in-funding-round-12763047"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "345d918cc19a",
+  "date": "2026-10-29",
+  "company": "ISLAND Beauty",
+  "company_brief": "ISLAND Beauty is a skincare brand combining Korean ingredients with formulations developed for Indian skin needs. ISLAND Beauty has developed its proprietary Core Barrier Matrix, comprising CBM-A Repair and CBM-B Defence.",
+  "sector": "D2C & Consumer Brands",
+  "sub_sector": "skincare brand combining Korean ingredients with formulation",
+  "round": "Undisclosed",
+  "amount_text": "Rs 2.58 Crore",
+  "amount_usd_mn": 0.293,
+  "amount_inr_cr": 2.58,
+  "lead_investors": [
+   "AJVC"
+  ],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "product development, brand awareness and customer acquisition as it looks to expand its presence in the skincare market",
+  "headline": "ISLAND Beauty Raises Rs 2.58 Crore from AJ VC",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/island-beauty-raises-rs-258-crore-from-aj-vc-12763601"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "47480713963d",
+  "date": "2026-10-29",
+  "company": "Docterz",
+  "company_brief": "Docterz is an Indian healthcare technology company founded by practising paediatrician Dr Atish Laddad. The platform supports more than 5,000 doctors across India, with a strong presence in paediatrics.",
+  "sector": "Healthtech & Biotech",
+  "sub_sector": "Indian healthcare technology company",
+  "round": "Bridge",
+  "amount_text": "₹5 Crore",
+  "amount_usd_mn": 0.568,
+  "amount_inr_cr": 5.0,
+  "lead_investors": [],
+  "investors": [
+   "Vineeta Singh",
+   "Avnish Anand"
+  ],
+  "city": "",
+  "use_of_funds": "support organic growth, explore acquisitions and develop AI-enabled tools for doctors and healthcare organisations across India",
+  "headline": "Docterz Raises ₹5 Crore from 35 Investors, Including Doctors and Startup Leaders",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/docterz-raises-5-crore-from-35-investors-including-doctors-and-startup-leaders-12765182"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "07fd86e802a6",
+  "date": "2026-10-29",
+  "company": "Coratia Technologies",
+  "company_brief": "Coratia Technologies is an Indian deep-tech company developing underwater robotic systems. The company specialises in remotely operated vehicles (ROVs) and autonomous marine systems.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "Indian deep-tech company developing underwater robotic syste",
+  "round": "Bridge",
+  "amount_text": "₹18 Crore",
+  "amount_usd_mn": 2.045,
+  "amount_inr_cr": 18.0,
+  "lead_investors": [
+   "MGF Kavachh"
+  ],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "execute its ₹66 crore Indian Navy contract, accelerate research and development, improve its underwater robotics technology and scale manufacturing and deployment",
+  "headline": "Coratia Technologies Raises ₹18 Crore Bridge Round to Scale Indigenous Underwater Robotics",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/coratia-technologies-raises-18-crore-bridge-round-to-scale-indigenous-underwater-robotics-12764823"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "57f716e0c8e2",
+  "date": "2026-10-29",
+  "company": "Ace Blend",
+  "company_brief": "Ace Blend is a direct-to-consumer (D2C) nutrition and dietary supplements brand. The company sells its products through its website and online commerce platforms such as Amazon, flipkart , Zepto and Blinkit.",
+  "sector": "D2C & Consumer Brands",
+  "sub_sector": "direct-to-consumer (D2C) nutrition and dietary supplements b",
+  "round": "Pre-Series A",
+  "amount_text": "$9.9 Million",
+  "amount_usd_mn": 9.9,
+  "amount_inr_cr": 87.12,
+  "lead_investors": [
+   "3one4 Capital"
+  ],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "clinical trials, research and development (R&D), supply chain improvements and the development of new nutrition formats",
+  "headline": "Ace Blend Raises $9.9 Million in Series A2 Round Led by 3one4 Capital",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/ace-blend-raises-99-million-in-series-a2-round-led-by-3one4-capital-12764703"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/10/ace-blend-bags-991m-as-it-looks-to-scale-science-led-nutrition"
    }
   ],
   "extraction": "rules"
