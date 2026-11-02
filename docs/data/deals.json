@@ -1315,30 +1315,6 @@
   "extraction": "rules"
  },
  {
-  "id": "5216a70a8c92",
-  "date": "2026-10-16",
-  "company": "Eternal shares",
-  "company_brief": "Read Also - I nfotech Acquires Zluri and Launches CIO Analytics Platform\nThe transaction accounted for around 0.05% of Eternal’s paid-up equity.",
-  "sector": "SaaS & Enterprise Tech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "₹324.35",
-  "amount_usd_mn": 0.0,
-  "amount_inr_cr": 0.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "Goldman Sachs Sells ₹168.7 Cr Worth of Eternal Shares",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/startupnews/goldman-sachs-sells-1687-cr-worth-of-eternal-shares-12680872"
-   }
-  ],
-  "extraction": "rules"
- },
- {
   "id": "97c955647055",
   "date": "2026-10-15",
   "company": "Shamrock AI",
@@ -2115,30 +2091,6 @@
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/10/medtech-company-sunfox-technologies-raises-7m"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "421756eb8e92",
-  "date": "2026-10-07",
-  "company": "Recur Club",
-  "company_brief": "Recur Club is a debt platform for startups and SMEs. For store and capacity expansion, Recur Club will help acquire equipment and fit-outs for new stores, with brands paying a monthly rental until the financing is repaid, turning capex into opex.",
-  "sector": "D2C & Consumer Brands",
-  "sub_sector": "debt platform for startups and SMEs",
-  "round": "Debt",
-  "amount_text": "Rs 500 crore",
-  "amount_usd_mn": 56.818,
-  "amount_inr_cr": 500.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "Festive season bonanza: Recur Club launches Rs 500 Cr fund for D2C brands",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/10/festive-season-bonanza-recur-club-launches-rs-500-cr-fund-for-d2c-brands"
    }
   ],
   "extraction": "rules"
@@ -4519,30 +4471,6 @@
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/09/carrum-mobility-raises-10-million-in-series-b-led-by-uber"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "433c9c321c21",
-  "date": "2026-09-08",
-  "company": "The deal comes after Udaan",
-  "company_brief": "Bengaluru, Hyderabad, Chennai and Kolkata together account for around 75% of Lynk’s revenue.",
-  "sector": "Logistics & Supply Chain",
-  "sub_sector": "",
-  "round": "Debt",
-  "amount_text": "$160 million",
-  "amount_usd_mn": 160.0,
-  "amount_inr_cr": 1408.0,
-  "lead_investors": [],
-  "investors": [],
-  "city": "Bengaluru",
-  "use_of_funds": "",
-  "headline": "Swiggy Sells Lynk Logistics to Udaan for Rs 500 Crore",
-  "sources": [
-   {
-    "site": "viestories",
-    "url": "https://viestories.com/startupnews/swiggy-sells-lynk-logistics-to-udaan-for-rs-500-crore-12505378"
    }
   ],
   "extraction": "rules"
@@ -9194,33 +9122,6 @@
    {
     "site": "yourstory",
     "url": "https://yourstory.com/2026/08/ideaforge-secures-rs-151-cr-govt-rdi-scheme-to-develop-autonomous-drone-yeti"
-   }
-  ],
-  "extraction": "rules"
- },
- {
-  "id": "2870945be432",
-  "date": "2026-07-14",
-  "company": "Elevation Capital",
-  "company_brief": "It highlighted that India is already the largest AI adoption market globally where every business is looking to make that shift, which in itself is an opportunity to Indian tech founders.",
-  "sector": "AI & Deeptech",
-  "sub_sector": "",
-  "round": "Undisclosed",
-  "amount_text": "$670 million",
-  "amount_usd_mn": 670.0,
-  "amount_inr_cr": 5896.0,
-  "lead_investors": [
-   "AI",
-   "” the post said"
-  ],
-  "investors": [],
-  "city": "",
-  "use_of_funds": "",
-  "headline": "Elevation Capital launches $500M fund with focus on Indian AI startups",
-  "sources": [
-   {
-    "site": "yourstory",
-    "url": "https://yourstory.com/2026/07/elevation-capital-launches-500-million-fund-focus-indian-ai-startups"
    }
   ],
   "extraction": "rules"

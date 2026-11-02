@@ -111,7 +111,7 @@ def find_deal(title, sentences):
 NON_DEAL_RX = re.compile(
     r"\b(report|tracxn|data shows|funding (?:fell|rose|dips|drops|jumps)|in h[12]\b|quarter|q[1-4]\b|"
     r"for (?:its |a |the )?(?:[\w-]+ ){0,4}fund\b|fund[- ](?:i|ii|iii|iv|v|vi)\b|corpus|first close|final close|"
-    r"fund[- ](?:[ivx]{1,4}|\d)\b|closes? .*\bfund|board nod|to invest|licen[cs]e|"
+    r"fund[- ](?:[ivx]{1,4}|\d)\b|closes? .*\bfund|launch(?:es|ed)? .*\bfund|sells|sold|board nod|to invest|licen[cs]e|"
     r"pli|incentives?|subsidy|government|ministry|announces?(?! (?:\S+ ){0,3}(?:funding|round|fundraise|seed|series))|ipo|acquires|acquisition|merger)\b", re.I)
 GENERIC_COMPANY_RX = re.compile(
     r"\b(sector|companies|startups|industry|ecosystem|government|ministry|investors|founders|"
