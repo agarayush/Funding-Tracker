@@ -18,12 +18,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 43,
-  "total_usd_mn": 1102.82,
+  "deal_count": 45,
+  "total_usd_mn": 1114.24,
   "top_rounds": [
    [
     "Undisclosed",
-    20
+    21
    ],
    [
     "Seed",
@@ -31,7 +31,7 @@
    ],
    [
     "Series A",
-    4
+    5
    ],
    [
     "Debt",
@@ -39,6 +39,10 @@
    ]
   ],
   "top_investors": [
+   [
+    "Peak XV Partners",
+    3
+   ],
    [
     "Z47",
     2
@@ -52,23 +56,19 @@
     2
    ],
    [
-    "Peak XV Partners",
-    2
-   ],
-   [
     "Atrium Ventures",
     2
    ],
    [
-    "CoinFund",
+    "Shepherd’s Hill",
     1
    ],
    [
-    "Coinbase Ventures",
+    "Pentathlon Ventures",
     1
    ],
    [
-    "Nicky Montana",
+    "Flourish Ventures",
     1
    ]
   ]
@@ -92,24 +92,24 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 135,
-  "total_usd_mn": 2464.25,
+  "deal_count": 139,
+  "total_usd_mn": 1900.32,
   "top_rounds": [
    [
     "Seed",
-    34
+    36
    ],
    [
     "Series A",
     29
    ],
    [
-    "Undisclosed",
-    19
+    "Pre-Seed",
+    18
    ],
    [
-    "Pre-Seed",
-    17
+    "Undisclosed",
+    18
    ]
   ],
   "top_investors": [
@@ -134,15 +134,15 @@
     4
    ],
    [
+    "Speciale Invest",
+    3
+   ],
+   [
     "Blume Ventures",
     3
    ],
    [
     "Together Fund",
-    3
-   ],
-   [
-    "Endiya Partners",
     3
    ]
   ]
@@ -166,12 +166,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 10,
+  "deal_count": 9,
   "total_usd_mn": 241.93,
   "top_rounds": [
    [
     "Undisclosed",
-    5
+    4
    ],
    [
     "Pre-Seed",
@@ -224,16 +224,16 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 88,
-  "total_usd_mn": 1022.74,
+  "deal_count": 90,
+  "total_usd_mn": 1068.08,
   "top_rounds": [
    [
     "Undisclosed",
-    19
+    21
    ],
    [
     "Seed",
-    17
+    18
    ],
    [
     "Pre-Seed",
@@ -245,6 +245,10 @@
    ]
   ],
   "top_investors": [
+   [
+    "V3 Ventures",
+    4
+   ],
    [
     "Sauce",
     4
@@ -259,10 +263,6 @@
    ],
    [
     "Nexus Venture Partners",
-    3
-   ],
-   [
-    "V3 Ventures",
     3
    ],
    [
@@ -668,8 +668,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 12,
-  "total_usd_mn": 265.0,
+  "deal_count": 11,
+  "total_usd_mn": 105.0,
   "top_rounds": [
    [
     "Seed",
@@ -742,8 +742,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 14,
-  "total_usd_mn": 151.94,
+  "deal_count": 15,
+  "total_usd_mn": 152.94,
   "top_rounds": [
    [
     "Series B",
@@ -758,11 +758,15 @@
     2
    ],
    [
-    "Series A",
+    "Pre-Seed",
     1
    ]
   ],
   "top_investors": [
+   [
+    "DSG Consumer Partners",
+    1
+   ],
    [
     "First Bridge",
     1
@@ -789,10 +793,6 @@
    ],
    [
     "Godrej Industries Group",
-    1
-   ],
-   [
-    "Cisco Foundation",
     1
    ]
   ]
@@ -964,8 +964,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 38,
-  "total_usd_mn": 551.46,
+  "deal_count": 39,
+  "total_usd_mn": 561.76,
   "top_rounds": [
    [
     "Undisclosed",
@@ -981,10 +981,14 @@
    ],
    [
     "Series A",
-    4
+    5
    ]
   ],
   "top_investors": [
+   [
+    "Omnivore",
+    2
+   ],
    [
     "Avaana Capital",
     2
@@ -1010,11 +1014,7 @@
     2
    ],
    [
-    "IAN Alpha Fund",
-    1
-   ],
-   [
-    "3i Partners",
+    "Rainmatter",
     1
    ]
   ]

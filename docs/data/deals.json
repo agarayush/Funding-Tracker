@@ -1,5 +1,366 @@
 [
  {
+  "id": "b44edb9335f8",
+  "date": "2026-11-06",
+  "company": "Cosmoserve Space",
+  "company_brief": "The startup is developing robotic systems that can capture and remove multiple pieces of space debris during a mission.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "",
+  "round": "Seed",
+  "amount_text": "$6 Million",
+  "amount_usd_mn": 6.0,
+  "amount_inr_cr": 52.8,
+  "lead_investors": [
+   "Rebright Partners"
+  ],
+  "investors": [
+   "Aranya Holdings",
+   "Naandi Ventures",
+   "Shakti VC"
+  ],
+  "city": "Hyderabad",
+  "use_of_funds": "support technology demonstrations, fund two upcoming missions and strengthen operations at Base 1",
+  "headline": "Cosmoserve Space Raises $6 Million in Seed Round Led by Rebright Partners",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/cosmoserve-space-raises-6-million-in-seed-round-led-by-rebright-partners-12787798"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "d3382ce8498f",
+  "date": "2026-11-05",
+  "company": "altM",
+  "company_brief": "The startup uses agricultural residues such as sugarcane bagasse and rice straw to produce bio-based materials.",
+  "sector": "Manufacturing & Industrial",
+  "sub_sector": "",
+  "round": "Series A",
+  "amount_text": "$10.3 Million",
+  "amount_usd_mn": 10.3,
+  "amount_inr_cr": 90.64,
+  "lead_investors": [
+   "Rainmatter",
+   "Mela Ventures"
+  ],
+  "investors": [
+   "Omnivore",
+   "Theia Ventures",
+   "Aureolis Ventures",
+   "Spectrum Impact also participated"
+  ],
+  "city": "Bengaluru",
+  "use_of_funds": "expand manufacturing, strengthen research and development (R&D), support customer qualification programmes and grow its sales and engineering teams",
+  "headline": "altM Raises $10.3 Million in Series A Round Led by Rainmatter and Mela Ventures",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/altm-raises-103-million-in-series-a-round-led-by-rainmatter-and-mela-ventures-12784830"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/altm-raises-103m-series-a-funding-rainmatter-mela-ventures"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "e00ba8499984",
+  "date": "2026-11-05",
+  "company": "Venomics AI",
+  "company_brief": "Founded by Sunagar and Vinay Prabhu, the company combines venom biology, molecular sequencing, AI and laboratory screening to identify molecules from animal venoms that could be developed into medicines.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "",
+  "round": "Pre-Seed",
+  "amount_text": "$2.7 Million",
+  "amount_usd_mn": 2.7,
+  "amount_inr_cr": 23.76,
+  "lead_investors": [
+   "Speciale Invest",
+   "South Park Commons"
+  ],
+  "investors": [
+   "Operators Studio"
+  ],
+  "city": "Bengaluru",
+  "use_of_funds": "expand its Venom Atlas molecular dataset, strengthen its artificial intelligence (AI) and laboratory screening capabilities, and build its team across biology, computational science and drug discovery",
+  "headline": "Venomics AI Raises $2.7 Million in Pre-Seed Round Led by Speciale Invest and South Park Commons",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/venomics-ai-raises-27-million-in-pre-seed-round-led-by-speciale-invest-and-south-park-commons-12785813"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "3a7f2b871d5f",
+  "date": "2026-11-05",
+  "company": "Cosmoserve",
+  "company_brief": "Cosmoserve is a Hyderabad-based spacetech startup. Cosmoserve also opened a facility in Hyderabad which will be utilised for satellite servicing and space debris recovery.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "Hyderabad-based spacetech startup",
+  "round": "Seed",
+  "amount_text": "$6M",
+  "amount_usd_mn": 6.0,
+  "amount_inr_cr": 52.8,
+  "lead_investors": [
+   "Rebright Partners"
+  ],
+  "investors": [
+   "Shakti VC"
+  ],
+  "city": "Hyderabad",
+  "use_of_funds": "",
+  "headline": "Spacetech startup Cosmoserve raises $6M in seed round",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/spacetech-startup-cosmoserve-raises-6-million-in-seed-round"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "939dd6edad56",
+  "date": "2026-11-04",
+  "company": "Peppermint Robotics",
+  "company_brief": "The startup, which makes autonomous cleaning robots, is backed by pi Ventures and Crane Venture Partners.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "",
+  "round": "Pre-Series B",
+  "amount_text": "Rs 100 Cr",
+  "amount_usd_mn": 11.364,
+  "amount_inr_cr": 100.0,
+  "lead_investors": [
+   "Crane Venture Partners"
+  ],
+  "investors": [],
+  "city": "Pune",
+  "use_of_funds": "towards next-generation robotics and expanding manufacturing capacity",
+  "headline": "Peppermint Robotics bags Rs 100 Cr in pre-Series B funding round",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/peppermint-robotics-bags-rs-100-cr-in-pre-series-b-funding-round"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "618d43b89462",
+  "date": "2026-11-04",
+  "company": "OneStack",
+  "company_brief": "It will also be used for product development in payments, core banking and regulatory compliance.",
+  "sector": "Fintech",
+  "sub_sector": "",
+  "round": "Undisclosed",
+  "amount_text": "Rs 12.5 Crore",
+  "amount_usd_mn": 1.42,
+  "amount_inr_cr": 12.5,
+  "lead_investors": [
+   "Shepherd’s Hill"
+  ],
+  "investors": [
+   "Pentathlon Ventures"
+  ],
+  "city": "Mumbai",
+  "use_of_funds": "expand its presence among cooperative banks and NBFCs",
+  "headline": "OneStack Raises Rs 12.5 Crore in Funding Round Led by Shepherd’s Hill",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/onestack-raises-rs-125-crore-in-funding-round-led-by-shepherds-hill-12782629"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "d24cbf885a71",
+  "date": "2026-11-04",
+  "company": "EloElo Group",
+  "company_brief": "The platform has seen daily time spent per user increase to 95 minutes, compared with 65–70 minutes a few months ago.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "consumer AI and entertainment company",
+  "round": "Series C",
+  "amount_text": "$80 Million",
+  "amount_usd_mn": 80.0,
+  "amount_inr_cr": 704.0,
+  "lead_investors": [
+   "Hornbill Capital",
+   "NBCUniversal"
+  ],
+  "investors": [
+   "MIT Investment Co"
+  ],
+  "city": "Bengaluru",
+  "use_of_funds": "invest in original content, expand its microdrama platform Story TV into international markets and strengthen its agentic AI platform, Dolphin AI",
+  "headline": "EloElo Group Raises $80 Million in Series C Round Led by Hornbill Capital and NBCUniversal",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/eloelo-group-raises-80-million-in-series-c-round-led-by-hornbill-capital-and-nbcuniversal-12781929"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/eloelo-group-raises-80-million-series-c-led-by-hornbill-capital-nbcuniversal"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "e6270147e480",
+  "date": "2026-11-03",
+  "company": "Unify Foodworks",
+  "company_brief": "Unify Foodworks is the exclusive pan-Indian master franchisee of Moe’s Casa Mexicana and Carvel. It entered India in 2025 with its first outlet in Connaught Place, New Delhi.",
+  "sector": "D2C & Consumer Brands",
+  "sub_sector": "exclusive pan-Indian master franchisee of Moe’s Casa Mexican",
+  "round": "Seed",
+  "amount_text": "Rs 5 Crore",
+  "amount_usd_mn": 0.568,
+  "amount_inr_cr": 5.0,
+  "lead_investors": [],
+  "investors": [],
+  "city": "New Delhi",
+  "use_of_funds": "expand both brands across the National Capital Region (NCR), where they made their India debut",
+  "headline": "Unify Foodworks Raises Rs 5 Crore in Seed Funding",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/unify-foodworks-raises-rs-5-crore-in-seed-funding-12779083"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "eb62e9ce6b3b",
+  "date": "2026-11-03",
+  "company": "The Croffle Guys",
+  "company_brief": "The Croffle Guys is a QSR brand specialising in croffles, a combination of croissants and waffles.",
+  "sector": "D2C & Consumer Brands",
+  "sub_sector": "",
+  "round": "Undisclosed",
+  "amount_text": "Rs 14 Crore",
+  "amount_usd_mn": 1.591,
+  "amount_inr_cr": 14.0,
+  "lead_investors": [
+   "V3 Ventures"
+  ],
+  "investors": [
+   "N"
+  ],
+  "city": "Mumbai",
+  "use_of_funds": "expand its outlet network, with plans to add more than 40 outlets across Mumbai, Delhi and Pune",
+  "headline": "The Croffle Guys Raises Rs 14 Crore in Funding Led by V3 Ventures",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/the-croffle-guys-raises-rs-14-crore-in-funding-led-by-v3-ventures-12778607"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "64c6e8fe136c",
+  "date": "2026-11-03",
+  "company": "Solgram",
+  "company_brief": "It offers fresh produce, dairy, meat, seafood and other products that require temperature-controlled storage and transportation.",
+  "sector": "Agritech & Foodtech",
+  "sub_sector": "",
+  "round": "Pre-Seed",
+  "amount_text": "$1 Million",
+  "amount_usd_mn": 1.0,
+  "amount_inr_cr": 8.8,
+  "lead_investors": [
+   "DSG Consumer Partners"
+  ],
+  "investors": [],
+  "city": "Gurugram",
+  "use_of_funds": "strengthen its cold-chain infrastructure, upgrade its technology platform, build sourcing partnerships and expand operations across the National Capital Region (NCR)",
+  "headline": "Solgram Raises Over $1 Million in Pre-Seed Round Led by DSG Consumer Partners",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/solgram-raises-over-1-million-in-pre-seed-round-led-by-dsg-consumer-partners-12778654"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "c0f4bf5fba03",
+  "date": "2026-11-03",
+  "company": "PowerUp Money",
+  "company_brief": "It started as a mutual fund advisory platform and is now expanding into a broader financial planning business.",
+  "sector": "Fintech",
+  "sub_sector": "wealthtech platform",
+  "round": "Series A",
+  "amount_text": "$10 Million",
+  "amount_usd_mn": 10.0,
+  "amount_inr_cr": 88.0,
+  "lead_investors": [
+   "Flourish Ventures"
+  ],
+  "investors": [
+   "Peak XV Partners",
+   "Accel",
+   "Blume Ventures",
+   "Kae Capital",
+   "8i Ventures",
+   "DeVC also participated"
+  ],
+  "city": "Bengaluru",
+  "use_of_funds": "build an AI-powered wealth management platform for Indian retail investors",
+  "headline": "PowerUp Money Raises $10 Million in Funding Led by Flourish Ventures",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/powerup-money-raises-10-million-in-funding-led-by-flourish-ventures-12778112"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "eb8916cdc6dd",
+  "date": "2026-11-03",
+  "company": "GIVA",
+  "company_brief": "It started as an online-first silver jewellery business and has since expanded into gold and lab-grown diamond jewellery.",
+  "sector": "D2C & Consumer Brands",
+  "sub_sector": "",
+  "round": "Undisclosed",
+  "amount_text": "$100 Million",
+  "amount_usd_mn": 100.0,
+  "amount_inr_cr": 880.0,
+  "lead_investors": [
+   "Multiples Alternate Asset Management"
+  ],
+  "investors": [
+   "Edelweiss Discovery Fund"
+  ],
+  "city": "Bengaluru",
+  "use_of_funds": "expand its retail network, strengthen manufacturing capabilities and widen its jewellery portfolio",
+  "headline": "GIVA Raises $100 Million in Funding Led by Multiples Alternate Asset Management",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/giva-raises-100-million-in-funding-led-by-multiples-alternate-asset-management-12779524"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/giva-raises-100m-in-multiples-led-round"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/jewellery-brand-giva-raises-100-million-from-multiples-pe"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
   "id": "17ab23099302",
   "date": "2026-11-02",
   "company": "Two Point O Capital",
