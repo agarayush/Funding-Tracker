@@ -1,5 +1,188 @@
 [
  {
+  "id": "2a5d7726e6f5",
+  "date": "2026-11-16",
+  "company": "Bharat Semi",
+  "company_brief": "Founded in 2021, Bharat Semi operates across New Delhi, Bengaluru and San Francisco.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "",
+  "round": "Seed",
+  "amount_text": "$24M",
+  "amount_usd_mn": 24.0,
+  "amount_inr_cr": 211.2,
+  "lead_investors": [
+   "Info Edge"
+  ],
+  "investors": [],
+  "city": "New Delhi",
+  "use_of_funds": "",
+  "headline": "Bharat Semi raises $24M to develop AI-enabled sensors",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/bharat-semi-raises-24m-to-develop-ai-enabled-sensors"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "c71e79456f58",
+  "date": "2026-11-13",
+  "company": "mistEO",
+  "company_brief": "It also plans to improve its weather forecasting technology and build new business partnerships.",
+  "sector": "Climate & Cleantech",
+  "sub_sector": "",
+  "round": "Seed",
+  "amount_text": "₹18 Crore",
+  "amount_usd_mn": 2.045,
+  "amount_inr_cr": 18.0,
+  "lead_investors": [
+   "MGF Kavachh"
+  ],
+  "investors": [],
+  "city": "Thiruvananthapuram",
+  "use_of_funds": "grow its climate intelligence platform in India and other Asian markets",
+  "headline": "mistEO Raises ₹18 Crore Seed Funding Led by MGF Kavachh to Expand Climate Tech Platform",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/misteo-raises-18-crore-seed-funding-led-by-mgf-kavachh-to-expand-climate-tech-platform-12805389"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "31e234827a29",
+  "date": "2026-11-13",
+  "company": "Paytm",
+  "company_brief": "Paytm is a wholly-owned subsidiary of One 97 Communications. Paytm’s subsidiary PPSL has received the RBI’s in-principle approval to issue prepaid instruments such as wallets, but it must submit a system audit report within six months.",
+  "sector": "Fintech",
+  "sub_sector": "wholly-owned subsidiary of One 97 Communications",
+  "round": "Undisclosed",
+  "amount_text": "Undisclosed",
+  "amount_usd_mn": null,
+  "amount_inr_cr": null,
+  "lead_investors": [],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "",
+  "headline": "Paytm gets RBI's in-principle nod to revive wallet business through new subsidiary",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/paytm-gets-rbis-in-principle-nod-to-revive-wallet-business-through-new-subsidiary"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "efc44115ccd8",
+  "date": "2026-11-12",
+  "company": "Kutlerri.ai",
+  "company_brief": "The company will use the money to improve its AI tools that help restaurants bring in more customers, increase sales and reduce costs.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "",
+  "round": "Undisclosed",
+  "amount_text": "$4 Million",
+  "amount_usd_mn": 4.0,
+  "amount_inr_cr": 35.2,
+  "lead_investors": [
+   "Narahari Investments"
+  ],
+  "investors": [],
+  "city": "Bhubaneswar",
+  "use_of_funds": "improve its AI tools that help restaurants bring in more customers, increase sales and reduce costs",
+  "headline": "Kutlerri.ai Raises $4 Million from Narahari Investments to Expand AI Solutions for Restaurants",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/kutlerriai-raises-4-million-from-narahari-investments-to-expand-ai-solutions-for-restaurants-12806267"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "ffb65f10e2c2",
+  "date": "2026-11-12",
+  "company": "Hundo Pizza",
+  "company_brief": "The company will use the money to expand its business in Mumbai, enter a new city and improve its production facilities and technology.",
+  "sector": "Agritech & Foodtech",
+  "sub_sector": "",
+  "round": "Undisclosed",
+  "amount_text": "₹7.5 Crore",
+  "amount_usd_mn": 0.852,
+  "amount_inr_cr": 7.5,
+  "lead_investors": [
+   "Titan Capital"
+  ],
+  "investors": [],
+  "city": "Mumbai",
+  "use_of_funds": "expand its business in Mumbai, enter a new city and improve its production facilities and technology",
+  "headline": "Hundo Pizza Raises ₹7.5 Crore to Expand Its Pizza Business",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/hundo-pizza-raises-75-crore-to-expand-its-pizza-business-12803557"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "edb53f85222c",
+  "date": "2026-11-11",
+  "company": "Kissht Parent OnEMI",
+  "company_brief": "OnEMI Technology Solutions, the parent company of digital lending platform Kissht, has raised Rs 832.20 crore through a preferential share issue.",
+  "sector": "Fintech",
+  "sub_sector": "",
+  "round": "Undisclosed",
+  "amount_text": "Rs 832 Crore",
+  "amount_usd_mn": 94.545,
+  "amount_inr_cr": 832.0,
+  "lead_investors": [],
+  "investors": [
+   "First Bridge",
+   "HDFC"
+  ],
+  "city": "Mumbai",
+  "use_of_funds": "",
+  "headline": "Kissht Parent OnEMI Raises Rs 832 Crore Through Preferential Issue, Adds 24 New Investors",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/insight/startup-insight/kissht-parent-onemi-raises-rs-832-crore-through-preferential-issue-adds-24-new-investors-12800762"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "e2737b392a09",
+  "date": "2026-11-10",
+  "company": "Arka Fincap",
+  "company_brief": "We seek partners who share this philosophy, and we see a strong alignment with TPG’s approach.”\nArka offers a diversified portfolio of financing solutions spanning pre-owned vehicle financing, secured business loans, loan against property and wholesale lending.",
+  "sector": "Fintech",
+  "sub_sector": "",
+  "round": "Undisclosed",
+  "amount_text": "Rs 525 Cr",
+  "amount_usd_mn": 59.659,
+  "amount_inr_cr": 525.0,
+  "lead_investors": [],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "expansion, investments into technology and risk management capabilities\r\n\r\n Arka Fincap Limited, a Kirloskar Group-promoted non-banking financial company (NBFC) recently raised an initial investment o",
+  "headline": "Arka Fincap raises Rs 525 Cr from The Rise Funds of TPG",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/arka-fincap-raises-rs-525-crore-from-the-rise-funds-of-tpg"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
   "id": "b44edb9335f8",
   "date": "2026-11-06",
   "company": "Cosmoserve Space",
@@ -2592,6 +2775,10 @@
    {
     "site": "viestories",
     "url": "https://viestories.com/funding-alert/desibleai-raises-rs-32-crore-in-seed-plus-funding-led-by-prime-venture-partners-12633250"
+   },
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/desibleai-raises-rs-32-crore-12805713"
    }
   ],
   "extraction": "rules"

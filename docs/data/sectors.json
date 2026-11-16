@@ -18,12 +18,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 45,
-  "total_usd_mn": 1114.24,
+  "deal_count": 48,
+  "total_usd_mn": 1268.44,
   "top_rounds": [
    [
     "Undisclosed",
-    21
+    24
    ],
    [
     "Seed",
@@ -60,15 +60,15 @@
     2
    ],
    [
+    "First Bridge",
+    1
+   ],
+   [
+    "HDFC",
+    1
+   ],
+   [
     "Shepherd’s Hill",
-    1
-   ],
-   [
-    "Pentathlon Ventures",
-    1
-   ],
-   [
-    "Flourish Ventures",
     1
    ]
   ]
@@ -92,23 +92,23 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 139,
-  "total_usd_mn": 1900.32,
+  "deal_count": 141,
+  "total_usd_mn": 1928.32,
   "top_rounds": [
    [
     "Seed",
-    36
+    37
    ],
    [
     "Series A",
     29
    ],
    [
-    "Pre-Seed",
-    18
+    "Undisclosed",
+    19
    ],
    [
-    "Undisclosed",
+    "Pre-Seed",
     18
    ]
   ],
@@ -520,12 +520,16 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 35,
-  "total_usd_mn": 1289.98,
+  "deal_count": 36,
+  "total_usd_mn": 1292.03,
   "top_rounds": [
    [
     "Undisclosed",
     12
+   ],
+   [
+    "Seed",
+    5
    ],
    [
     "Pre-Series A",
@@ -533,10 +537,6 @@
    ],
    [
     "Series C",
-    4
-   ],
-   [
-    "Seed",
     4
    ]
   ],
@@ -570,7 +570,7 @@
     2
    ],
    [
-    "Dr Arokiaswamy Velumani’s family office",
+    "MGF Kavachh",
     1
    ]
   ]
@@ -742,16 +742,16 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 15,
-  "total_usd_mn": 152.94,
+  "deal_count": 16,
+  "total_usd_mn": 153.79,
   "top_rounds": [
    [
-    "Series B",
+    "Undisclosed",
     5
    ],
    [
-    "Undisclosed",
-    4
+    "Series B",
+    5
    ],
    [
     "Pre-Series A",
@@ -763,6 +763,10 @@
    ]
   ],
   "top_investors": [
+   [
+    "Titan Capital",
+    2
+   ],
    [
     "DSG Consumer Partners",
     1
@@ -789,10 +793,6 @@
    ],
    [
     "Lightspeed India",
-    1
-   ],
-   [
-    "Godrej Industries Group",
     1
    ]
   ]
