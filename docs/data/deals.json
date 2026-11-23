@@ -1,5 +1,744 @@
 [
  {
+  "id": "22e154ab64ac",
+  "date": "2026-11-23",
+  "company": "Zavya",
+  "company_brief": "The company will use the money to grow its online business, build its brand and open physical stores.",
+  "sector": "D2C & Consumer Brands",
+  "sub_sector": "",
+  "round": "Pre-Series A",
+  "amount_text": "Rs 22.6 Crore",
+  "amount_usd_mn": 2.568,
+  "amount_inr_cr": 22.6,
+  "lead_investors": [
+   "Daksham Growth Ventures"
+  ],
+  "investors": [],
+  "city": "Gurugram",
+  "use_of_funds": "grow its online business, build its brand and open physical stores",
+  "headline": "Zavya Raises Rs 22.6 Crore in Pre-Series A Round Led by Daksham Growth Ventures",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/zavya-raises-rs-226-crore-in-pre-series-a-round-12833868"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "617b289d0de5",
+  "date": "2026-11-23",
+  "company": "Matters.AI",
+  "company_brief": "Matters.AI is a data security startup that helps businesses protect their important and private information.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "",
+  "round": "Pre-Series A",
+  "amount_text": "Rs 115 Crore",
+  "amount_usd_mn": 13.068,
+  "amount_inr_cr": 115.0,
+  "lead_investors": [
+   "Tanglin Venture Partners"
+  ],
+  "investors": [
+   "Kalaari Capital",
+   "Endiya Partners also joined the round"
+  ],
+  "city": "Bengaluru",
+  "use_of_funds": "improve its technology, grow its business and support its operations",
+  "headline": "Matters.AI Raises Rs 115 Crore in Pre-Series A Round to Expand AI-Powered Data Security Platform",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/mattersai-raises-rs-115-crore-in-pre-series-a-round-to-expand-ai-powered-data-security-platform-12834361"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/enterprise-data-security-startup-matters-ai-raises-rs-115-cr-pre-series-a-round"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "824d76b3bf1b",
+  "date": "2026-11-23",
+  "company": "Ionic Wealth",
+  "company_brief": "It also plans to grow its presence in India and international markets.",
+  "sector": "Fintech",
+  "sub_sector": "wealthtech platform and a subsidiary of Angel One",
+  "round": "Strategic",
+  "amount_text": "Rs 177 Crore",
+  "amount_usd_mn": 20.114,
+  "amount_inr_cr": 177.0,
+  "lead_investors": [
+   "Angel One"
+  ],
+  "investors": [
+   "Bollywood personalities"
+  ],
+  "city": "Mumbai",
+  "use_of_funds": "improve its wealth management services, add AI-powered features to its platform, expand its business and hire more professionals",
+  "headline": "Wealth-Tech Startup Ionic Wealth Raises Rs 177 Crore from Angel One and Investors",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/ionic-wealth-raises-rs-177-crore-from-angel-one-and-investors-12834087"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/ionic-wealth-secures-rs-177-cr-from-angel-one-others"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "090504783a62",
+  "date": "2026-11-20",
+  "company": "Urban Company",
+  "company_brief": "Urban Company said 13 of them did not hold any shares in the company.",
+  "sector": "D2C & Consumer Brands",
+  "sub_sector": "",
+  "round": "Undisclosed",
+  "amount_text": "Rs 2,500 Cr",
+  "amount_usd_mn": 284.091,
+  "amount_inr_cr": 2500.0,
+  "lead_investors": [],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "",
+  "headline": "Urban Company raises Rs 2,500 Cr through QIP",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/urban-company-raises-rs-2500-cr-through-qip"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "65bae3e36ab8",
+  "date": "2026-11-20",
+  "company": "SatSure",
+  "company_brief": "SatSure is an Earth-intelligence company that uses satellite data to inform business and government decisions. It is expected to close by December 2026.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "Earth-intelligence company",
+  "round": "Series B",
+  "amount_text": "Rs 60 Cr",
+  "amount_usd_mn": 6.818,
+  "amount_inr_cr": 60.0,
+  "lead_investors": [],
+  "investors": [],
+  "city": "Bengaluru",
+  "use_of_funds": "India’s Earth Observation Public-Private Partnership (EO-PPP), scale Dhaarini and expand overseas operations",
+  "headline": "Spacetech firm SatSure raises Rs 60 Cr from Antariksh fund",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "5f6ea69675d4",
+  "date": "2026-11-19",
+  "company": "has now",
+  "company_brief": "Backed by the Government of India’s IndiaAI Mission, the company has launched EKA-1, a 26-billion-parameter foundation model under Project EKA.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "",
+  "round": "Undisclosed",
+  "amount_text": "$4 million",
+  "amount_usd_mn": 4.0,
+  "amount_inr_cr": 35.2,
+  "lead_investors": [],
+  "investors": [
+   "EKA-1"
+  ],
+  "city": "Bengaluru",
+  "use_of_funds": "",
+  "headline": "Bajaj Finserv and Pennant invest $4 million in Indian AI startup Soket AI",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/bajaj-finserv-backs-soket-ai-with-4-million-investment-alongside-pennant"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "fb9a702827fe",
+  "date": "2026-11-19",
+  "company": "VitusCare",
+  "company_brief": "It also plans to explore business opportunities in other countries.",
+  "sector": "Fintech",
+  "sub_sector": "",
+  "round": "Series B",
+  "amount_text": "$3 Million",
+  "amount_usd_mn": 3.0,
+  "amount_inr_cr": 26.4,
+  "lead_investors": [
+   "Tomorrow Capital in April 2024"
+  ],
+  "investors": [
+   "1Crowd"
+  ],
+  "city": "Gurugram",
+  "use_of_funds": "open more dialysis centres, improve its technology and train healthcare workers",
+  "headline": "VitusCare Raises $3 Million in Series B Funding to Scale Dialysis Network Across India",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/vituscare-raises-3-million-in-series-b-funding-to-scale-dialysis-network-across-india-12822917"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "795eb75f39db",
+  "date": "2026-11-19",
+  "company": "Style Union",
+  "company_brief": "It plans to enter more cities in western and northern India and strengthen its presence in major markets.",
+  "sector": "D2C & Consumer Brands",
+  "sub_sector": "",
+  "round": "Series E+",
+  "amount_text": "Rs 485 Crore",
+  "amount_usd_mn": 55.114,
+  "amount_inr_cr": 485.0,
+  "lead_investors": [
+   "Venturi Partners",
+   "Elev8 Venture Partners"
+  ],
+  "investors": [],
+  "city": "Delhi",
+  "use_of_funds": "expand its retail store network across India",
+  "headline": "Style Union Raises Rs 485 Crore in Series E Funding Led by Venturi Partners and Elev8 Venture Partners",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/style-union-raises-rs-485-crore-in-series-e-funding-12822284"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/style-union-raises-rs-485-cr-to-expand-beyond-southern-india"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "cd7ea6467dec",
+  "date": "2026-11-19",
+  "company": "Quick service restaurant chain Boba Bhai",
+  "company_brief": "Founded in 2023, Boba Bhai has 120 stores across the country and serves more than three lakh orders every month which include physical and digital channels.",
+  "sector": "D2C & Consumer Brands",
+  "sub_sector": "",
+  "round": "Series B",
+  "amount_text": "$18M",
+  "amount_usd_mn": 18.0,
+  "amount_inr_cr": 158.4,
+  "lead_investors": [],
+  "investors": [
+   "Left Lane Capital",
+   "BIG Capital"
+  ],
+  "city": "",
+  "use_of_funds": "store expansion and also launch new brands",
+  "headline": "Quick service restaurant chain Boba Bhai raises $18M in Series B round",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/boba-bhai-raises-18-million-in-series-b-round"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "8d2482f1d802",
+  "date": "2026-11-19",
+  "company": "InPrime Finserv",
+  "company_brief": "It also plans to use more AI tools to make loan approvals and customer services better.",
+  "sector": "Fintech",
+  "sub_sector": "tech-led NBFC",
+  "round": "Series B",
+  "amount_text": "Rs 101 Crore",
+  "amount_usd_mn": 11.477,
+  "amount_inr_cr": 101.0,
+  "lead_investors": [
+   "FMO"
+  ],
+  "investors": [
+   "Z47 (formerly Matrix Partners India)",
+   "Pravega Ventures also participated"
+  ],
+  "city": "Bengaluru",
+  "use_of_funds": "grow its lending business, improve its AI technology and launch new loan products",
+  "headline": "InPrime Finserv Raises Rs 101 Crore in Series B Funding Led by FMO to Expand Lending Business",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/inprime-finserv-raises-rs-101-crore-in-series-b-funding-led-by-fmo-to-expand-lending-business-12823755"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/inprime-finserv-raises-rs-101-cr-in-series-b-round-led-by-fmo"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "d1f1b61b0551",
+  "date": "2026-11-19",
+  "company": "Humyn Labs",
+  "company_brief": "It also plans to improve its data collection technology and grow its presence in international markets.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "physical AI research and deployment startup",
+  "round": "Series A",
+  "amount_text": "$47 Million",
+  "amount_usd_mn": 47.0,
+  "amount_inr_cr": 413.6,
+  "lead_investors": [
+   "Accel"
+  ],
+  "investors": [
+   "Trifecta Capital"
+  ],
+  "city": "Bengaluru",
+  "use_of_funds": "expand its business in India, Brazil and South Korea",
+  "headline": "Humyn Labs Raises $47 Million in Funding Led by Accel to Expand Physical AI Business",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/humyn-labs-raises-47-million-in-funding-12822078"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/physical-ai-startup-humyn-labs-raises-47-million-series-a"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "f078acf946bd",
+  "date": "2026-11-19",
+  "company": "Disseqt AI",
+  "company_brief": "It also plans to hire more employees in India for its sales, operations and technology teams.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "Dublin-headquartered AI assurance company with a significant",
+  "round": "Pre-Series A",
+  "amount_text": "$8 Million",
+  "amount_usd_mn": 8.0,
+  "amount_inr_cr": 70.4,
+  "lead_investors": [
+   "Gresham House Ventures"
+  ],
+  "investors": [
+   "Palo Alto Networks",
+   "Salesforce",
+   "Meta"
+  ],
+  "city": "",
+  "use_of_funds": "reach more business customers in international markets",
+  "headline": "Disseqt AI Raises $8 Million in Pre-Series A Funding to Expand AI Governance Platform Globally",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/disseqt-ai-raises-8-million-in-pre-series-a-funding-to-expand-ai-governance-platform-globally-12825289"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/disseqt-ai-raises-8m-to-build-enterprise-ai-safeguards"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "6dac6c0771e7",
+  "date": "2026-11-19",
+  "company": "Cyient Semiconductors",
+  "company_brief": "Cyient develops ASICs, chips designed for particular products or functions, as well as power-management products.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "",
+  "round": "Debt",
+  "amount_text": "$10M",
+  "amount_usd_mn": 10.0,
+  "amount_inr_cr": 88.0,
+  "lead_investors": [
+   "Edelweiss"
+  ],
+  "investors": [],
+  "city": "Hyderabad",
+  "use_of_funds": "scale custom-chip development, manufacturing access, and global growth",
+  "headline": "Cyient Semiconductors bags $10M from GlobalFoundries",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/cyient-semiconductors-bags-usd-10m-from-globalfoundries"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "9d171ac7fd69",
+  "date": "2026-11-19",
+  "company": "August AI",
+  "company_brief": "The company plans to use the money to grow its AI-powered healthcare assistant in the United States and add more services for patients.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "",
+  "round": "Undisclosed",
+  "amount_text": "$12 Million",
+  "amount_usd_mn": 12.0,
+  "amount_inr_cr": 105.6,
+  "lead_investors": [],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "grow its AI-powered healthcare assistant in the United States and add more services for patients",
+  "headline": "August AI Raises $12 Million to Expand Its AI Healthcare Assistant in the US",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/august-ai-raises-12-million-to-expand-its-ai-healthcare-assistant-in-the-us-12823378"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "fe08b751c160",
+  "date": "2026-11-18",
+  "company": "Recove Ventures",
+  "company_brief": "The company will use the money to expand its recycling facilities in Maharashtra and Karnataka and improve its plastic waste processing operations.",
+  "sector": "Climate & Cleantech",
+  "sub_sector": "",
+  "round": "Debt",
+  "amount_text": "Rs 56.25 Crore",
+  "amount_usd_mn": 6.392,
+  "amount_inr_cr": 56.25,
+  "lead_investors": [],
+  "investors": [
+   "Ganesh Natarajan"
+  ],
+  "city": "Bengaluru",
+  "use_of_funds": "expand its recycling facilities in Maharashtra and Karnataka and improve its plastic waste processing operations",
+  "headline": "Recove Ventures Raises Rs 56.25 Crore Through Equity and Debt Funding",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/recove-ventures-raises-rs-5625-crore-through-equity-and-debt-funding-12819187"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/circular-economy-company-recove-ventures-raises-rs-56-crore"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "b725b2f302c1",
+  "date": "2026-11-18",
+  "company": "Henfruit",
+  "company_brief": "It also plans to grow its online and offline sales network to reach more customers.",
+  "sector": "D2C & Consumer Brands",
+  "sub_sector": "",
+  "round": "Series A",
+  "amount_text": "$15 Million",
+  "amount_usd_mn": 15.0,
+  "amount_inr_cr": 132.0,
+  "lead_investors": [
+   "Lok Capital",
+   "DSG",
+   "RPSG Capital"
+  ],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "expand its business across India, increase production and improve its supply chain",
+  "headline": "Henfruit Raises $15 Million in Series A Funding Led by Lok Capital, DSG and RPSG Capital",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/henfruit-raises-15-million-in-series-a-funding-led-by-lok-capital-dsg-and-rpsg-capital-12818970"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "4f2e511072a0",
+  "date": "2026-11-18",
+  "company": "Fatehpuria Hygiene",
+  "company_brief": "It will also invest in technology, warehouses, distribution and fulfilment services to build an AI-powered supply chain network.",
+  "sector": "Logistics & Supply Chain",
+  "sub_sector": "trading, supply chain and fulfilment company",
+  "round": "Undisclosed",
+  "amount_text": "Rs 100 Crore",
+  "amount_usd_mn": 11.364,
+  "amount_inr_cr": 100.0,
+  "lead_investors": [
+   "Madhu Kela"
+  ],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "expand into more than 50 major cities over the next 24 months",
+  "headline": "Fatehpuria Hygiene Raises Rs 100 Crore in First Equity Funding Round Led by Madhu Kela",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/fatehpuria-hygiene-raises-rs-100-crore-in-first-equity-funding-round-led-by-madhu-kela-12819897"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/fatehpuria-hygiene-secures-rs-100-cr-first-equity-fundraise"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "1f7c7367ff10",
+  "date": "2026-11-18",
+  "company": "Botsync",
+  "company_brief": "It also plans to hire more people for its engineering and project delivery teams in India.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "",
+  "round": "Series A",
+  "amount_text": "$11 Million",
+  "amount_usd_mn": 11.0,
+  "amount_inr_cr": 96.8,
+  "lead_investors": [
+   "IvyCap Ventures"
+  ],
+  "investors": [],
+  "city": "Bengaluru",
+  "use_of_funds": "improve its AI technology and autonomous mobile robots",
+  "headline": "Botsync Raises $11 Million in Funding Led by IvyCap Ventures to Expand Robotics and AI Platform",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/botsync-raises-11-million-in-funding-led-by-ivycap-ventures-to-expand-robotics-and-ai-platform-12820078"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/botsync-raises-11m-to-expand-industrial-automation"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "4cc7d5e1ebfd",
+  "date": "2026-11-17",
+  "company": "The projects have been",
+  "company_brief": "The company also announced four new utility-scale wind and solar projects with a combined capacity of 934 megawatts (MW) across Karnataka, Madhya Pradesh and Rajasthan.",
+  "sector": "Climate & Cleantech",
+  "sub_sector": "",
+  "round": "Undisclosed",
+  "amount_text": "$4 billion",
+  "amount_usd_mn": 4000.0,
+  "amount_inr_cr": 35200.0,
+  "lead_investors": [],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "",
+  "headline": "Amazon plans $7B renewable energy investment in India by 2030",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/amazon-plans-usd-7-billion-renewable-energy-investment-india-by-2030"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "0ee835a4d058",
+  "date": "2026-11-17",
+  "company": "Redbrick Offices",
+  "company_brief": "The company said it is open to strategic partnerships and acquisitions that fit its growth plans.",
+  "sector": "SaaS & Enterprise Tech",
+  "sub_sector": "",
+  "round": "Series A",
+  "amount_text": "Rs 630 Cr",
+  "amount_usd_mn": 71.591,
+  "amount_inr_cr": 630.0,
+  "lead_investors": [
+   "India SME Investments",
+   "Abakkus"
+  ],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "expand its managed offices portfolio from about 6.5 million sq. ft. to more than 10 million sq. ft. over the next 18 to 24 months, while investing in technology, design and service delivery to cater t",
+  "headline": "Redbrick Offices raises Rs 630 Cr in equity led by India SME Investments and Abakkus",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/redbrick-offices-rs-630-crore-india-sme-investments-abakkus"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "9a7721c2c2a3",
+  "date": "2026-11-17",
+  "company": "Lemonpeel",
+  "company_brief": "It plans to build better tools for creating, editing and checking videos.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "",
+  "round": "Pre-Seed",
+  "amount_text": "$1 Million",
+  "amount_usd_mn": 1.0,
+  "amount_inr_cr": 8.8,
+  "lead_investors": [
+   "Shastra VC"
+  ],
+  "investors": [],
+  "city": "Mumbai",
+  "use_of_funds": "improve its AI-powered video production platform",
+  "headline": "Lemonpeel Secures $1 Million in Pre-Seed Funding Led by Shastra VC",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/lemonpeel-secures-1-million-12816818"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "39aafc65886f",
+  "date": "2026-11-17",
+  "company": "JohnAIC",
+  "company_brief": "It also plans to increase its production capacity to up to 100 AI servers per month as more Indian businesses look for AI infrastructure.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "",
+  "round": "Pre-Seed",
+  "amount_text": "$1.9 Million",
+  "amount_usd_mn": 1.9,
+  "amount_inr_cr": 16.72,
+  "lead_investors": [
+   "Crane Venture Partners"
+  ],
+  "investors": [],
+  "city": "Bengaluru",
+  "use_of_funds": "expand its AI server manufacturing and supply operations",
+  "headline": "JohnAIC Raises $1.9 Million in Pre-Seed Funding Led by Crane Venture Partners",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/johnaic-raises-19-million-12815908"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "92b7ec3c49bb",
+  "date": "2026-11-17",
+  "company": "CountAI",
+  "company_brief": "The company will use the money to improve its products, reach more customers and expand its AI-based technology to more manufacturing businesses.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "",
+  "round": "Seed",
+  "amount_text": "Rs 10 Crore",
+  "amount_usd_mn": 1.136,
+  "amount_inr_cr": 10.0,
+  "lead_investors": [
+   "Equirus InnovateX Fund"
+  ],
+  "investors": [],
+  "city": "Coimbatore",
+  "use_of_funds": "improve its products, reach more customers and expand its AI-based technology to more manufacturing businesses",
+  "headline": "CountAI Raises Rs 10 Crore in Seed Funding Led by Equirus InnovateX Fund",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/countai-raises-rs-10-crore-in-seed-funding-led-by-equirus-innovatex-fund-12816591"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "b0de005ded8f",
+  "date": "2026-11-16",
+  "company": "Xpressbees",
+  "company_brief": "Founded in 2015 by Amitava Saha and Supam Maheshwari, Xpressbees started as the logistics division of FirstCry before becoming an independent company.",
+  "sector": "Logistics & Supply Chain",
+  "sub_sector": "Pune-based logistics company",
+  "round": "Debt",
+  "amount_text": "Rs 100 Crore",
+  "amount_usd_mn": 11.364,
+  "amount_inr_cr": 100.0,
+  "lead_investors": [
+   "Blackstone Growth",
+   "TPG Growth",
+   "ChrysCapital"
+  ],
+  "investors": [],
+  "city": "Pune",
+  "use_of_funds": "manage its working capital needs and support its day-to-day business operations",
+  "headline": "Xpressbees Raises Rs 100 Crore From BlackSoil to Support Operations",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/xpressbees-raises-rs-100-crore-from-blacksoil-to-support-operations-12816112"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/xpressbees-raises-rs-100-cr-in-debt-from-blacksoil"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "c8c030700719",
+  "date": "2026-11-16",
+  "company": "Olyv",
+  "company_brief": "Founded in 2016 by Rohit Garg, Amit Chandel, Vinay Singh, and Jayant Upadhyay, Olyv offers products across personal loans, gold savings, and credit health management.",
+  "sector": "Fintech",
+  "sub_sector": "",
+  "round": "Series B",
+  "amount_text": "$6M",
+  "amount_usd_mn": 6.0,
+  "amount_inr_cr": 52.8,
+  "lead_investors": [],
+  "investors": [
+   "Fundamentum",
+   "SMBC Asia Rising Fund"
+  ],
+  "city": "",
+  "use_of_funds": "",
+  "headline": "Credit-led fintech startup Olyv raises $6M",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/credit-led-fintech-startup-olyv-raises-usd-6m"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "87ac412ba6c4",
+  "date": "2026-11-16",
+  "company": "Dreamteam",
+  "company_brief": "It plans to expand its services to cover different business activities, including finding potential customers, onboarding new clients, customer support and upselling.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "",
+  "round": "Undisclosed",
+  "amount_text": "$53 Million",
+  "amount_usd_mn": 53.0,
+  "amount_inr_cr": 466.4,
+  "lead_investors": [
+   "Accel",
+   "Premji Invest"
+  ],
+  "investors": [
+   "Together Fund"
+  ],
+  "city": "Chennai",
+  "use_of_funds": "improve its AI-powered CRM platform and add more features",
+  "headline": "AI CRM Startup Dreamteam Raises $53 Million in Funding Led by Accel and Premji Invest",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/dreamteam-raises-53-million-12815820"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
   "id": "2a5d7726e6f5",
   "date": "2026-11-16",
   "company": "Bharat Semi",

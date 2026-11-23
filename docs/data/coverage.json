@@ -1,15 +1,27 @@
 {
  "weeks": {
-  "2026-W47": {
+  "2026-W48": {
    "viestories": {
-    "articles": 2,
-    "deals": 0,
-    "rejected": 2
+    "articles": 3,
+    "deals": 3,
+    "rejected": 0
    },
    "yourstory": {
-    "articles": 3,
-    "deals": 1,
+    "articles": 4,
+    "deals": 2,
     "rejected": 2
+   }
+  },
+  "2026-W47": {
+   "viestories": {
+    "articles": 20,
+    "deals": 15,
+    "rejected": 5
+   },
+   "yourstory": {
+    "articles": 34,
+    "deals": 18,
+    "rejected": 16
    }
   },
   "2026-W46": {
@@ -872,6 +884,64 @@
    },
    "new_deals": 7,
    "total_deals": 504
+  },
+  {
+   "started": "2026-11-23T13:29:39.350692+00:00",
+   "window": [
+    "2026-11-09",
+    "2026-11-23"
+   ],
+   "extraction": "rules",
+   "sources": {
+    "viestories": {
+     "candidates": 313,
+     "new_urls": 21,
+     "channels": {
+      "daily_sitemap": 32,
+      "news_sitemap": 3,
+      "rss": 7,
+      "listing": 306
+     },
+     "deals": 18,
+     "not_indian": 1,
+     "unparsed": 2,
+     "http": {
+      "requests": 74,
+      "errors": 1,
+      "robots_blocked": 0
+     }
+    },
+    "yourstory": {
+     "candidates": 79,
+     "new_urls": 35,
+     "channels": {
+      "sitemap": 77,
+      "news_sitemap": 4,
+      "rss": 5,
+      "funding_listing": 10
+     },
+     "unparsed": 16,
+     "deals": 19,
+     "http": {
+      "requests": 210,
+      "errors": 0,
+      "robots_blocked": 0
+     }
+    }
+   },
+   "fill_rates": {
+    "company_brief": 1.0,
+    "sub_sector": 0.242,
+    "amount_usd_mn": 0.97,
+    "lead_investors": 0.667,
+    "investors": 0.364,
+    "city": 0.667,
+    "use_of_funds": 0.788,
+    "round_known": 0.667,
+    "sector_known": 1.0
+   },
+   "new_deals": 26,
+   "total_deals": 530
   }
  ]
 }
