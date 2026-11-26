@@ -18,8 +18,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 52,
-  "total_usd_mn": 1309.03,
+  "deal_count": 53,
+  "total_usd_mn": 1313.39,
   "top_rounds": [
    [
     "Undisclosed",
@@ -30,11 +30,11 @@
     7
    ],
    [
-    "Series B",
-    5
+    "Series A",
+    6
    ],
    [
-    "Series A",
+    "Series B",
     5
    ]
   ],
@@ -68,7 +68,7 @@
     2
    ],
    [
-    "Angel One",
+    "Prosus",
     1
    ]
   ]
@@ -92,12 +92,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 153,
-  "total_usd_mn": 2097.24,
+  "deal_count": 156,
+  "total_usd_mn": 2100.61,
   "top_rounds": [
    [
     "Seed",
-    38
+    39
    ],
    [
     "Series A",
@@ -105,11 +105,11 @@
    ],
    [
     "Undisclosed",
-    22
+    23
    ],
    [
     "Pre-Seed",
-    20
+    21
    ]
   ],
   "top_investors": [
@@ -380,12 +380,12 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 44,
-  "total_usd_mn": 354.57,
+  "deal_count": 45,
+  "total_usd_mn": 354.85,
   "top_rounds": [
    [
     "Seed",
-    10
+    11
    ],
    [
     "Series A",
@@ -454,12 +454,16 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 12,
-  "total_usd_mn": 73.06,
+  "deal_count": 13,
+  "total_usd_mn": 74.19,
   "top_rounds": [
    [
     "Pre-Seed",
     3
+   ],
+   [
+    "Debt",
+    2
    ],
    [
     "Bridge",
@@ -468,10 +472,6 @@
    [
     "Seed",
     2
-   ],
-   [
-    "Series A",
-    1
    ]
   ],
   "top_investors": [
@@ -482,6 +482,10 @@
    [
     "Elevation Capital",
     2
+   ],
+   [
+    "Michael & Susan Dell Foundation",
+    1
    ],
    [
     "ABP Education",
@@ -501,10 +505,6 @@
    ],
    [
     "Kae Capital",
-    1
-   ],
-   [
-    "DeVC",
     1
    ]
   ]
@@ -972,8 +972,8 @@
   "funding_pulse": "",
   "source": "seed",
   "generated_at": "2026-10-29T00:00:00+00:00",
-  "deal_count": 39,
-  "total_usd_mn": 561.76,
+  "deal_count": 40,
+  "total_usd_mn": 575.76,
   "top_rounds": [
    [
     "Undisclosed",
@@ -984,12 +984,12 @@
     9
    ],
    [
-    "Series B",
+    "Series A",
     6
    ],
    [
-    "Series A",
-    5
+    "Series B",
+    6
    ]
   ],
   "top_investors": [
@@ -1022,7 +1022,7 @@
     2
    ],
    [
-    "Rainmatter",
+    "Crane Ventures",
     1
    ]
   ]
