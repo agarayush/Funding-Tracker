@@ -2,14 +2,14 @@
  "weeks": {
   "2026-W48": {
    "viestories": {
-    "articles": 3,
-    "deals": 3,
-    "rejected": 0
+    "articles": 13,
+    "deals": 9,
+    "rejected": 4
    },
    "yourstory": {
-    "articles": 4,
-    "deals": 2,
-    "rejected": 2
+    "articles": 16,
+    "deals": 4,
+    "rejected": 12
    }
   },
   "2026-W47": {
@@ -942,6 +942,63 @@
    },
    "new_deals": 26,
    "total_deals": 530
+  },
+  {
+   "started": "2026-11-26T05:54:36.516701+00:00",
+   "window": [
+    "2026-11-16",
+    "2026-11-26"
+   ],
+   "extraction": "rules",
+   "sources": {
+    "viestories": {
+     "candidates": 191,
+     "new_urls": 10,
+     "channels": {
+      "daily_sitemap": 33,
+      "news_sitemap": 9,
+      "rss": 11,
+      "listing": 186
+     },
+     "unparsed": 4,
+     "deals": 6,
+     "http": {
+      "requests": 43,
+      "errors": 0,
+      "robots_blocked": 0
+     }
+    },
+    "yourstory": {
+     "candidates": 78,
+     "new_urls": 12,
+     "channels": {
+      "sitemap": 76,
+      "news_sitemap": 14,
+      "rss": 6,
+      "funding_listing": 12
+     },
+     "unparsed": 10,
+     "deals": 2,
+     "http": {
+      "requests": 53,
+      "errors": 0,
+      "robots_blocked": 0
+     }
+    }
+   },
+   "fill_rates": {
+    "company_brief": 1.0,
+    "sub_sector": 0.324,
+    "amount_usd_mn": 1.0,
+    "lead_investors": 0.647,
+    "investors": 0.412,
+    "city": 0.618,
+    "use_of_funds": 0.824,
+    "round_known": 0.794,
+    "sector_known": 1.0
+   },
+   "new_deals": 7,
+   "total_deals": 537
   }
  ]
 }

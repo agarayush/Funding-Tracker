@@ -1,5 +1,202 @@
 [
  {
+  "id": "fc0d57e8f08f",
+  "date": "2026-11-26",
+  "company": "OSSO",
+  "company_brief": "OSSO is a Gurugram-based orthopaedic healthcare startup. Founded in 2025 by Kunal Kishore Dhawan and Avani Shukla, OSSO provides orthopaedic treatment and rehabilitation services through a single platform.",
+  "sector": "Healthtech & Biotech",
+  "sub_sector": "Gurugram-based orthopaedic healthcare startup",
+  "round": "Seed",
+  "amount_text": "Rs 2.5 Crore",
+  "amount_usd_mn": 0.284,
+  "amount_inr_cr": 2.5,
+  "lead_investors": [],
+  "investors": [
+   "Sahil Jindal",
+   "Blume Founders Fund"
+  ],
+  "city": "Gurugram",
+  "use_of_funds": "improve its healthcare services, strengthen its medical team and expand its presence across the National Capital Region (NCR)",
+  "headline": "OSSO Raises Rs 2.5 Crore in Extended Seed Funding to Expand Orthopaedic Healthcare Services",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/osso-raises-rs-25-crore-in-extended-seed-funding-12842072"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "6ca5c6757caa",
+  "date": "2026-11-26",
+  "company": "Green Aero",
+  "company_brief": "Founded in 2023 by Dr Prithwish Kundu, Green Aero is a deep-tech startup focused on building jet engines and aircraft technology.",
+  "sector": "Manufacturing & Industrial",
+  "sub_sector": "aerospace and defence startup developing jet engines, milita",
+  "round": "Series A",
+  "amount_text": "$14 Million",
+  "amount_usd_mn": 14.0,
+  "amount_inr_cr": 123.2,
+  "lead_investors": [
+   "Crane Ventures"
+  ],
+  "investors": [
+   "Antler India",
+   "Rebalance"
+  ],
+  "city": "Bengaluru",
+  "use_of_funds": "develop more powerful jet engines, expand its testing facilities and speed up the development of autonomous combat drones and collaborative combat aircraft in India",
+  "headline": "Green Aero Raises $14 Million Series A Funding to Develop Jet Engines and Combat Drones",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/green-aero-raises-14-million-series-a-funding-to-develop-jet-engines-and-combat-drones-12842225"
+   },
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/green-aero-raises-usd-14m-as-india-pushes-for-indigenous-jet-propulsion"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "437f6dd48035",
+  "date": "2026-11-25",
+  "company": "Vidyakul",
+  "company_brief": "Vidyakul is an Indian learning platform for students studying in Hindi and other regional languages. The company also plans to improve its AI-powered tools that answer students' questions and provide learning support in Hindi.",
+  "sector": "Edtech",
+  "sub_sector": "Vernacular learning",
+  "round": "Debt",
+  "amount_text": "₹10 Crore",
+  "amount_usd_mn": 1.136,
+  "amount_inr_cr": 10.0,
+  "lead_investors": [
+   "Michael & Susan Dell Foundation"
+  ],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "improve its courses, tests and learning support for students across India",
+  "headline": "Vidyakul Raises ₹10 Crore in Debt Funding from Michael & Susan Dell Foundation",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/vidyakul-raises-10-crore-in-debt-funding-from-michael-susan-dell-foundation-12839749"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "8677be230640",
+  "date": "2026-11-25",
+  "company": "Lakshya Aerotech",
+  "company_brief": "Lakshya Aerotech is an Indian deeptech startup that develops autonomous systems and Physical Intelligence technology. Founded in 2025 by Lokesh Popuri, Lakshya Aerotech develops technology that helps machines understand their surroundings and make decisions on their own.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "Indian deeptech startup",
+  "round": "Seed",
+  "amount_text": "Rs 2.5 Crore",
+  "amount_usd_mn": 0.284,
+  "amount_inr_cr": 2.5,
+  "lead_investors": [
+   "Santosh Kumar (Samkhyaa Group)"
+  ],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "support its research, improve its engineering facilities, develop new products and expand its manufacturing work in India",
+  "headline": "Lakshya Aerotech Raises Rs 2.5 Crore Seed Funding from Samkhyaa Group Promoter Santosh Kumar",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/lakshya-aerotech-raises-rs-25-crore-seed-funding-12840444"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "eec40efe028b",
+  "date": "2026-11-24",
+  "company": "Vegapay",
+  "company_brief": "Mumbai-based Vegapay, founded in 2022, builds a lending tech stack and card management system that lets regulated entities and fintechs issue cards and credit lines.",
+  "sector": "Fintech",
+  "sub_sector": "Lending and card infrastructure",
+  "round": "Series A",
+  "amount_text": "Rs 38.4 crore",
+  "amount_usd_mn": 4.364,
+  "amount_inr_cr": 38.4,
+  "lead_investors": [
+   "Prosus"
+  ],
+  "investors": [
+   "Elevation Capital",
+   "Vertex Ventures",
+   "Eximius Ventures"
+  ],
+  "city": "Mumbai",
+  "use_of_funds": "",
+  "headline": "Vegapay to raise Rs 38.4 Cr in Series A funding led by Prosus (per regulatory filings)",
+  "sources": [
+   {
+    "site": "yourstory",
+    "url": "https://yourstory.com/2026/11/vegapay-to-raise-rs-384-cr-series-a-funding-led-by-prosus"
+   }
+  ],
+  "extraction": "manual"
+ },
+ {
+  "id": "7d3c8feb2fb3",
+  "date": "2026-11-24",
+  "company": "Lawvek",
+  "company_brief": "Lawvek uses artificial intelligence to check vendor bills, contracts and service records.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "",
+  "round": "Pre-Seed",
+  "amount_text": "$550K",
+  "amount_usd_mn": 0.55,
+  "amount_inr_cr": 4.84,
+  "lead_investors": [
+   "Neon Fund"
+  ],
+  "investors": [],
+  "city": "",
+  "use_of_funds": "reach more business customers and improve its platform, which helps companies find and recover money they may have lost through vendor billing mistakes",
+  "headline": "Lawvek Raises $550K in Pre-Seed Round Led by Neon Fund to Expand AI Platform",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/lawvek-raises-550k-in-pre-seed-round-led-by-neon-fund-to-expand-ai-platform-12838222"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
+  "id": "e90d1974d8e2",
+  "date": "2026-11-24",
+  "company": "Cosine Robots",
+  "company_brief": "Cosine Robots is a Bengaluru-based deeptech startup that makes motion systems and servo actuators for robots, founded by Kiran Mathew Koshy and Delip Thomas.",
+  "sector": "AI & Deeptech",
+  "sub_sector": "Robotics components",
+  "round": "Undisclosed",
+  "amount_text": "Rs 22.36 Crore",
+  "amount_usd_mn": 2.541,
+  "amount_inr_cr": 22.36,
+  "lead_investors": [
+   "Avaana Capital"
+  ],
+  "investors": [
+   "WEH Ventures",
+   "Angel investors"
+  ],
+  "city": "Bengaluru",
+  "use_of_funds": "set up a research and production facility in Bengaluru",
+  "headline": "Cosine Robots Raises Rs 22.36 Crore Led by Avaana Capital to Expand Robotics Manufacturing",
+  "sources": [
+   {
+    "site": "viestories",
+    "url": "https://viestories.com/funding-alert/cosine-robots-raises-rs-2236-crore-led-by-avaana-capital-12836867"
+   }
+  ],
+  "extraction": "rules"
+ },
+ {
   "id": "22e154ab64ac",
   "date": "2026-11-23",
   "company": "Zavya",
